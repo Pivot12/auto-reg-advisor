@@ -10,7 +10,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // --- Config (all optional; sensible free-tier defaults) ---
 const LLM_BASE_URL = process.env.LLM_BASE_URL || "https://api.cerebras.ai/v1";
-const LLM_MODEL = process.env.LLM_MODEL || "llama-4-scout-17b-16e-instruct";
+// Cerebras retired llama-4-scout. gpt-oss-120b is current and is the model you already use most.
+// Other valid Cerebras IDs: "qwen-3-235b-a22b-instruct", "llama3.1-8b". Override via LLM_MODEL env var.
+const LLM_MODEL = process.env.LLM_MODEL || "gpt-oss-120b";
 const LLM_API_KEY = process.env.LLM_API_KEY || process.env.CEREBRAS_API_KEY || "";
 const JINA_API_KEY = process.env.JINA_API_KEY || ""; // optional: raises Jina rate limits
 const MAX_SOURCES = 3;
@@ -99,6 +101,27 @@ async function askLLM(question, docs) {
   return data.choices?.[0]?.message?.content?.trim() || "No answer generated.";
 }
 
+// Fire-and-forget analytics: append one row to a Google Sheet via an Apps Script webhook.
+// No DB, no cost. Captures coarse geo from Vercel edge headers. No personal identity is collected.
+function logEvent(req, payload) {
+  const url = process.env.SHEETS_WEBHOOK_URL;
+  if (!url) return;
+  const row = {
+    ts: new Date().toISOString(),
+    country: req.headers["x-vercel-ip-country"] || "",
+    region: req.headers["x-vercel-ip-country-region"] || "",
+    city: req.headers["x-vercel-ip-city"] || "",
+    ua: (req.headers["user-agent"] || "").slice(0, 200),
+    ...payload,
+  };
+  // don't block the response; swallow all errors
+  fetchWithTimeout(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(row),
+  }, 3000).catch(() => {});
+}
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     res.status(405).json({ error: "Use POST" });
@@ -131,6 +154,12 @@ export default async function handler(req, res) {
     }
 
     const answer = await askLLM(question, scraped);
+    logEvent(req, {
+      question,
+      sources: scraped.map((s) => s.key).join("|"),
+      status: "ok",
+      answer_chars: answer.length,
+    });
     res.status(200).json({
       answer,
       sources: scraped.map((s) => ({ name: s.name, url: s.url })),
