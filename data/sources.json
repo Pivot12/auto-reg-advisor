@@ -1,0 +1,44 @@
+{
+  "_comment": "Official automotive regulatory sources. Ported from the original SimFreeAutoRegAdvisor config. Add/edit entries here only — the app and the nightly refresh both read this file.",
+  "sources": {
+    "US_NHTSA":   { "name": "US NHTSA (Laws & Regulations)", "url": "https://www.nhtsa.gov/laws-regulations", "region": "us" },
+    "US_EPA":     { "name": "US EPA (Vehicle & Engine Emissions)", "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines", "region": "us" },
+    "EU_COMMISSION": { "name": "EU Commission (Automotive Industry)", "url": "https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en", "region": "eu" },
+    "UNECE":      { "name": "UNECE (Vehicle Regulations / WP.29)", "url": "https://unece.org/transport/vehicle-regulations", "region": "global" },
+    "ACEA":       { "name": "ACEA (EU Auto Manufacturers Assn.)", "url": "https://www.acea.auto/regulations/", "region": "eu" },
+    "UK_VCA":     { "name": "UK Vehicle Certification Agency", "url": "https://www.vehicle-certification-agency.gov.uk/", "region": "uk" },
+    "JAPAN_MLIT": { "name": "Japan MLIT", "url": "https://www.mlit.go.jp/en/", "region": "japan" },
+    "INDIA_MORTH":{ "name": "India MoRTH", "url": "https://morth.nic.in/", "region": "india" },
+    "AUSTRALIA":  { "name": "Australia Dept. of Infrastructure (Vehicle Design)", "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation", "region": "australia" }
+  },
+  "topicRouting": {
+    "emission":        ["US_EPA", "EU_COMMISSION", "UNECE"],
+    "co2":             ["US_EPA", "EU_COMMISSION", "UNECE"],
+    "safety":          ["US_NHTSA", "UNECE", "EU_COMMISSION"],
+    "crash":           ["US_NHTSA", "UNECE"],
+    "homologation":    ["EU_COMMISSION", "UNECE", "UK_VCA"],
+    "type approval":   ["EU_COMMISSION", "UNECE", "UK_VCA"],
+    "type-approval":   ["EU_COMMISSION", "UNECE", "UK_VCA"],
+    "certification":   ["UK_VCA", "EU_COMMISSION", "UNECE"],
+    "electric":        ["US_EPA", "EU_COMMISSION", "UNECE"],
+    "ev":              ["US_EPA", "EU_COMMISSION", "UNECE"],
+    "battery":         ["UNECE", "EU_COMMISSION"],
+    "fuel":            ["US_EPA", "EU_COMMISSION"],
+    "lighting":        ["UNECE", "EU_COMMISSION"],
+    "noise":           ["UNECE", "EU_COMMISSION"],
+    "adas":            ["UNECE", "US_NHTSA", "EU_COMMISSION"],
+    "autonomous":      ["UNECE", "US_NHTSA", "EU_COMMISSION"],
+    "recall":          ["US_NHTSA"],
+    "import":          ["UK_VCA", "AUSTRALIA", "INDIA_MORTH"]
+  },
+  "regionRouting": {
+    "us": ["US_NHTSA", "US_EPA"], "usa": ["US_NHTSA", "US_EPA"], "united states": ["US_NHTSA", "US_EPA"], "america": ["US_NHTSA", "US_EPA"],
+    "eu": ["EU_COMMISSION", "UNECE"], "europe": ["EU_COMMISSION", "UNECE"], "european": ["EU_COMMISSION", "UNECE"],
+    "uk": ["UK_VCA", "UNECE"], "britain": ["UK_VCA", "UNECE"], "england": ["UK_VCA", "UNECE"],
+    "japan": ["JAPAN_MLIT", "UNECE"], "japanese": ["JAPAN_MLIT", "UNECE"],
+    "india": ["INDIA_MORTH", "UNECE"], "indian": ["INDIA_MORTH", "UNECE"],
+    "australia": ["AUSTRALIA", "UNECE"], "australian": ["AUSTRALIA", "UNECE"],
+    "global": ["UNECE", "ACEA"], "worldwide": ["UNECE", "ACEA"], "international": ["UNECE", "ACEA"]
+  },
+  "defaultSources": ["UNECE", "US_NHTSA", "EU_COMMISSION"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "auto-reg-advisor",
+  "version": "2.0.0",
+  "description": "Global automotive regulation Q&A, grounded in official sources. Static UI + serverless, $0 stack.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs"
+  }
+}
