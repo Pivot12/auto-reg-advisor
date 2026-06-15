@@ -107,6 +107,8 @@ function logEvent(req, payload) {
   const url = process.env.SHEETS_WEBHOOK_URL;
   if (!url) return;
   const row = {
+    type: "query",
+    app: "Auto Reg Advisor",
     ts: new Date().toISOString(),
     country: req.headers["x-vercel-ip-country"] || "",
     region: req.headers["x-vercel-ip-country-region"] || "",

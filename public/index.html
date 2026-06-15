@@ -4,170 +4,687 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Auto Reg Advisor — Global Automotive Regulations, Answered from Source</title>
-<meta name="description" content="Ask any automotive regulation question and get an answer grounded in official sources: NHTSA, EPA, UNECE, EU Commission, UK VCA and more." />
+<meta name="description" content="Ask any automotive regulation question and get an answer grounded in official sources: NHTSA, EPA, UNECE, EU Commission, UK VCA, Japan MLIT, India MoRTH and more. AI agents read the official government sources live and cite them." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0b0f17; --panel:#111725; --panel-2:#0e1420; --line:#1e2738;
-    --text:#e8edf6; --muted:#8a97ad; --accent:#4f8cff; --accent-2:#7c5cff;
-    --user:#1b2438; --ok:#34d399; --warn:#fbbf24; --radius:16px;
-    --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --paper:#FAF8F3; --surface:#FFFFFF; --line:#EAE6DD;
+    --ink:#1A1A1A; --muted:#6E6A60; --soft:#97928A;
+    --navy:#1F3A5F; --navy-soft:rgba(31,58,95,.08); --navy-line:rgba(31,58,95,.22);
+    --gold:#B8862F; --gold-soft:rgba(184,134,47,.10);
+    --shadow:0 1px 2px rgba(20,20,20,.04), 0 10px 30px rgba(20,20,20,.05);
+    --shadow-sm:0 1px 2px rgba(20,20,20,.04), 0 4px 14px rgba(20,20,20,.04);
+    --radius:14px;
+    --serif:"Fraunces",Georgia,"Times New Roman",serif;
+    --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   }
   *{box-sizing:border-box}
   html,body{height:100%}
   body{
-    margin:0;background:radial-gradient(1200px 600px at 80% -10%,#16203a 0%,transparent 60%),var(--bg);
-    color:var(--text);font-family:var(--font);display:flex;flex-direction:column;height:100dvh;
+    margin:0;color:var(--ink);font-family:var(--sans);background:var(--paper);
+    display:flex;flex-direction:column;min-height:100dvh;-webkit-font-smoothing:antialiased;
   }
-  header{
-    padding:18px 22px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:12px;
-    backdrop-filter:blur(8px);position:sticky;top:0;z-index:5;
+  /* faint paper texture + dotted graticule in accent, very low opacity */
+  .bg-pattern{position:fixed;inset:0;z-index:-1;opacity:.04;pointer-events:none;background-repeat:repeat;
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'><g fill='none' stroke='%231F3A5F' stroke-width='0.6'><circle cx='60' cy='60' r='52'/><circle cx='60' cy='60' r='34'/><circle cx='60' cy='60' r='16'/><path d='M0 60 H120 M60 0 V120'/></g><g fill='%231F3A5F'><circle cx='0' cy='0' r='1'/><circle cx='60' cy='0' r='1'/><circle cx='120' cy='0' r='1'/><circle cx='0' cy='60' r='1'/><circle cx='120' cy='60' r='1'/><circle cx='0' cy='120' r='1'/><circle cx='60' cy='120' r='1'/><circle cx='120' cy='120' r='1'/></g></svg>");
   }
-  .logo{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--accent),var(--accent-2));
-    display:grid;place-items:center;font-size:18px;box-shadow:0 4px 18px rgba(79,140,255,.35)}
-  .title{font-weight:700;font-size:16px;letter-spacing:.2px}
+
+  /* HEADER */
+  header{padding:18px 26px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:14px;background:rgba(250,248,243,.82);backdrop-filter:blur(10px);position:sticky;top:0;z-index:5}
+  .logo{flex:0 0 auto;display:grid;place-items:center}
+  .title{font-family:var(--serif);font-weight:600;font-size:19px;letter-spacing:.1px;color:var(--ink)}
   .subtitle{color:var(--muted);font-size:12px;margin-top:1px}
-  main{flex:1;overflow-y:auto;padding:24px 0}
-  .wrap{max-width:820px;margin:0 auto;padding:0 18px}
-  .hero{text-align:center;padding:36px 0 18px}
-  .hero h1{font-size:26px;margin:0 0 8px;background:linear-gradient(120deg,#fff,#9fc0ff);-webkit-background-clip:text;background-clip:text;color:transparent}
-  .hero p{color:var(--muted);margin:0 auto;max-width:560px;font-size:14px;line-height:1.55}
-  .chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:22px 0 0}
-  .chip{border:1px solid var(--line);background:var(--panel);color:var(--text);padding:10px 14px;border-radius:999px;
-    font-size:13px;cursor:pointer;transition:.15s;line-height:1.2}
-  .chip:hover{border-color:var(--accent);transform:translateY(-1px)}
-  .msg{display:flex;gap:12px;margin:18px 0;animation:fade .25s ease}
+  .coverage{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;max-width:50%}
+  .flag{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:3px 10px;white-space:nowrap;background:var(--surface)}
+
+  /* TABS */
+  .tabbar{position:sticky;top:0;z-index:4;background:rgba(250,248,243,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  .tabs{max-width:1080px;margin:0 auto;padding:0 22px;display:flex;gap:4px}
+  .tab{appearance:none;background:none;border:none;font-family:var(--sans);font-size:14.5px;font-weight:600;color:var(--soft);padding:15px 6px 13px;margin-right:22px;cursor:pointer;position:relative;letter-spacing:.1px;transition:color .15s}
+  .tab:hover{color:var(--ink)}
+  .tab[aria-selected="true"]{color:var(--navy)}
+  .tab[aria-selected="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--navy);border-radius:2px}
+  .tab:focus-visible{outline:2px solid var(--navy);outline-offset:3px;border-radius:4px}
+
+  main{flex:1;overflow-y:auto;padding:14px 0 8px}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+  .panel{display:none;animation:rise .4s ease both}
+  .panel.show{display:block}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+
+  /* HERO */
+  .hero{text-align:center;padding:40px 0 8px}
+  .eyebrow{display:inline-block;font-size:11px;letter-spacing:1.6px;text-transform:uppercase;color:var(--gold);border:1px solid var(--line);background:var(--gold-soft);padding:6px 14px;border-radius:999px;margin-bottom:22px;font-weight:600}
+  .hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(38px,5vw,60px);line-height:1.04;margin:0 0 16px;letter-spacing:-.5px;max-width:880px;margin-left:auto;margin-right:auto}
+  .hero h1 .em{color:var(--navy);font-style:italic}
+  .hero p{color:var(--muted);margin:0 auto;max-width:560px;font-size:16px;line-height:1.65}
+
+  /* hero line-art motif */
+  .hero-art{display:flex;justify-content:center;margin:28px 0 4px}
+  .hero-art svg{width:min(420px,86%);height:auto;opacity:.9}
+
+  /* HOW THE AGENTS WORK — permanent diagram */
+  .how{margin:38px auto 0;max-width:920px;border:1px solid var(--line);background:var(--surface);border-radius:18px;padding:26px 24px 20px;box-shadow:var(--shadow)}
+  .how-head{font-family:var(--serif);font-size:18px;font-weight:600;color:var(--ink);text-align:center;margin:0 0 5px}
+  .how-sub{text-align:center;color:var(--muted);font-size:13px;margin:0 0 24px}
+  .flow{display:flex;align-items:stretch;justify-content:center;gap:0;flex-wrap:nowrap}
+  .stage{flex:1 1 0;min-width:0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:0 4px;position:relative}
+  .stage .num{font-size:10px;letter-spacing:1.5px;color:var(--gold);font-weight:600}
+  .stage .badge{width:48px;height:48px;border-radius:13px;border:1px solid var(--navy-line);background:var(--navy-soft);display:grid;place-items:center;margin:8px 0 10px}
+  .stage .badge svg{width:24px;height:24px}
+  .stage .nm{font-size:13px;font-weight:600;line-height:1.25;color:var(--ink)}
+  .stage .ds{font-size:11.5px;color:var(--muted);line-height:1.4;margin-top:4px}
+  .connector{flex:0 0 28px;display:flex;align-items:center;justify-content:center;padding-top:36px;color:var(--gold);opacity:.8}
+  .connector svg{width:22px;height:14px}
+  .how-cov{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+  .how-cov .clbl{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--soft);text-align:center;margin-bottom:12px;font-weight:600}
+  .cov-grid{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+  .cov-badge{display:flex;flex-direction:column;align-items:flex-start;gap:1px;border:1px solid var(--line);border-radius:11px;padding:8px 12px;background:var(--paper)}
+  .cov-badge .r{font-size:12.5px;font-weight:600;color:var(--ink)}
+  .cov-badge .a{font-size:11px;color:var(--muted)}
+
+  /* TRY CHIPS */
+  .try-wrap{margin:34px 0 6px;text-align:center}
+  .try-lbl{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:14px;display:inline-flex;align-items:center;gap:9px}
+  .try-lbl::before,.try-lbl::after{content:"";display:inline-block;width:30px;height:1px;background:var(--line)}
+  .chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;max-width:760px;margin:0 auto}
+  .chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:11px 16px;border-radius:999px;font-size:13px;cursor:pointer;transition:.15s;line-height:1.25;text-align:left;box-shadow:var(--shadow-sm)}
+  .chip:hover{border-color:var(--navy-line);background:var(--navy-soft);transform:translateY(-1px)}
+  .chip:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+
+  /* MESSAGES */
+  .msg{display:flex;gap:13px;margin:20px 0;animation:fade .25s ease;max-width:880px;margin-left:auto;margin-right:auto}
   @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-  .avatar{flex:0 0 34px;height:34px;width:34px;border-radius:9px;display:grid;place-items:center;font-size:16px}
-  .a-user{background:var(--user)}
-  .a-bot{background:linear-gradient(135deg,var(--accent),var(--accent-2))}
-  .bubble{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px;line-height:1.6;font-size:15px;max-width:100%;overflow-wrap:anywhere}
-  .msg.user .bubble{background:var(--panel-2)}
-  .bubble h1,.bubble h2,.bubble h3{font-size:15px;margin:.6em 0 .3em}
-  .bubble p{margin:.5em 0}
-  .bubble ul,.bubble ol{margin:.4em 0;padding-left:1.2em}
-  .bubble code{background:#0a0e16;border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:13px}
-  .bubble a{color:var(--accent)}
-  .sources{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px}
-  .sources .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.7px;color:var(--muted);margin-bottom:6px}
-  .src{display:block;font-size:13px;color:var(--accent);text-decoration:none;margin:3px 0}
+  .avatar{flex:0 0 36px;height:36px;width:36px;border-radius:10px;display:grid;place-items:center}
+  .avatar svg{width:19px;height:19px}
+  .a-user{background:var(--navy-soft);color:var(--navy);border:1px solid var(--navy-line)}
+  .a-bot{background:var(--navy);color:#fff}
+  .bubble{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:15px 17px;line-height:1.65;font-size:15px;max-width:100%;overflow-wrap:anywhere;box-shadow:var(--shadow-sm)}
+  .msg.user .bubble{background:var(--paper)}
+  .bubble h1,.bubble h2,.bubble h3{font-family:var(--serif);font-size:16px;font-weight:600;margin:.6em 0 .3em;color:var(--ink)}
+  .bubble p{margin:.5em 0} .bubble ul,.bubble ol{margin:.4em 0;padding-left:1.2em}
+  .bubble code{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:13px}
+  .bubble a{color:var(--navy);font-weight:500}
+  .sources{margin-top:13px;border-top:1px solid var(--line);padding-top:11px}
+  .sources .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.9px;color:var(--soft);margin-bottom:7px;font-weight:600}
+  .src{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--navy);text-decoration:none;margin:5px 0;font-weight:500}
+  .src svg{width:14px;height:14px;flex:0 0 14px;color:var(--gold)}
   .src:hover{text-decoration:underline}
-  .status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
-  .dots{display:inline-flex;gap:4px}
-  .dots i{width:6px;height:6px;border-radius:50%;background:var(--accent);animation:b 1s infinite}
-  .dots i:nth-child(2){animation-delay:.15s}.dots i:nth-child(3){animation-delay:.3s}
-  @keyframes b{0%,60%,100%{opacity:.3;transform:translateY(0)}30%{opacity:1;transform:translateY(-3px)}}
-  footer{border-top:1px solid var(--line);background:var(--panel-2)}
-  .composer{max-width:820px;margin:0 auto;padding:14px 18px;display:flex;gap:10px;align-items:flex-end}
-  textarea{flex:1;resize:none;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;
-    padding:12px 14px;font-family:var(--font);font-size:15px;max-height:160px;line-height:1.4;outline:none}
-  textarea:focus{border-color:var(--accent)}
-  .send{flex:0 0 auto;background:linear-gradient(135deg,var(--accent),var(--accent-2));border:none;color:#fff;
-    height:46px;width:46px;border-radius:12px;cursor:pointer;font-size:18px;display:grid;place-items:center;transition:.15s}
-  .send:disabled{opacity:.5;cursor:not-allowed}
-  .send:not(:disabled):hover{transform:translateY(-1px)}
-  .disclaimer{text-align:center;color:var(--muted);font-size:11px;padding:0 18px 12px;max-width:820px;margin:0 auto}
+
+  /* live agent pipeline */
+  .pipe{display:flex;flex-direction:column;gap:10px}
+  .step{display:flex;align-items:center;gap:11px;font-size:14px;color:var(--soft);transition:.2s}
+  .step .ic{width:22px;height:22px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center;font-size:12px;flex:0 0 22px}
+  .step.active{color:var(--ink)} .step.active .ic{border-color:var(--navy);color:var(--navy);animation:pulse 1s infinite}
+  .step.done{color:var(--ink)} .step.done .ic{border-color:var(--gold);color:var(--gold);background:var(--gold-soft)}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(31,58,95,.25)}50%{box-shadow:0 0 0 5px rgba(31,58,95,0)}}
+  .agent-srcs{display:flex;gap:6px;flex-wrap:wrap;margin:2px 0 2px 33px}
+  .agent-srcs .flag{font-size:11px;opacity:0;transform:translateY(3px);transition:.3s}
+  .agent-srcs .flag.on{opacity:1;transform:none;border-color:var(--navy-line);color:var(--ink)}
+
+  /* CONTACT */
+  .contact{margin:52px auto 8px;max-width:640px;border:1px solid var(--line);background:var(--surface);border-radius:18px;padding:28px 26px;box-shadow:var(--shadow)}
+  .contact h2{font-family:var(--serif);font-size:22px;font-weight:600;margin:0 0 6px;color:var(--ink)}
+  .contact .lead{color:var(--muted);font-size:14px;margin:0 0 20px;line-height:1.6}
+  .field{margin-bottom:15px;display:flex;flex-direction:column;gap:7px}
+  .field label{font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.3px}
+  .field input,.field textarea{background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-family:var(--sans);font-size:14px;outline:none;transition:.15s;width:100%}
+  .field textarea{resize:vertical;min-height:96px;line-height:1.5}
+  .field input:focus,.field textarea:focus{border-color:var(--navy);box-shadow:0 0 0 3px var(--navy-soft);background:var(--surface)}
+  .btn{background:var(--navy);color:#fff;border:none;font-weight:600;font-size:14px;padding:13px 24px;border-radius:10px;cursor:pointer;transition:.15s;font-family:var(--sans);letter-spacing:.2px}
+  .btn:hover{background:#16304f;transform:translateY(-1px);box-shadow:0 8px 22px rgba(31,58,95,.18)}
+  .btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  .form-note{font-size:12px;color:var(--soft);margin-top:12px;line-height:1.55}
+  .form-note a{color:var(--navy)}
+  .form-ok{display:none;align-items:center;gap:10px;border:1px solid var(--navy-line);background:var(--navy-soft);border-radius:12px;padding:16px;font-size:14px;color:var(--ink)}
+  .form-ok svg{width:20px;height:20px;flex:0 0 20px;color:var(--gold)}
+
+  /* ===== REGULATORY WATCH TAB ===== */
+  .watch-hero{text-align:center;padding:40px 0 4px}
+  .watch-hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(34px,4.5vw,52px);line-height:1.06;margin:0 0 16px;letter-spacing:-.5px;max-width:820px;margin-left:auto;margin-right:auto}
+  .watch-hero h1 .em{color:var(--navy);font-style:italic}
+  .watch-hero p{color:var(--muted);margin:0 auto;max-width:560px;font-size:16px;line-height:1.65}
+  .pill{display:inline-block;font-size:11px;letter-spacing:1.6px;text-transform:uppercase;color:var(--navy);border:1px solid var(--navy-line);background:var(--navy-soft);padding:6px 14px;border-radius:999px;margin-bottom:22px;font-weight:600}
+
+  .watch-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:22px;margin:38px 0 0;align-items:start}
+  .card{border:1px solid var(--line);background:var(--surface);border-radius:18px;padding:26px 24px;box-shadow:var(--shadow)}
+  .card h2{font-family:var(--serif);font-size:20px;font-weight:600;margin:0 0 5px;color:var(--ink)}
+  .card .sub{color:var(--muted);font-size:13.5px;margin:0 0 18px;line-height:1.55}
+
+  /* monitored authorities list */
+  .region-group{margin-bottom:16px}
+  .region-group:last-child{margin-bottom:0}
+  .region-head{font-size:10.5px;letter-spacing:1.4px;text-transform:uppercase;color:var(--soft);font-weight:600;margin:0 0 8px}
+  .auth-row{display:flex;align-items:center;gap:10px;padding:9px 12px;border:1px solid var(--line);border-radius:11px;background:var(--paper);margin-bottom:7px}
+  .auth-row:last-child{margin-bottom:0}
+  .dot{flex:0 0 8px;width:8px;height:8px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 3px var(--gold-soft);animation:breathe 2.4s ease-in-out infinite}
+  @keyframes breathe{0%,100%{opacity:1}50%{opacity:.45}}
+  .auth-name{font-size:13.5px;font-weight:600;color:var(--ink);flex:1;min-width:0}
+  .auth-meta{font-size:11px;color:var(--soft);white-space:nowrap}
+
+  /* subscribe */
+  .subscribe{position:relative;overflow:hidden}
+  .subscribe::before{content:"";position:absolute;inset:0;background:linear-gradient(160deg,rgba(31,58,95,.04),rgba(184,134,47,.04));pointer-events:none}
+  .subscribe > *{position:relative}
+  .price-tag{display:inline-flex;align-items:baseline;gap:6px;margin-bottom:14px}
+  .price-tag .amt{font-family:var(--serif);font-size:15px;font-weight:600;color:var(--navy)}
+  .price-tag .free{font-family:var(--serif);font-size:15px;font-weight:600;color:var(--ink)}
+  .price-tag .note{font-size:12px;color:var(--soft)}
+  .feat-list{list-style:none;padding:0;margin:0 0 18px}
+  .feat-list li{display:flex;align-items:flex-start;gap:9px;font-size:13.5px;color:var(--ink);margin:9px 0;line-height:1.45}
+  .feat-list svg{width:16px;height:16px;flex:0 0 16px;color:var(--gold);margin-top:1px}
+  .sub-ok{display:none;align-items:flex-start;gap:11px;border:1px solid var(--navy-line);background:var(--navy-soft);border-radius:12px;padding:16px;font-size:14px;color:var(--ink);line-height:1.5}
+  .sub-ok svg{width:20px;height:20px;flex:0 0 20px;color:var(--gold);margin-top:1px}
+
+  /* recent changes */
+  .changes{margin:22px 0 8px}
+  .changes h2{font-family:var(--serif);font-size:20px;font-weight:600;margin:0 0 5px;color:var(--ink)}
+  .changes .sub{color:var(--muted);font-size:13.5px;margin:0 0 16px}
+  .change-item{display:flex;gap:14px;padding:15px 0;border-bottom:1px solid var(--line)}
+  .change-item:last-child{border-bottom:none}
+  .change-date{flex:0 0 92px;font-size:12px;color:var(--soft);font-weight:600;letter-spacing:.2px}
+  .change-body{flex:1;min-width:0}
+  .change-auth{font-size:13.5px;font-weight:600;color:var(--ink)}
+  .change-auth .reg{display:inline-block;font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--navy);background:var(--navy-soft);border:1px solid var(--navy-line);border-radius:999px;padding:2px 8px;margin-left:8px;vertical-align:middle}
+  .change-note{font-size:13px;color:var(--muted);margin-top:3px;line-height:1.5}
+  .change-note a{color:var(--navy)}
+  .changes-empty{font-size:14px;color:var(--muted);text-align:center;padding:24px 12px;border:1px dashed var(--line);border-radius:12px;background:var(--paper);line-height:1.55}
+
+  /* COMPOSER */
+  footer.composer-bar{border-top:1px solid var(--line);background:rgba(255,255,255,.85);backdrop-filter:blur(10px);position:sticky;bottom:0;z-index:4}
+  .composer{max-width:880px;margin:0 auto;padding:15px 22px;display:flex;gap:10px;align-items:flex-end}
+  textarea#input{flex:1;resize:none;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:13px 15px;font-family:var(--sans);font-size:15px;max-height:160px;line-height:1.4;outline:none;transition:.15s;box-shadow:var(--shadow-sm)}
+  textarea#input::placeholder{color:var(--soft)}
+  textarea#input:focus{border-color:var(--navy);box-shadow:0 0 0 3px var(--navy-soft)}
+  .send{flex:0 0 auto;background:var(--navy);border:none;color:#fff;height:48px;width:48px;border-radius:12px;cursor:pointer;display:grid;place-items:center;transition:.15s}
+  .send svg{width:20px;height:20px}
+  .send:disabled{opacity:.45;cursor:not-allowed} .send:not(:disabled):hover{background:#16304f;transform:translateY(-1px)}
+  .send:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  .disclaimer{text-align:center;color:var(--soft);font-size:11px;padding:0 18px 10px;max-width:880px;margin:0 auto}
+
+  /* SITE FOOTER */
+  .site-foot{border-top:1px solid var(--line);background:var(--paper);padding:20px;text-align:center;font-size:12px;color:var(--muted)}
+  .site-foot a{color:var(--navy);text-decoration:none;font-weight:500}
+  .site-foot a:hover{text-decoration:underline}
+  .site-foot .sep{margin:0 8px;opacity:.5}
+
+  a:focus-visible,button:focus-visible,.chip:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+
+  @media(max-width:860px){
+    .watch-grid{grid-template-columns:1fr}
+  }
+  @media(max-width:680px){
+    .coverage{display:none}
+    .flow{flex-wrap:wrap;gap:16px 0;justify-content:center}
+    .stage{flex:1 1 40%;min-width:120px}
+    .connector{display:none}
+    .how{padding:20px 16px}
+    .tabs{padding:0 18px}
+  }
+  @media(max-width:400px){
+    .stage{flex:1 1 100%}
+    .wrap{padding:0 16px}
+    .change-item{flex-direction:column;gap:4px}
+    .change-date{flex:none}
+  }
 </style>
 </head>
 <body>
+<div class="bg-pattern"></div>
+
 <header>
-  <div class="logo">⚖️</div>
+  <div class="logo" aria-label="Auto Reg Advisor logo">
+    <!-- Refined balance-scale / sealed-document mark -->
+    <svg width="36" height="36" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+      <defs>
+        <linearGradient id="goldg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#d6a945"/><stop offset="1" stop-color="#9e7223"/>
+        </linearGradient>
+      </defs>
+      <rect x="1.5" y="1.5" width="45" height="45" rx="11" fill="#FFFFFF" stroke="#EAE6DD"/>
+      <g stroke="#1F3A5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M24 11 V37"/>
+        <path d="M15 37 H33"/>
+        <path d="M11 16 H37"/>
+        <circle cx="24" cy="13" r="1.6" fill="#1F3A5F" stroke="none"/>
+        <path d="M11 16 L7 25 H15 L11 16Z" fill="url(#goldg)" stroke="url(#goldg)"/>
+        <path d="M37 16 L33 25 H41 L37 16Z" fill="url(#goldg)" stroke="url(#goldg)"/>
+      </g>
+    </svg>
+  </div>
   <div>
     <div class="title">Auto Reg Advisor</div>
     <div class="subtitle">Global automotive regulations · answered from official sources</div>
   </div>
+  <div class="coverage" id="covBar"></div>
 </header>
 
+<!-- TAB BAR -->
+<div class="tabbar">
+  <div class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab" id="tab-ask" role="tab" aria-selected="true" aria-controls="panel-ask">Ask</button>
+    <button class="tab" id="tab-watch" role="tab" aria-selected="false" aria-controls="panel-watch">Regulatory Watch</button>
+  </div>
+</div>
+
 <main id="main">
-  <div class="wrap" id="thread">
-    <div class="hero" id="hero">
-      <h1>Ask about any automotive regulation, worldwide.</h1>
-      <p>Grounded in official sources — NHTSA, EPA, UNECE, the EU Commission, UK VCA, Japan MLIT, India MoRTH and more. Answers cite their sources and won't invent regulations.</p>
-      <div class="chips" id="chips">
-        <div class="chip">What are the latest EU CO₂ emission targets for passenger cars?</div>
-        <div class="chip">Which UNECE regulation covers vehicle lighting?</div>
-        <div class="chip">What does US FMVSS require for automatic emergency braking?</div>
-        <div class="chip">How does type approval differ between the EU and UK after Brexit?</div>
+  <!-- ============ ASK PANEL ============ -->
+  <div class="wrap panel show" id="panel-ask" role="tabpanel" aria-labelledby="tab-ask">
+    <div id="thread">
+      <div class="hero" id="hero">
+        <span class="eyebrow">Grounded in official government sources</span>
+        <h1>Ask about any automotive regulation, <span class="em">worldwide.</span></h1>
+        <p>AI agents read the official sources live — then answer with citations, and won't invent regulations.</p>
+
+        <!-- elegant line-art globe / scale motif -->
+        <div class="hero-art" aria-hidden="true">
+          <svg viewBox="0 0 420 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g stroke="#1F3A5F" stroke-width="1.1" opacity=".55" fill="none">
+              <circle cx="210" cy="75" r="56"/>
+              <ellipse cx="210" cy="75" rx="22" ry="56"/>
+              <ellipse cx="210" cy="75" rx="44" ry="56"/>
+              <path d="M154 75 H266"/>
+              <path d="M161 50 H259 M161 100 H259"/>
+            </g>
+            <g stroke="#B8862F" stroke-width="1.1" stroke-linecap="round" fill="none">
+              <path d="M210 19 V8"/>
+              <path d="M120 38 H300" opacity=".5"/>
+              <path d="M120 38 L104 64 H136 L120 38Z" fill="rgba(184,134,47,.07)"/>
+              <path d="M300 38 L284 64 H316 L300 38Z" fill="rgba(184,134,47,.07)"/>
+            </g>
+            <circle cx="210" cy="8" r="2.2" fill="#B8862F"/>
+          </svg>
+        </div>
+
+        <!-- PERMANENT "How the agents work" diagram -->
+        <section class="how" aria-label="How the agents work">
+          <h2 class="how-head">How the agents work</h2>
+          <p class="how-sub">Every question runs through a five-stage agent pipeline — live, on official sources.</p>
+          <div class="flow" id="flow"></div>
+
+          <div class="how-cov">
+            <div class="clbl">Region coverage</div>
+            <div class="cov-grid" id="covGrid"></div>
+          </div>
+        </section>
+
+        <!-- TRY ONE chips -->
+        <div class="try-wrap">
+          <div class="try-lbl">Try one</div>
+          <div class="chips" id="chips">
+            <button type="button" class="chip">What are the latest EU CO₂ emission targets for passenger cars?</button>
+            <button type="button" class="chip">Which UNECE regulation covers vehicle lighting?</button>
+            <button type="button" class="chip">What does US FMVSS require for automatic emergency braking?</button>
+            <button type="button" class="chip">How does type approval differ between the EU and UK?</button>
+          </div>
+        </div>
+
+        <!-- CONTACT -->
+        <section class="contact" id="contact" aria-label="Contact">
+          <h2>Get in touch</h2>
+          <p class="lead">Questions, corrections, or a source we should add? Send a note — we read every message.</p>
+          <form id="contactForm" novalidate>
+            <div class="field">
+              <label for="cf-name">Name</label>
+              <input type="text" id="cf-name" name="name" autocomplete="name" placeholder="Your name" />
+            </div>
+            <div class="field">
+              <label for="cf-email">Email</label>
+              <input type="email" id="cf-email" name="email" autocomplete="email" required placeholder="you@example.com" />
+            </div>
+            <div class="field">
+              <label for="cf-message">Message</label>
+              <textarea id="cf-message" name="message" placeholder="How can we help?"></textarea>
+            </div>
+            <button type="submit" class="btn">Send message</button>
+            <p class="form-note">We use your details only to reply — never sold. See our <a href="privacy.html">Privacy policy</a>.</p>
+          </form>
+          <div class="form-ok" id="formOk" role="status">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+            <span>Thanks — your message is on its way. We'll be in touch.</span>
+          </div>
+        </section>
       </div>
     </div>
   </div>
+
+  <!-- ============ REGULATORY WATCH PANEL ============ -->
+  <div class="wrap panel" id="panel-watch" role="tabpanel" aria-labelledby="tab-watch" hidden>
+    <div class="watch-hero">
+      <span class="pill">Regulatory Watch</span>
+      <h1>We watch the rulebooks <span class="em">so you don't have to.</span></h1>
+      <p>We check the world's automotive regulators every day and email you when something changes.</p>
+    </div>
+
+    <div class="watch-grid">
+      <!-- Monitored authorities -->
+      <section class="card" aria-label="Monitored authorities">
+        <h2>Monitored authorities</h2>
+        <p class="sub">Every source below is fetched and diffed daily. A change in any of them triggers an alert.</p>
+        <div id="authList"></div>
+      </section>
+
+      <!-- Subscribe -->
+      <section class="card subscribe" aria-label="Subscribe to change alerts">
+        <h2>Get the change alerts</h2>
+        <p class="sub">Free Q&amp;A stays free. Change-monitoring is the upgrade — be the first to know when a rule moves.</p>
+        <div class="price-tag">
+          <span class="free">Early access</span>
+          <span class="note">— free while in beta, founding members keep preferred pricing</span>
+        </div>
+        <ul class="feat-list">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Daily checks across all monitored regulators</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> An email the moment a source changes — with a link to the page</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Plain-language note on what moved and where</li>
+        </ul>
+        <form id="subForm" novalidate>
+          <div class="field">
+            <label for="sf-name">Name</label>
+            <input type="text" id="sf-name" name="name" autocomplete="name" placeholder="Your name" />
+          </div>
+          <div class="field">
+            <label for="sf-email">Email</label>
+            <input type="email" id="sf-email" name="email" autocomplete="email" required placeholder="you@example.com" />
+          </div>
+          <button type="submit" class="btn">Subscribe to alerts</button>
+          <p class="form-note">We use your email only to send change alerts — never sold. See our <a href="privacy.html">Privacy policy</a>.</p>
+        </form>
+        <div class="sub-ok" id="subOk" role="status">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          <span>You're on the list — we'll email you when the rules move.</span>
+        </div>
+      </section>
+    </div>
+
+    <!-- Recent changes -->
+    <section class="card changes" aria-label="Recent regulatory changes" style="margin-top:22px">
+      <h2>Recent changes</h2>
+      <p class="sub">The latest movements our daily watch has detected.</p>
+      <div id="changesArea"></div>
+    </section>
+  </div>
 </main>
 
-<footer>
+<footer class="composer-bar" id="composerBar">
   <div class="composer">
-    <textarea id="input" rows="1" placeholder="Ask about emissions, safety, homologation, type approval, EV standards…"></textarea>
-    <button class="send" id="send" title="Send">➤</button>
+    <textarea id="input" rows="1" placeholder="Ask about emissions, safety, homologation, type approval, EV standards…" aria-label="Ask a regulation question"></textarea>
+    <button class="send" id="send" title="Send" aria-label="Send">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4 20-7Z"/></svg>
+    </button>
   </div>
   <div class="disclaimer">For reference only. Always verify with the official regulatory authority before making compliance decisions.</div>
 </footer>
 
+<div class="site-foot">
+  © <span id="yr"></span> Auto Reg Advisor <span class="sep">·</span> <a href="privacy.html">Privacy</a>
+</div>
+
 <script>
-const thread = document.getElementById("thread");
-const hero = document.getElementById("hero");
-const input = document.getElementById("input");
-const send = document.getElementById("send");
-let busy = false;
+// ===== SHARED CONTRACT (identical across all three apps) =====
+const APP_NAME = "Auto Reg Advisor";
+const WEBHOOK_URL = "REPLACE_WITH_APPS_SCRIPT_URL"; // Neel pastes one URL into all apps
+const _t0 = Date.now();
+const _ctx = () => ({ app: APP_NAME, ts: new Date().toISOString(), tz: Intl.DateTimeFormat().resolvedOptions().timeZone, lang: navigator.language, ref: document.referrer });
+function _beacon(p){ if(!WEBHOOK_URL||WEBHOOK_URL.startsWith("REPLACE"))return; try{ const b=new Blob([JSON.stringify(p)],{type:"text/plain;charset=utf-8"}); navigator.sendBeacon ? navigator.sendBeacon(WEBHOOK_URL,b) : fetch(WEBHOOK_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(p),keepalive:true}); }catch(e){} }
+async function _post(p){ if(!WEBHOOK_URL||WEBHOOK_URL.startsWith("REPLACE"))return; try{ await fetch(WEBHOOK_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(p)}); }catch(e){} }
+// pageview
+_beacon({type:"pageview", path:location.pathname, ..._ctx()});
+// duration on hide
+document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="hidden"){ _beacon({type:"duration", app:APP_NAME, ts:new Date().toISOString(), seconds:Math.round((Date.now()-_t0)/1000)}); }});
 
-input.addEventListener("input", () => {
-  input.style.height = "auto";
-  input.style.height = Math.min(input.scrollHeight, 160) + "px";
+document.getElementById("yr").textContent=new Date().getFullYear();
+
+// ===== Coverage regions (matches data/sources.json) =====
+const REGIONS = [
+  {flag:"🇺🇸", name:"North America", auth:"NHTSA · EPA"},
+  {flag:"🇪🇺", name:"European Union", auth:"EU Commission · ACEA"},
+  {flag:"🌐", name:"UNECE (global)", auth:"WP.29 vehicle regs"},
+  {flag:"🇬🇧", name:"United Kingdom", auth:"VCA"},
+  {flag:"🇯🇵", name:"Japan", auth:"MLIT"},
+  {flag:"🇮🇳", name:"India", auth:"MoRTH"},
+  {flag:"🇦🇺", name:"Australia", auth:"Vehicle design"},
+];
+// header bar
+const covBar=document.getElementById("covBar");
+REGIONS.forEach(r=>{
+  const a=document.createElement("span");a.className="flag";a.title=r.auth;a.textContent=`${r.flag} ${r.name}`;covBar.appendChild(a);
 });
-input.addEventListener("keydown", (e) => {
-  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); ask(); }
-});
-send.addEventListener("click", ask);
-document.getElementById("chips").addEventListener("click", (e) => {
-  if (e.target.classList.contains("chip")) { input.value = e.target.textContent; ask(); }
+// hero coverage grid
+const covGrid=document.getElementById("covGrid");
+REGIONS.forEach(r=>{
+  const d=document.createElement("div");d.className="cov-badge";
+  d.innerHTML=`<span class="r">${r.flag} ${r.name}</span><span class="a">${r.auth}</span>`;
+  covGrid.appendChild(d);
 });
 
-// tiny, safe markdown -> html (escape first, then a few patterns)
-function md(s){
-  s = s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
-  s = s.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/`(.+?)`/g,"<code>$1</code>");
-  s = s.replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
-  const lines = s.split(/\n/); let html=""; let inList=false;
-  for(const ln of lines){
-    const m = ln.match(/^\s*[-*]\s+(.*)/);
-    if(m){ if(!inList){html+="<ul>";inList=true;} html+=`<li>${m[1]}</li>`; }
-    else { if(inList){html+="</ul>";inList=false;} if(ln.trim()) html+=`<p>${ln}</p>`; }
-  }
-  if(inList) html+="</ul>";
-  return html;
+// ===== Monitored authorities (Regulatory Watch) — grouped by region, mirrors data/sources.json =====
+const WATCH_GROUPS = [
+  {region:"North America", items:[
+    {name:"US NHTSA — Laws & Regulations"},
+    {name:"US EPA — Vehicle & Engine Emissions"},
+  ]},
+  {region:"European Union", items:[
+    {name:"EU Commission — Automotive Industry"},
+    {name:"ACEA — EU Auto Manufacturers Assn."},
+  ]},
+  {region:"Global", items:[
+    {name:"UNECE — Vehicle Regulations (WP.29)"},
+  ]},
+  {region:"United Kingdom", items:[
+    {name:"UK Vehicle Certification Agency"},
+  ]},
+  {region:"Japan", items:[
+    {name:"Japan MLIT"},
+  ]},
+  {region:"India", items:[
+    {name:"India MoRTH"},
+  ]},
+  {region:"Australia", items:[
+    {name:"Australia Dept. of Infrastructure — Vehicle Design"},
+  ]},
+];
+const WATCH_COUNT = WATCH_GROUPS.reduce((n,g)=>n+g.items.length,0);
+const authList=document.getElementById("authList");
+WATCH_GROUPS.forEach(g=>{
+  const grp=document.createElement("div");grp.className="region-group";
+  grp.innerHTML=`<div class="region-head">${g.region}</div>`+
+    g.items.map(it=>`<div class="auth-row"><span class="dot"></span><span class="auth-name">${it.name}</span><span class="auth-meta">checked daily</span></div>`).join("");
+  authList.appendChild(grp);
+});
+
+// ===== Permanent "How the agents work" flow diagram =====
+const ICONS={
+  understand:'<svg viewBox="0 0 24 24" fill="none" stroke="#1F3A5F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>',
+  route:'<svg viewBox="0 0 24 24" fill="none" stroke="#1F3A5F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="5" r="2.5"/><path d="M8.5 19H15a3.5 3.5 0 0 0 0-7H9a3.5 3.5 0 0 1 0-7h6.5"/></svg>',
+  read:'<svg viewBox="0 0 24 24" fill="none" stroke="#1F3A5F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg>',
+  extract:'<svg viewBox="0 0 24 24" fill="none" stroke="#1F3A5F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"/><path d="M14 2v6h6"/><path d="M8 13h8M8 17h5"/></svg>',
+  compose:'<svg viewBox="0 0 24 24" fill="none" stroke="#1F3A5F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3Z"/><path d="m18 13-1.5-7.5L2 2l3.5 14.5L13 18Z"/><path d="m2 2 7.586 7.586"/><circle cx="11" cy="11" r="2"/></svg>',
+};
+const STAGES=[
+  {ic:ICONS.understand, nm:"Understand", ds:"Parse the question & jurisdiction"},
+  {ic:ICONS.route,      nm:"Route",      ds:"Pick the right authorities"},
+  {ic:ICONS.read,       nm:"Read sources live", ds:"Open official sites in real time"},
+  {ic:ICONS.extract,    nm:"Extract",    ds:"Pull the relevant regulations"},
+  {ic:ICONS.compose,    nm:"Compose",    ds:"Answer with citations"},
+];
+const ARROW='<svg viewBox="0 0 22 14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1 7h18"/><path d="M14 2l5 5-5 5"/></svg>';
+const flow=document.getElementById("flow");
+STAGES.forEach((s,i)=>{
+  const st=document.createElement("div");st.className="stage";
+  st.innerHTML=`<span class="num">0${i+1}</span><span class="badge">${s.ic}</span><span class="nm">${s.nm}</span><span class="ds">${s.ds}</span>`;
+  flow.appendChild(st);
+  if(i<STAGES.length-1){const c=document.createElement("div");c.className="connector";c.innerHTML=ARROW;flow.appendChild(c);}
+});
+
+// ===== TABS =====
+const tabAsk=document.getElementById("tab-ask"), tabWatch=document.getElementById("tab-watch");
+const panelAsk=document.getElementById("panel-ask"), panelWatch=document.getElementById("panel-watch");
+const composerBar=document.getElementById("composerBar");
+let watchLoaded=false;
+function selectTab(which){
+  const ask=which==="ask";
+  tabAsk.setAttribute("aria-selected",ask?"true":"false");
+  tabWatch.setAttribute("aria-selected",ask?"false":"true");
+  panelAsk.classList.toggle("show",ask); panelAsk.hidden=!ask;
+  panelWatch.classList.toggle("show",!ask); panelWatch.hidden=ask;
+  composerBar.style.display=ask?"":"none"; // composer only relevant on Ask
+  document.getElementById("main").scrollTop=0;
+  if(!ask&&!watchLoaded){ watchLoaded=true; loadChanges(); }
 }
+tabAsk.addEventListener("click",()=>selectTab("ask"));
+tabWatch.addEventListener("click",()=>selectTab("watch"));
 
-function addMsg(role, htmlContent){
-  if(hero) hero.style.display="none";
-  const wrap = document.querySelector(".wrap");
-  const msg = document.createElement("div");
-  msg.className = "msg " + role;
-  msg.innerHTML = `<div class="avatar ${role==='user'?'a-user':'a-bot'}">${role==='user'?'🧑':'⚖️'}</div><div class="bubble">${htmlContent}</div>`;
-  wrap.appendChild(msg);
-  document.getElementById("main").scrollTop = document.getElementById("main").scrollHeight;
+// ===== Recent changes (graceful: file may not exist yet) =====
+async function loadChanges(){
+  const area=document.getElementById("changesArea");
+  try{
+    const r=await fetch("data/changes.json",{cache:"no-store"});
+    if(!r.ok) throw new Error("no file");
+    const data=await r.json();
+    const changes=Array.isArray(data.changes)?data.changes:[];
+    if(changes.length===0){
+      const n=(data.meta&&data.meta.sourcesMonitored)||WATCH_COUNT;
+      area.innerHTML=`<div class="changes-empty">Monitoring ${n} sources — first digest coming soon.</div>`;
+      return;
+    }
+    area.innerHTML=changes.slice(0,40).map(c=>{
+      const date=(c.date||"").slice(0,10);
+      const note=c.note?`<div class="change-note">${esc(c.note)}${c.url?` · <a href="${esc(c.url)}" target="_blank" rel="noopener">view source</a>`:""}</div>`:"";
+      const reg=c.region?`<span class="reg">${esc(c.region)}</span>`:"";
+      return `<div class="change-item"><div class="change-date">${esc(date)}</div><div class="change-body"><div class="change-auth">${esc(c.authority||"Source")}${reg}</div>${note}</div></div>`;
+    }).join("");
+  }catch(e){
+    area.innerHTML=`<div class="changes-empty">Monitoring ${WATCH_COUNT} sources — first digest coming soon.</div>`;
+  }
+}
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+// ===== Subscribe form (Regulatory Watch) =====
+const subForm=document.getElementById("subForm"), subOk=document.getElementById("subOk");
+subForm.addEventListener("submit",(e)=>{
+  e.preventDefault();
+  const name=document.getElementById("sf-name").value.trim();
+  const email=document.getElementById("sf-email").value.trim();
+  if(!email||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){
+    const em=document.getElementById("sf-email");em.focus();em.style.borderColor="#c0564a";return;
+  }
+  _post({type:"sample", name, email, ..._ctx()}); // emails Neel via shared webhook
+  subForm.style.display="none";
+  subOk.style.display="flex";
+});
+document.getElementById("sf-email").addEventListener("input",function(){this.style.borderColor="";});
+
+// ===== Chat logic (preserved) =====
+const thread=document.getElementById("thread"), hero=document.getElementById("hero");
+const input=document.getElementById("input"), send=document.getElementById("send");
+let busy=false;
+
+input.addEventListener("input",()=>{input.style.height="auto";input.style.height=Math.min(input.scrollHeight,160)+"px";});
+input.addEventListener("keydown",e=>{if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();ask();}});
+send.addEventListener("click",ask);
+document.getElementById("chips").addEventListener("click",e=>{const c=e.target.closest(".chip");if(c){input.value=c.textContent;ask();}});
+
+function md(s){
+  s=s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  s=s.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/`(.+?)`/g,"<code>$1</code>");
+  s=s.replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  const lines=s.split(/\n/);let html="";let inList=false;
+  for(const ln of lines){const m=ln.match(/^\s*[-*]\s+(.*)/);
+    if(m){if(!inList){html+="<ul>";inList=true;}html+=`<li>${m[1]}</li>`;}
+    else{if(inList){html+="</ul>";inList=false;}if(ln.trim())html+=`<p>${ln}</p>`;}}
+  if(inList)html+="</ul>";return html;
+}
+function scrollDown(){const m=document.getElementById("main");m.scrollTop=m.scrollHeight;}
+const AV_USER='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>';
+const AV_BOT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4 V18"/><path d="M7 18 H17"/><path d="M5 9 H19"/><path d="M5 9 L2.5 15 H7.5 L5 9Z"/><path d="M19 9 L16.5 15 H21.5 L19 9Z"/></svg>';
+function addMsg(role,htmlContent){
+  if(hero)hero.style.display="none";
+  const msg=document.createElement("div");msg.className="msg "+role;
+  msg.innerHTML=`<div class="avatar ${role==='user'?'a-user':'a-bot'}">${role==='user'?AV_USER:AV_BOT}</div><div class="bubble">${htmlContent}</div>`;
+  document.getElementById("thread").appendChild(msg);scrollDown();
   return msg.querySelector(".bubble");
 }
 
+// Live agentic pipeline visual — runs while the real request is in flight
+const STEPS=[
+  {ic:"①",label:"Understanding the question"},
+  {ic:"②",label:"Routing to the right authorities"},
+  {ic:"③",label:"Reading official sources live"},
+  {ic:"④",label:"Extracting the relevant regulations"},
+  {ic:"⑤",label:"Composing a grounded answer"},
+];
+function renderPipe(bubble){
+  bubble.innerHTML=`<div class="pipe">${STEPS.map((s,i)=>
+    `<div class="step" data-i="${i}"><span class="ic">${s.ic}</span><span>${s.label}</span></div>`+
+    (i===1?`<div class="agent-srcs" id="agentSrcs">${REGIONS.map(r=>`<span class="flag">${r.flag} ${r.name}</span>`).join("")}</div>`:"")
+  ).join("")}</div>`;
+}
+function setStep(bubble,i,state){
+  const el=bubble.querySelector(`.step[data-i="${i}"]`);if(!el)return;
+  el.classList.remove("active","done");el.classList.add(state);
+  if(state==="done")el.querySelector(".ic").textContent="✓";
+}
+async function runPipe(bubble){
+  renderPipe(bubble);
+  const srcEls=[...bubble.querySelectorAll("#agentSrcs .flag")];
+  const seq=async()=>{
+    setStep(bubble,0,"active");await wait(450);setStep(bubble,0,"done");
+    setStep(bubble,1,"active");await wait(250);
+    for(const s of srcEls){s.classList.add("on");await wait(120);}
+    await wait(200);setStep(bubble,1,"done");
+    setStep(bubble,2,"active");await wait(900);setStep(bubble,2,"done");
+    setStep(bubble,3,"active");await wait(700);setStep(bubble,3,"done");
+    setStep(bubble,4,"active"); // stays active until the real answer arrives
+  };
+  seq();
+}
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+const LINKICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.5 1.5"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.5-1.5"/></svg>';
+
 async function ask(){
-  const q = input.value.trim();
-  if(!q || busy) return;
-  busy = true; send.disabled = true;
-  addMsg("user", md(q));
-  input.value=""; input.style.height="auto";
-  const bot = addMsg("bot", `<div class="status">Researching official sources <span class="dots"><i></i><i></i><i></i></span></div>`);
+  const q=input.value.trim();if(!q||busy)return;
+  busy=true;send.disabled=true;
+  addMsg("user",md(q));
+  input.value="";input.style.height="auto";
+  const bot=addMsg("bot","");
+  runPipe(bot);
   try{
-    const r = await fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:q})});
-    const data = await r.json();
-    let html = md(data.answer || "No answer.");
-    if(data.sources && data.sources.length){
-      html += `<div class="sources"><div class="lbl">Sources</div>` +
-        data.sources.map(s=>`<a class="src" href="${s.url}" target="_blank" rel="noopener">🔗 ${s.name}</a>`).join("") + `</div>`;
+    const r=await fetch("/api/ask",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({question:q})});
+    const data=await r.json();
+    await wait(300); // let the pipeline settle
+    let html=md(data.answer||"No answer.");
+    if(data.sources&&data.sources.length){
+      html+=`<div class="sources"><div class="lbl">Sources read</div>`+
+        data.sources.map(s=>`<a class="src" href="${s.url}" target="_blank" rel="noopener">${LINKICON}<span>${s.name}</span></a>`).join("")+`</div>`;
     }
-    bot.innerHTML = html;
+    bot.innerHTML=html;
   }catch(err){
-    bot.innerHTML = md("Something went wrong reaching the server. Please try again.");
+    bot.innerHTML=md("Something went wrong reaching the server. Please try again.");
   }finally{
-    busy=false; send.disabled=false; input.focus();
-    document.getElementById("main").scrollTop = document.getElementById("main").scrollHeight;
+    busy=false;send.disabled=false;input.focus();scrollDown();
   }
 }
+
+// ===== Contact form =====
+const cForm=document.getElementById("contactForm"), formOk=document.getElementById("formOk");
+cForm.addEventListener("submit",(e)=>{
+  e.preventDefault();
+  const name=cForm.name.value.trim();
+  const email=cForm.email.value.trim();
+  const message=cForm.message.value.trim();
+  if(!email||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){
+    const em=document.getElementById("cf-email");em.focus();
+    em.style.borderColor="#c0564a";
+    return;
+  }
+  _post({type:"contact", name, email, message, ..._ctx()});
+  // optimistic success — do not depend on the (possibly opaque) response
+  cForm.style.display="none";
+  formOk.style.display="flex";
+});
+document.getElementById("cf-email").addEventListener("input",function(){this.style.borderColor="";});
 </script>
 </body>
 </html>
