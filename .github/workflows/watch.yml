@@ -1,0 +1,26 @@
+name: Regulatory Watch — daily change check
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Check regulators for changes
+        env:
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
+        run: node scripts/refresh.mjs
+      - name: Commit updated change log & snapshots
+        run: |
+          git config user.name "auto-reg-bot"
+          git config user.email "actions@github.com"
+          git add public/data/changes.json data/snapshots
+          git commit -m "chore: regulatory watch update $(date -u +%Y-%m-%d)" || echo "No changes"
+          git push
