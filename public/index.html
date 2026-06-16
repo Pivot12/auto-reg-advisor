@@ -212,6 +212,53 @@
 
   a:focus-visible,button:focus-visible,.chip:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
 
+  /* DATE-RANGE FILTER (Regulatory Watch) */
+  .date-filter{display:flex;align-items:center;flex-wrap:wrap;gap:10px 14px;margin:2px 0 18px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+  .date-filter .df-lbl{font-size:11px;letter-spacing:1.4px;text-transform:uppercase;color:var(--soft);font-weight:600}
+  .date-filter .df-grp{display:flex;align-items:center;gap:6px}
+  .date-filter .df-grp span{font-size:12px;color:var(--muted);font-weight:600}
+  .date-filter input[type="date"]{background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:9px;padding:7px 10px;font-family:var(--sans);font-size:13px;outline:none;transition:.15s}
+  .date-filter input[type="date"]:focus{border-color:var(--navy);box-shadow:0 0 0 3px var(--navy-soft);background:var(--surface)}
+  .date-filter .df-reset{appearance:none;background:none;border:none;color:var(--navy);font-family:var(--sans);font-size:12.5px;font-weight:600;cursor:pointer;padding:6px 4px}
+  .date-filter .df-reset:hover{text-decoration:underline}
+
+  /* EXPORT PDF button (header) */
+  .export-pdf{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;background:var(--surface);color:var(--navy);border:1px solid var(--navy-line);border-radius:10px;padding:9px 14px;font-family:var(--sans);font-size:13px;font-weight:600;cursor:pointer;transition:.15s;white-space:nowrap}
+  .export-pdf svg{width:15px;height:15px}
+  .export-pdf:hover{background:var(--navy-soft);transform:translateY(-1px)}
+  .export-pdf:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  /* PERSISTENT ATTRIBUTION BADGE (screenshot watermark) */
+  .attrib-badge{position:fixed;right:14px;bottom:14px;z-index:20;display:inline-flex;align-items:center;gap:7px;
+    font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.1px;color:var(--navy);text-decoration:none;
+    background:rgba(255,255,255,.78);border:1px solid var(--navy-line);border-radius:999px;padding:6px 11px;
+    box-shadow:0 1px 2px rgba(20,20,20,.04),0 6px 18px rgba(20,20,20,.06);backdrop-filter:blur(6px);opacity:.85;transition:.18s}
+  .attrib-badge:hover{opacity:1;transform:translateY(-1px)}
+  .attrib-badge .ab-dot{flex:0 0 6px;width:6px;height:6px;border-radius:50%;background:var(--gold)}
+  .attrib-badge .ab-li{color:var(--muted);font-weight:500}
+  @media(max-width:480px){.attrib-badge{display:none}}
+
+  /* PRINT-ONLY header block (hidden on screen) */
+  .print-head{display:none}
+
+  /* PRINT STYLESHEET */
+  @media print{
+    :root{--paper:#fff;--surface:#fff}
+    body{background:#fff}
+    .bg-pattern,.tabbar,footer.composer-bar,.disclaimer,.site-foot,.attrib-badge,.export-pdf,.try-wrap,.contact,.hero-art,.subscribe,.date-filter,header .coverage{display:none !important}
+    header{position:static;border-bottom:1px solid #ddd;backdrop-filter:none;background:#fff}
+    main{overflow:visible;padding:0}
+    .panel{animation:none}
+    .print-head{display:block;text-align:center;padding:18px 0 14px;margin-bottom:8px;border-bottom:1px solid #ddd}
+    .print-head .ph-app{font-family:var(--serif);font-weight:600;font-size:22px;color:#1F3A5F}
+    .print-head .ph-by{font-size:12px;color:#444;margin-top:4px}
+    .print-head .ph-src{font-size:11px;color:#666;margin-top:6px}
+    .how{box-shadow:none;break-inside:avoid}
+    .card{box-shadow:none;break-inside:avoid}
+    .bubble{box-shadow:none}
+    a[href]{color:#1F3A5F}
+  }
+
   @media(max-width:860px){
     .watch-grid{grid-template-columns:1fr}
   }
@@ -236,35 +283,48 @@
 
 <header>
   <div class="logo" aria-label="Auto Reg Advisor logo">
-    <!-- Refined balance-scale / sealed-document mark -->
-    <svg width="36" height="36" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+    <!-- Refined balance-on-globe mark: a single beam balanced over a meridian disc -->
+    <svg width="38" height="38" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
       <defs>
         <linearGradient id="goldg" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0" stop-color="#d6a945"/><stop offset="1" stop-color="#9e7223"/>
+          <stop offset="0" stop-color="#D6A945"/><stop offset="1" stop-color="#9E7223"/>
         </linearGradient>
       </defs>
-      <rect x="1.5" y="1.5" width="45" height="45" rx="11" fill="#FFFFFF" stroke="#EAE6DD"/>
-      <g stroke="#1F3A5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
-        <path d="M24 11 V37"/>
-        <path d="M15 37 H33"/>
-        <path d="M11 16 H37"/>
-        <circle cx="24" cy="13" r="1.6" fill="#1F3A5F" stroke="none"/>
-        <path d="M11 16 L7 25 H15 L11 16Z" fill="url(#goldg)" stroke="url(#goldg)"/>
-        <path d="M37 16 L33 25 H41 L37 16Z" fill="url(#goldg)" stroke="url(#goldg)"/>
-      </g>
+      <!-- globe -->
+      <circle cx="20" cy="23.5" r="11.5" fill="none" stroke="#1F3A5F" stroke-width="1.7"/>
+      <path d="M20 12v23M8.7 23.5h22.6" stroke="#1F3A5F" stroke-width="1.2" opacity=".55"/>
+      <ellipse cx="20" cy="23.5" rx="5.4" ry="11.5" fill="none" stroke="#1F3A5F" stroke-width="1.2" opacity=".55"/>
+      <!-- balance beam + fulcrum, crowning the globe -->
+      <path d="M20 23.5V6.5" stroke="#1F3A5F" stroke-width="2" stroke-linecap="round"/>
+      <path d="M9 8.5h22" stroke="url(#goldg)" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="20" cy="5" r="2.1" fill="url(#goldg)"/>
+      <!-- pans -->
+      <path d="M9 8.5l-3 6.5h6l-3-6.5Z" fill="url(#goldg)" opacity=".9"/>
+      <path d="M31 8.5l-3 6.5h6l-3-6.5Z" fill="url(#goldg)" opacity=".9"/>
     </svg>
   </div>
   <div>
     <div class="title">Auto Reg Advisor</div>
     <div class="subtitle">Global automotive regulations · answered from official sources</div>
   </div>
+  <button type="button" class="export-pdf" id="exportPdf" title="Export this view as PDF" aria-label="Export PDF">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v8H6z"/></svg>
+    <span>Export PDF</span>
+  </button>
   <div class="coverage" id="covBar"></div>
 </header>
+
+<!-- PRINT-ONLY attribution header (shown only when printing) -->
+<div class="print-head" aria-hidden="true">
+  <div class="ph-app">Auto Reg Advisor</div>
+  <div class="ph-by">Prepared by Neel Shah · linkedin.com/in/neelshah29</div>
+  <div class="ph-src">Global automotive regulations · answered from official government sources</div>
+</div>
 
 <!-- TAB BAR -->
 <div class="tabbar">
   <div class="tabs" role="tablist" aria-label="Sections">
-    <button class="tab" id="tab-ask" role="tab" aria-selected="true" aria-controls="panel-ask">Ask</button>
+    <button class="tab" id="tab-ask" role="tab" aria-selected="true" aria-controls="panel-ask">Agentic Search</button>
     <button class="tab" id="tab-watch" role="tab" aria-selected="false" aria-controls="panel-watch">Regulatory Watch</button>
   </div>
 </div>
@@ -402,6 +462,18 @@
     <section class="card changes" aria-label="Recent regulatory changes" style="margin-top:22px">
       <h2>Recent changes</h2>
       <p class="sub">The latest movements our daily watch has detected.</p>
+      <div class="date-filter">
+        <span class="df-lbl">Filter by date:</span>
+        <div class="df-grp">
+          <span>From</span>
+          <input type="date" id="dfFrom" aria-label="From date" />
+        </div>
+        <div class="df-grp">
+          <span>To</span>
+          <input type="date" id="dfTo" aria-label="To date" />
+        </div>
+        <button type="button" class="df-reset" id="dfReset">Reset</button>
+      </div>
       <div id="changesArea"></div>
     </section>
   </div>
@@ -418,13 +490,18 @@
 </footer>
 
 <div class="site-foot">
-  © <span id="yr"></span> Auto Reg Advisor <span class="sep">·</span> <a href="privacy.html">Privacy</a>
+  © <span id="yr"></span> Auto Reg Advisor <span class="sep">·</span> <a href="privacy.html">Privacy</a> <span class="sep">·</span> <a href="#contact">Contact</a> <span class="sep">·</span> Built by Neel Shah <span class="sep">·</span> <a href="https://linkedin.com/in/neelshah29" target="_blank" rel="noopener">linkedin.com/in/neelshah29</a>
 </div>
+
+<!-- Persistent attribution badge (captured in any screenshot) -->
+<a class="attrib-badge" href="https://linkedin.com/in/neelshah29" target="_blank" rel="noopener" aria-label="Neel Shah on LinkedIn">
+  <span class="ab-dot"></span>Neel Shah <span class="ab-li">· linkedin.com/in/neelshah29</span>
+</a>
 
 <script>
 // ===== SHARED CONTRACT (identical across all three apps) =====
 const APP_NAME = "Auto Reg Advisor";
-const WEBHOOK_URL = "REPLACE_WITH_APPS_SCRIPT_URL"; // Neel pastes one URL into all apps
+const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwfn4lGwz_v3XsaAsAc8vtIejZ1tvF437Kk91cD4bF8Zu63Dvrpvxs51aAt4mOyrNQs/exec"; // Neel pastes one URL into all apps
 const _t0 = Date.now();
 const _ctx = () => ({ app: APP_NAME, ts: new Date().toISOString(), tz: Intl.DateTimeFormat().resolvedOptions().timeZone, lang: navigator.language, ref: document.referrer });
 function _beacon(p){ if(!WEBHOOK_URL||WEBHOOK_URL.startsWith("REPLACE"))return; try{ const b=new Blob([JSON.stringify(p)],{type:"text/plain;charset=utf-8"}); navigator.sendBeacon ? navigator.sendBeacon(WEBHOOK_URL,b) : fetch(WEBHOOK_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(p),keepalive:true}); }catch(e){} }
@@ -536,29 +613,74 @@ function selectTab(which){
 tabAsk.addEventListener("click",()=>selectTab("ask"));
 tabWatch.addEventListener("click",()=>selectTab("watch"));
 
+// Contact links: make sure the Agentic Search panel (which holds the form) is visible, then scroll to it
+document.addEventListener("click",e=>{
+  const a=e.target.closest('a[href="#contact"]');
+  if(!a)return;
+  e.preventDefault();
+  selectTab("ask");
+  const c=document.getElementById("contact");
+  if(c){ c.scrollIntoView({behavior:"smooth",block:"start"}); }
+});
+
 // ===== Recent changes (graceful: file may not exist yet) =====
+let _allChanges=null;       // cached full list once loaded
+let _changesSourceCount=WATCH_COUNT;
+const dfFrom=document.getElementById("dfFrom");
+const dfTo=document.getElementById("dfTo");
+const dfReset=document.getElementById("dfReset");
+const FILTER_DEFAULT_FROM="2025-01-01";
+const FILTER_DEFAULT_TO=new Date().toISOString().slice(0,10);
+function setFilterDefaults(){ dfFrom.value=FILTER_DEFAULT_FROM; dfTo.value=FILTER_DEFAULT_TO; }
+setFilterDefaults();
+
 async function loadChanges(){
   const area=document.getElementById("changesArea");
   try{
     const r=await fetch("data/changes.json",{cache:"no-store"});
     if(!r.ok) throw new Error("no file");
     const data=await r.json();
-    const changes=Array.isArray(data.changes)?data.changes:[];
-    if(changes.length===0){
-      const n=(data.meta&&data.meta.sourcesMonitored)||WATCH_COUNT;
-      area.innerHTML=`<div class="changes-empty">Monitoring ${n} sources — first digest coming soon.</div>`;
-      return;
-    }
-    area.innerHTML=changes.slice(0,40).map(c=>{
-      const date=(c.date||"").slice(0,10);
-      const note=c.note?`<div class="change-note">${esc(c.note)}${c.url?` · <a href="${esc(c.url)}" target="_blank" rel="noopener">view source</a>`:""}</div>`:"";
-      const reg=c.region?`<span class="reg">${esc(c.region)}</span>`:"";
-      return `<div class="change-item"><div class="change-date">${esc(date)}</div><div class="change-body"><div class="change-auth">${esc(c.authority||"Source")}${reg}</div>${note}</div></div>`;
-    }).join("");
+    _allChanges=Array.isArray(data.changes)?data.changes:[];
+    _changesSourceCount=(data.meta&&data.meta.sourcesMonitored)||WATCH_COUNT;
+    renderChanges();
   }catch(e){
+    _allChanges=[];
     area.innerHTML=`<div class="changes-empty">Monitoring ${WATCH_COUNT} sources — first digest coming soon.</div>`;
   }
 }
+function renderChanges(){
+  const area=document.getElementById("changesArea");
+  if(!_allChanges){ return; }
+  if(_allChanges.length===0){
+    area.innerHTML=`<div class="changes-empty">Monitoring ${_changesSourceCount} sources — first digest coming soon.</div>`;
+    return;
+  }
+  const from=dfFrom.value||"", to=dfTo.value||"";
+  const inRange=_allChanges.filter(c=>{
+    const d=(c.date||"").slice(0,10);
+    if(!d) return false;
+    if(from && d<from) return false;
+    if(to && d>to) return false;
+    return true;
+  });
+  if(inRange.length===0){
+    area.innerHTML=`<div class="changes-empty">No changes detected in the selected date range. Try widening the dates.</div>`;
+    return;
+  }
+  area.innerHTML=inRange.slice(0,40).map(c=>{
+    const date=(c.date||"").slice(0,10);
+    const note=c.note?`<div class="change-note">${esc(c.note)}${c.url?` · <a href="${esc(c.url)}" target="_blank" rel="noopener">view source</a>`:""}</div>`:"";
+    const reg=c.region?`<span class="reg">${esc(c.region)}</span>`:"";
+    return `<div class="change-item"><div class="change-date">${esc(date)}</div><div class="change-body"><div class="change-auth">${esc(c.authority||"Source")}${reg}</div>${note}</div></div>`;
+  }).join("");
+}
+dfFrom.addEventListener("change",renderChanges);
+dfTo.addEventListener("change",renderChanges);
+dfReset.addEventListener("click",()=>{ setFilterDefaults(); renderChanges(); });
+
+// ===== Export PDF =====
+document.getElementById("exportPdf").addEventListener("click",()=>{ window.print(); });
+
 function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
 
 // ===== Subscribe form (Regulatory Watch) =====

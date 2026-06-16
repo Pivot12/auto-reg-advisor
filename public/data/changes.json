@@ -1,8 +1,191 @@
 {
   "meta": {
-    "lastRun": "",
+    "lastRun": "2026-06-15T00:00:00Z",
     "sourcesMonitored": 9
   },
-  "sources": [],
-  "changes": []
+  "sources": [
+    {
+      "key": "US_NHTSA",
+      "name": "US NHTSA (Laws & Regulations)",
+      "authority": "US NHTSA",
+      "region": "us",
+      "url": "https://www.nhtsa.gov/laws-regulations",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "US_EPA",
+      "name": "US EPA (Vehicle & Engine Emissions)",
+      "authority": "US EPA",
+      "region": "us",
+      "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "EU_COMMISSION",
+      "name": "EU Commission (Automotive Industry)",
+      "authority": "European Commission",
+      "region": "eu",
+      "url": "https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "UNECE",
+      "name": "UNECE (Vehicle Regulations / WP.29)",
+      "authority": "UNECE WP.29",
+      "region": "global",
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "ACEA",
+      "name": "ACEA (EU Auto Manufacturers Assn.)",
+      "authority": "ACEA",
+      "region": "eu",
+      "url": "https://www.acea.auto/regulations/",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "UK_VCA",
+      "name": "UK Vehicle Certification Agency",
+      "authority": "UK VCA",
+      "region": "uk",
+      "url": "https://www.vehicle-certification-agency.gov.uk/",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "JAPAN_MLIT",
+      "name": "Japan MLIT",
+      "authority": "Japan MLIT",
+      "region": "japan",
+      "url": "https://www.mlit.go.jp/en/",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "INDIA_MORTH",
+      "name": "India MoRTH",
+      "authority": "India MoRTH",
+      "region": "india",
+      "url": "https://morth.nic.in/",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    },
+    {
+      "key": "AUSTRALIA",
+      "name": "Australia Dept. of Infrastructure (Vehicle Design)",
+      "authority": "Australia Dept. of Infrastructure",
+      "region": "australia",
+      "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation",
+      "lastChecked": "2026-06-15T00:00:00Z",
+      "status": "monitored",
+      "delta": 0
+    }
+  ],
+  "changes": [
+    {
+      "date": "2025-09-05",
+      "region": "eu",
+      "authority": "European Commission",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2025/1706/oj/eng",
+      "note": "Commission Implementing Regulation (EU) 2025/1706 of 25 July 2025 — one of the first implementing acts under the Euro 7 Regulation (EU) 2024/1257 — was published in the Official Journal, laying down test methodologies for exhaust and evaporative emission type-approval of M1/N1 vehicles ('Euro 7 - TEMP'). It entered into force 25 September 2025."
+    },
+    {
+      "date": "2025-08-01",
+      "region": "us",
+      "authority": "US EPA",
+      "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
+      "note": "EPA published a proposed rule (signed 29 July 2025) to rescind the 2009 Greenhouse Gas Endangerment Finding and repeal all GHG emission standards for light-, medium- and heavy-duty motor vehicles and engines, arguing the Clean Air Act does not authorize such standards. The comment period was later extended to 22 September 2025."
+    },
+    {
+      "date": "2025-07-03",
+      "region": "uk",
+      "authority": "UK VCA",
+      "url": "https://www.vehicle-certification-agency.gov.uk/blog/minister-urges-industry-readiness-as-new-gb-type-approval-legislation-comes-into-force/",
+      "note": "The Road Vehicles (Type-Approval) (Amendment) Regulations 2025 (SI 2025 No. 661), laid before Parliament 12 June 2025, entered into force on 3 July 2025. They make EU VECTO component certifications permanently acceptable in the GB scheme and add updated UN Regulations for ISOFIX and Automated Lane Keeping Systems (ALKS)."
+    },
+    {
+      "date": "2025-07-01",
+      "region": "australia",
+      "authority": "Australia Dept. of Infrastructure",
+      "url": "https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard",
+      "note": "Australia's New Vehicle Efficiency Standard (NVES) commenced 1 January 2025 with mandatory CO2 targets for new-vehicle suppliers (141 g/km headline for passenger cars/SUVs, 210 g/km for larger Type 2 vehicles). The penalty component took effect 1 July 2025, charging AUD 100 per gram of excess emissions, with a unit-trading scheme."
+    },
+    {
+      "date": "2025-06-24",
+      "region": "global",
+      "authority": "UNECE WP.29",
+      "url": "https://unece.org/transport/documents/2025/06/informal-documents/secretariat-draft-running-order-196th-session-wp29",
+      "note": "At its 196th session (24-27 June 2025), the UNECE World Forum WP.29 considered amendments to UN Regulation No. 171 on Driver Control Assistance Systems (DCAS), a Level-2 ADAS framework, plus modifications across dozens of other UN vehicle regulations covering safety, lighting and steering equipment."
+    },
+    {
+      "date": "2025-06-17",
+      "region": "eu",
+      "authority": "European Commission",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501214",
+      "note": "Regulation (EU) 2025/1214 (adopted 17 June 2025) amends the CO2 emission-performance standards for cars and vans (Reg. (EU) 2019/631) to let manufacturers comply over a 2025-2027 three-year average rather than annually — easing the 2025 target after weaker-than-expected EV demand."
+    },
+    {
+      "date": "2025-04-24",
+      "region": "us",
+      "authority": "US NHTSA",
+      "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf",
+      "note": "NHTSA issued the Third Amended Standing General Order on crash reporting for Automated Driving Systems and Level 2 ADAS on 24 April 2025 (effective 16 June 2025), part of its new AV Framework, reducing duplicative reporting and refining reportable-incident thresholds."
+    },
+    {
+      "date": "2025-03-12",
+      "region": "us",
+      "authority": "US EPA",
+      "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-multi-pollutant-emissions-standards-model",
+      "note": "On 12 March 2025 EPA announced it would reconsider the Multi-Pollutant Emissions Standards for Model Year 2027-and-later light- and medium-duty vehicles (finalized March 2024), reopening the GHG and criteria-pollutant standards that were to phase in across MY2027-2032."
+    },
+    {
+      "date": "2025-03-05",
+      "region": "eu",
+      "authority": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_854",
+      "note": "The European Commission presented its Industrial Action Plan for the automotive sector on 5 March 2025, including the proposal to add CO2-compliance flexibility (three-year averaging for 2025-2027), a European Connected and Autonomous Vehicle Alliance, and battery-manufacturing support."
+    },
+    {
+      "date": "2025-03-03",
+      "region": "japan",
+      "authority": "Japan MLIT",
+      "url": "https://www.morihamada.com/en/insights/newsletters/121711",
+      "note": "On 3 March 2025 Japan's MLIT study group published its final report on measures to ensure the safety performance of automated vehicles, proposing scenario-based tests requiring AVs to exceed a 'competent and careful human driver' and In-Service Monitoring and Reporting (ISMR) by manufacturers after launch."
+    },
+    {
+      "date": "2025-02-01",
+      "region": "uk",
+      "authority": "UK VCA",
+      "url": "https://www.vehicle-certification-agency.gov.uk/vehicle-type-approval/provisional-gb-type-approval-scheme/",
+      "note": "From 1 February 2025 it is no longer possible to apply for Provisional GB type approval for M, N and O category vehicles, a step in the transition to the full GB Type Approval scheme that becomes mandatory for cars and goods vehicles sold in Great Britain from February 2026."
+    },
+    {
+      "date": "2025-01-27",
+      "region": "us",
+      "authority": "US NHTSA",
+      "url": "https://www.federalregister.gov/documents/2025/01/27/2025-01832/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles",
+      "note": "NHTSA delayed the effective date of the FMVSS No. 127 light-vehicle automatic-emergency-braking final rule (published 26 November 2024) to 20 March 2025 and granted portions of industry petitions for reconsideration, following a 20 January 2025 presidential regulatory-review memorandum."
+    },
+    {
+      "date": "2025-01-15",
+      "region": "us",
+      "authority": "US NHTSA",
+      "url": "https://nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems",
+      "note": "In January 2025 NHTSA issued an NPRM proposing the ADS-equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP), a voluntary national program under which participants submit a safety case and consent to independent assessment and ongoing oversight of automated-driving operations."
+    }
+  ]
 }

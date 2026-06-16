@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/ask.js": { "includeFiles": "data/**" }
+    "api/ask.js": { "includeFiles": "data/**", "maxDuration": 30 }
   }
 }
