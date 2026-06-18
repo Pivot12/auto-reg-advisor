@@ -5,6 +5,14 @@ URL Source: https://www.vehicle-certification-agency.gov.uk/
 Markdown Content:
 # Homepage - Vehicle Certification Agency
 
+New GB/UKNI Type Approval Legislation Now in Effect
+
+The GB/UKNI Type Approval implementation date of 1 February 2026 has passed. All M & N category vehicle types manufactured for sale in Great Britain must hold full GB or UKNI type approval(g11 or n11).
+
+[Click here to learn more](https://www.vehicle-certification-agency.gov.uk/blog/new-gb-ukni-type-approval-legislation-now-in-effect/)
+
+✕
+
 [Skip to main content](https://www.vehicle-certification-agency.gov.uk/#content)
 
 The Vehicle Certification Agency uses essential cookies and similar technologies that allow the site to work properly. It also uses website usage cookies that can be switched on or off. Closing this box will disable website usage cookies.
@@ -150,8 +158,8 @@ In addition to providing type approval technical and approval authority services
 
 ## Latest Publications
 
-*   [VCA: spending over £500, January to March 2026](https://www.vehicle-certification-agency.gov.uk/publication/vca-spending-over-500-january-to-march-2026/)
-*   [VCA: spending over £500, October to December 2025](https://www.vehicle-certification-agency.gov.uk/publication/vca-spending-over-500-october-to-december-2025/)
+*   [eCoC Portal – User Guide](https://www.vehicle-certification-agency.gov.uk/download-publication/24871/eCoC%20Portal%20Guide/)
+*   [eCoC Portal – Account Request Guide](https://www.vehicle-certification-agency.gov.uk/download-publication/24873/eCoC%20Account%20Request%20Guide/)
 
  Latest Updates from VCA 
 *   [We are improving how users access VCA online services](https://www.vehicle-certification-agency.gov.uk/blog/we-are-improving-how-users-access-vca-online-services/)June 5, 2026
@@ -213,3 +221,5 @@ Search for:
 *   [Company Policies](https://www.vehicle-certification-agency.gov.uk/company-policies/)
 *   [Transparency](https://www.vehicle-certification-agency.gov.uk/transparency/)
 *   [Sitemap](https://www.vehicle-certification-agency.gov.uk/sitemap/)
+
+Notifications

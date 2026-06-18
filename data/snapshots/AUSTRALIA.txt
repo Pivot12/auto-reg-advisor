@@ -1,8 +1,6 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
-
-Published Time: Wed, 17 Jun 2026 12:17:58 GMT
 
 Markdown Content:
 # Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
@@ -70,7 +68,9 @@ Mobile MENU
 
             *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)Expand _Western Sydney International Airport_ sub menu
                 *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
-                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)
+                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)Expand _Environment and heritage_ sub menu
+                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
+
                 *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
                 *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
                 *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
@@ -784,6 +784,7 @@ Mobile MENU
 
         *   [National Awards for Local Government](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government)Expand _National Awards for Local Government_ sub menu
             *   [Past Winners and Honourable Mentions](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/entry-guidelines/national-awards-local-government-past-winners)Expand _Past Winners and Honourable Mentions_ sub menu
+                *   [2025 Winners](https://www.infrastructure.gov.au/territories-regions/local-government/national-awards-local-government/past-winners-and-honourable-mentions/2025-national-awards-local-government-winners-and-honourable-mentions)
                 *   [2024 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2024)
                 *   [2023 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2023)
                 *   [2022 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2022-national-awards-local-government-winners)
@@ -797,7 +798,6 @@ Mobile MENU
                 *   [2017 winners videos](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2017-winners-videos)
                 *   [2016 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2016-winners)
                 *   [2016 winners videos](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2016-winners-videos)
-                *   [2025 National Awards for Local Government - Winners and Honourable Mentions](https://www.infrastructure.gov.au/territories-regions/local-government/national-awards-local-government/past-winners-and-honourable-mentions/2025-national-awards-local-government-winners-and-honourable-mentions)
 
     *   [Regional Australia](https://www.infrastructure.gov.au/territories-regions/regional-australia)Expand _Regional Australia_ sub menu
         *   [Office of Northern Australia](https://www.infrastructure.gov.au/territories-regions/regional-australia/office-northern-australia)Expand _Office of Northern Australia_ sub menu
@@ -1265,6 +1265,8 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)
                 *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
                 *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)
+                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
+
                 *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
                 *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
                 *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
@@ -1978,6 +1980,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
 
         *   [National Awards for Local Government](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government)
             *   [Past Winners and Honourable Mentions](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/entry-guidelines/national-awards-local-government-past-winners)
+                *   [2025 Winners](https://www.infrastructure.gov.au/territories-regions/local-government/national-awards-local-government/past-winners-and-honourable-mentions/2025-national-awards-local-government-winners-and-honourable-mentions)
                 *   [2024 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2024)
                 *   [2023 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2023)
                 *   [2022 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/2022-national-awards-local-government-winners)
@@ -1991,7 +1994,6 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
                 *   [2017 winners videos](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2017-winners-videos)
                 *   [2016 winners](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2016-winners)
                 *   [2016 winners videos](https://www.infrastructure.gov.au/territories-regions-cities/local-government/national-awards-local-government/past-winners/2016-winners-videos)
-                *   [2025 National Awards for Local Government - Winners and Honourable Mentions](https://www.infrastructure.gov.au/territories-regions/local-government/national-awards-local-government/past-winners-and-honourable-mentions/2025-national-awards-local-government-winners-and-honourable-mentions)
 
     *   [Regional Australia](https://www.infrastructure.gov.au/territories-regions/regional-australia)
         *   [Office of Northern Australia](https://www.infrastructure.gov.au/territories-regions/regional-australia/office-northern-australia)
