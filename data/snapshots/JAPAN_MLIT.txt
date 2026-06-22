@@ -5,8 +5,6 @@ URL Source: https://www.mlit.go.jp/en/
 Published Time: Wed, 01 Apr 2026 16:06:33 GMT
 
 Markdown Content:
-# Ministry of Land, Infrastructure, Transport and Tourism
-
 # [![Image 1: Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/common/000236353.png)](https://www.mlit.go.jp/en/)
 
 [![Image 2: To Page Text](https://www.mlit.go.jp/common/000236322.png)](https://www.mlit.go.jp/en/#contents)
