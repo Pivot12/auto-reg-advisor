@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 24 Jun 2026 07:49:17 GMT
+Published Time: Thu, 25 Jun 2026 08:25:36 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1478,7 +1478,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
     *   [Freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight)
         *   [Air freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/air-freight)
         *   [Freight and supply chains](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-and-supply-chains)
-            *   [Accessing payment relief for the road transport sector](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-and-supply-chains/accessing-payment-relief-road-transport-sector)
+            *   [Accessing payment relief for the road transport sector](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-and-supply-chains/accessing-payment-relief-road-and-air-transport-sectors)
 
         *   [Freight network](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-network)
         *   [Ports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/ports)
