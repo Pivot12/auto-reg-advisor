@@ -16,7 +16,7 @@ Markdown Content:
 [×](javascript:void(0) "検索ボックスをクリア")
 
 *   [Home](https://www.mlit.go.jp/en/index.html)
-*   [About MLIT](https://www.mlit.go.jp/common/001996740.pdf)
+*   [About MLIT](https://www.mlit.go.jp/common/002009971.pdf)
 *   [White papers / Reports](https://www.mlit.go.jp/en/statistics/white-paper-mlit-index.html)
 *   [Statistics](http://www.mlit.go.jp/toukeijouhou/chojou/stat-e.htm)
 
@@ -122,7 +122,7 @@ Markdown Content:
 
 *   [the 4th Japan Construction International Award Ceremony was held(2021/06/22)](https://www.mlit.go.jp/en/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr3_000001_00005.html)
 
-*   [G20 Tourism Ministerial Meeting adoption of Ministerial Communique(2021/05/04)](https://www.mlit.go.jp/en/kanko/page07_000021.html)
+*   [G20 Tourism Ministerial Meeting adoption of Ministerial Communique(2021/05/04)](https://www.mlit.go.jp/kankocho/en/page07_000021.html)
 
 *   [Japan participates as a founding member of a new international framework to support shipping with technology challenges(2021/04/26)](https://www.mlit.go.jp/en/maritime/maritime_fr1_000022.html)
 

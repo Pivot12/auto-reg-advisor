@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 28 Jun 2026 04:16:06 GMT
+Published Time: Wed, 01 Jul 2026 07:39:11 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -360,6 +360,7 @@ Mobile MENU
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)Expand _TLAVs Received_ sub menu
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)Expand _2026_ sub menu
+                            *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
                             *   [May](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-may-2026)
                             *   [April](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-april-2026)
@@ -1126,36 +1127,12 @@ Mobile MENU
 
 *   [Arts](https://www.arts.gov.au/)
 *   [Research & data](https://www.infrastructure.gov.au/research-data)Expand _Research & data_ sub menu
-    *   [Bureau of Communications, Arts and Regional Research](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research)Expand _Bureau of Communications, Arts and Regional Research_ sub menu
-        *   [Progress in Australian Regions and Cities Dashboard](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/progress-australia-regions-dashboard)
-        *   [Subscription video on demand in Australia dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmE0ZGUxNjItZmIyNS00YzA0LWE4MTgtNGQ0MjI4NjE4ZDBjIiwidCI6ImFhMjFiNjQwLWJhYzItNDU2ZC04NTA1LWYyY2MwN2Y1MTc4NCJ9)
-        *   [Publications](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/resources)
-        *   [Arts](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts)Expand _Arts_ sub menu
-            *   [Cultural and Creative activity](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/cultural-and-creative-activity)
-            *   [Private sector support for the arts](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/private-sector-support-arts)
-            *   [Australia’s live music sector: an occupation-based analysis](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/australias-live-music-sector-occupation-based-analysis)
-
-        *   [Communications](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications)Expand _Communications_ sub menu
-            *   [Economic assessment of the Location Incentive on Australia's screen sector](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/economic-assessment-location-incentive-australias-screen-sector)
-            *   [Affordability of communications services](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/affordability-communications-services)
-            *   [Broadband Productivity](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-broadband-productivity)
-            *   [Demand for broadband](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/demand-broadband)
-            *   [Measuring Australia's fixed broadband performance](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-australias-fixed-broadband-performance)
-            *   [Communications: Access to telecommunications services](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-access-telecommunications-services)
-            *   [Digital connectivity indicators](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/digital-connectivity-indicators)
-            *   [Subscription Video on Demand (SVOD) dashboard](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/subscription-video-demand-svod-dashboard)
-
-        *   [Data Dashboards](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/data-dashboards)
-        *   [Regions and Cities](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities)Expand _Regions and Cities_ sub menu
-            *   [Regional research and data](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities/regional-research-and-data)
-            *   [Cities research](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities/cities-research)
-
-    *   [Bureau of Infrastructure and Transport Research Economics](https://www.bitre.gov.au/)
-    *   [Data strategy and enduring research questions](https://www.infrastructure.gov.au/research-data/data-strategy-and-enduring-research-questions)
+    *   [BITRE and BCARR](https://www.bitre.gov.au/)
     *   [Data Catalogue](https://www.infrastructure.gov.au/data-catalogue)
     *   [National Freight Data Hub](https://datahub.freightaustralia.gov.au/)
-    *   [Regional Data Hub](http://www.regionaldatahub.gov.au/)
+    *   [Regional Data Hub](https://www.regionaldatahub.gov.au/)
     *   [Evaluation](https://www.infrastructure.gov.au/research-data/evaluation)
+    *   [Data Strategy and Enduring Research Questions](https://www.infrastructure.gov.au/research-data/data-strategy-and-enduring-research-questions)
 
 1.   [Home](https://www.infrastructure.gov.au/)
 2.   [Infrastructure, transport & vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles)
@@ -2324,36 +2301,12 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
 
 *   [Arts](https://www.arts.gov.au/)
 *   [Research & data](https://www.infrastructure.gov.au/research-data)
-    *   [Bureau of Communications, Arts and Regional Research](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research)
-        *   [Progress in Australian Regions and Cities Dashboard](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/progress-australia-regions-dashboard)
-        *   [Subscription video on demand in Australia dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmE0ZGUxNjItZmIyNS00YzA0LWE4MTgtNGQ0MjI4NjE4ZDBjIiwidCI6ImFhMjFiNjQwLWJhYzItNDU2ZC04NTA1LWYyY2MwN2Y1MTc4NCJ9)
-        *   [Publications](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/resources)
-        *   [Arts](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts)
-            *   [Cultural and Creative activity](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/cultural-and-creative-activity)
-            *   [Private sector support for the arts](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/private-sector-support-arts)
-            *   [Australia’s live music sector: an occupation-based analysis](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/arts/australias-live-music-sector-occupation-based-analysis)
-
-        *   [Communications](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications)
-            *   [Economic assessment of the Location Incentive on Australia's screen sector](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/economic-assessment-location-incentive-australias-screen-sector)
-            *   [Affordability of communications services](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/affordability-communications-services)
-            *   [Broadband Productivity](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-broadband-productivity)
-            *   [Demand for broadband](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/demand-broadband)
-            *   [Measuring Australia's fixed broadband performance](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-australias-fixed-broadband-performance)
-            *   [Communications: Access to telecommunications services](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/communications-access-telecommunications-services)
-            *   [Digital connectivity indicators](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/digital-connectivity-indicators)
-            *   [Subscription Video on Demand (SVOD) dashboard](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/communications/subscription-video-demand-svod-dashboard)
-
-        *   [Data Dashboards](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/data-dashboards)
-        *   [Regions and Cities](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities)
-            *   [Regional research and data](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities/regional-research-and-data)
-            *   [Cities research](https://www.infrastructure.gov.au/research-data/bureau-communications-arts-and-regional-research/regions-and-cities/cities-research)
-
-    *   [Bureau of Infrastructure and Transport Research Economics](https://www.bitre.gov.au/)
-    *   [Data strategy and enduring research questions](https://www.infrastructure.gov.au/research-data/data-strategy-and-enduring-research-questions)
+    *   [BITRE and BCARR](https://www.bitre.gov.au/)
     *   [Data Catalogue](https://www.infrastructure.gov.au/data-catalogue)
     *   [National Freight Data Hub](https://datahub.freightaustralia.gov.au/)
-    *   [Regional Data Hub](http://www.regionaldatahub.gov.au/)
+    *   [Regional Data Hub](https://www.regionaldatahub.gov.au/)
     *   [Evaluation](https://www.infrastructure.gov.au/research-data/evaluation)
+    *   [Data Strategy and Enduring Research Questions](https://www.infrastructure.gov.au/research-data/data-strategy-and-enduring-research-questions)
 
 *   [Ministers](https://minister.infrastructure.gov.au/)
 *   [About us](https://www.infrastructure.gov.au/about-us)
