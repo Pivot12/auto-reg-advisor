@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 01 Jul 2026 07:39:11 GMT
+Published Time: Thu, 02 Jul 2026 09:19:25 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1535,6 +1535,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)
+                            *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
                             *   [May](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-may-2026)
                             *   [April](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-april-2026)
