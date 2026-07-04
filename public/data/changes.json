@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRun": "2026-07-03T11:35:53.288Z",
+    "lastRun": "2026-07-04T10:56:19.869Z",
     "sourcesMonitored": 9
   },
   "sources": [
@@ -9,7 +9,7 @@
       "name": "US NHTSA (Laws & Regulations)",
       "region": "North America",
       "url": "https://www.nhtsa.gov/laws-regulations",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "unchanged",
       "delta": 0
     },
@@ -18,7 +18,7 @@
       "name": "US EPA (Vehicle & Engine Emissions)",
       "region": "North America",
       "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "unchanged",
       "delta": 0
     },
@@ -27,7 +27,7 @@
       "name": "EU Commission (Automotive Industry)",
       "region": "European Union",
       "url": "https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "unchanged",
       "delta": 0
     },
@@ -36,7 +36,7 @@
       "name": "UNECE (Vehicle Regulations / WP.29)",
       "region": "Global",
       "url": "https://unece.org/transport/vehicle-regulations",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "changed",
       "delta": 0
     },
@@ -45,25 +45,25 @@
       "name": "ACEA (EU Auto Manufacturers Assn.)",
       "region": "European Union",
       "url": "https://www.acea.auto/regulations/",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "changed",
-      "delta": -299
+      "delta": 299
     },
     {
       "key": "UK_VCA",
       "name": "UK Vehicle Certification Agency",
       "region": "United Kingdom",
       "url": "https://www.vehicle-certification-agency.gov.uk/",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "changed",
-      "delta": -409
+      "delta": 409
     },
     {
       "key": "JAPAN_MLIT",
       "name": "Japan MLIT",
       "region": "Japan",
       "url": "https://www.mlit.go.jp/en/",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "unchanged",
       "delta": 0
     },
@@ -72,21 +72,56 @@
       "name": "India MoRTH",
       "region": "India",
       "url": "https://morth.nic.in/",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "changed",
-      "delta": 5153
+      "delta": 997
     },
     {
       "key": "AUSTRALIA",
       "name": "Australia Dept. of Infrastructure (Vehicle Design)",
       "region": "Australia",
       "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation",
-      "lastChecked": "2026-07-03T11:35:53.288Z",
+      "lastChecked": "2026-07-04T10:56:19.869Z",
       "status": "changed",
-      "delta": -376141
+      "delta": 376141
     }
   ],
   "changes": [
+    {
+      "date": "2026-07-04",
+      "region": "Global",
+      "authority": "UNECE (Vehicle Regulations / WP.29)",
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "note": "Page content changed (+0 characters since the last check). Review the source for the update."
+    },
+    {
+      "date": "2026-07-04",
+      "region": "European Union",
+      "authority": "ACEA (EU Auto Manufacturers Assn.)",
+      "url": "https://www.acea.auto/regulations/",
+      "note": "Page content changed (+299 characters since the last check). Review the source for the update."
+    },
+    {
+      "date": "2026-07-04",
+      "region": "United Kingdom",
+      "authority": "UK Vehicle Certification Agency",
+      "url": "https://www.vehicle-certification-agency.gov.uk/",
+      "note": "Page content changed (+409 characters since the last check). Review the source for the update."
+    },
+    {
+      "date": "2026-07-04",
+      "region": "India",
+      "authority": "India MoRTH",
+      "url": "https://morth.nic.in/",
+      "note": "Page content changed (+997 characters since the last check). Review the source for the update."
+    },
+    {
+      "date": "2026-07-04",
+      "region": "Australia",
+      "authority": "Australia Dept. of Infrastructure (Vehicle Design)",
+      "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation",
+      "note": "Page content changed (+376141 characters since the last check). Review the source for the update."
+    },
     {
       "date": "2026-07-03",
       "region": "Global",
@@ -751,41 +786,6 @@
       "authority": "UNECE WP.29",
       "url": "https://unece.org/transport/documents/2025/06/informal-documents/secretariat-draft-running-order-196th-session-wp29",
       "note": "At its 196th session (24-27 June 2025), the UNECE World Forum WP.29 considered amendments to UN Regulation No. 171 on Driver Control Assistance Systems (DCAS), a Level-2 ADAS framework, plus modifications across dozens of other UN vehicle regulations covering safety, lighting and steering equipment."
-    },
-    {
-      "date": "2025-06-17",
-      "region": "eu",
-      "authority": "European Commission",
-      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501214",
-      "note": "Regulation (EU) 2025/1214 (adopted 17 June 2025) amends the CO2 emission-performance standards for cars and vans (Reg. (EU) 2019/631) to let manufacturers comply over a 2025-2027 three-year average rather than annually — easing the 2025 target after weaker-than-expected EV demand."
-    },
-    {
-      "date": "2025-04-24",
-      "region": "us",
-      "authority": "US NHTSA",
-      "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf",
-      "note": "NHTSA issued the Third Amended Standing General Order on crash reporting for Automated Driving Systems and Level 2 ADAS on 24 April 2025 (effective 16 June 2025), part of its new AV Framework, reducing duplicative reporting and refining reportable-incident thresholds."
-    },
-    {
-      "date": "2025-03-12",
-      "region": "us",
-      "authority": "US EPA",
-      "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-multi-pollutant-emissions-standards-model",
-      "note": "On 12 March 2025 EPA announced it would reconsider the Multi-Pollutant Emissions Standards for Model Year 2027-and-later light- and medium-duty vehicles (finalized March 2024), reopening the GHG and criteria-pollutant standards that were to phase in across MY2027-2032."
-    },
-    {
-      "date": "2025-03-05",
-      "region": "eu",
-      "authority": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_854",
-      "note": "The European Commission presented its Industrial Action Plan for the automotive sector on 5 March 2025, including the proposal to add CO2-compliance flexibility (three-year averaging for 2025-2027), a European Connected and Autonomous Vehicle Alliance, and battery-manufacturing support."
-    },
-    {
-      "date": "2025-03-03",
-      "region": "japan",
-      "authority": "Japan MLIT",
-      "url": "https://www.morihamada.com/en/insights/newsletters/121711",
-      "note": "On 3 March 2025 Japan's MLIT study group published its final report on measures to ensure the safety performance of automated vehicles, proposing scenario-based tests requiring AVs to exceed a 'competent and careful human driver' and In-Service Monitoring and Reporting (ISMR) by manufacturers after launch."
     }
   ]
 }
