@@ -2,6 +2,8 @@ Title: Ministry of Road Transport & Highways, Government Of India
 
 URL Source: https://morth.nic.in/
 
+Warning: Target URL returned error 400: Bad Request
+
 Markdown Content:
 ![Image 1: MoRTH](http://morth.gov.in/assets/images/govtlogo.svg)[Government of India**Ministry of Road Transport and Highways**](http://morth.gov.in/#/ "MoRTH")
 
@@ -332,7 +334,7 @@ This Website belongs to Ministry of Road Transport and Highways, Government of I
 
 [![Image 74: myGov](http://morth.gov.in/assets/images/mygovmerisarkar.webp)](https://www.mygov.in/)[![Image 75: National Portal Of India](http://morth.gov.in/assets/images/indiaportal.svg)](https://www.india.gov.in/)
 
-Last Updated On: Jul 4, 2026
+Last Updated On: Jul 5, 2026
 
 This website uses cookies to provide a better user experience.
 
