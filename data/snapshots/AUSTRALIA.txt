@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 08 Jul 2026 07:12:01 GMT
+Published Time: Thu, 09 Jul 2026 08:48:09 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -2184,6 +2184,12 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [Custodian Requests Register](https://www.infrastructure.gov.au/media-communications/phone/triple-zero-custodian/custodian-requests-register)
             *   [Triple Zero Legislative and Regulatory Review](https://www.infrastructure.gov.au/media-communications/phone/triple-zero-custodian/triple-zero-legislative-and-regulatory-review)
 
+        *   [Triple Zero](https://www.infrastructure.gov.au/media-communications/phone/triple-zero)
+            *   [Emergency call service regulations](https://www.infrastructure.gov.au/media-communications/phone/triple-zero/emergency-call-service-regulations)
+            *   [How to call Triple Zero (000)](https://www.infrastructure.gov.au/media-communications/phone/triple-zero/how-call-triple-zero-000)
+            *   [State and territory emergency service organisations](https://www.infrastructure.gov.au/media-communications/phone/triple-zero/state-and-territory-emergency-service-organisations)
+            *   [Using other emergency numbers](https://www.infrastructure.gov.au/media-communications/phone/triple-zero/using-other-emergency-numbers)
+
         *   [Unwanted communications](https://www.infrastructure.gov.au/media-communications-arts/phone/unwanted-communications)
 
     *   [Post](https://www.infrastructure.gov.au/media-communications-arts/post)
@@ -2225,7 +2231,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [Need for Wireless Connectivity](https://www.infrastructure.gov.au/media-communications-arts/spectrum/5g-and-eme/need-wireless-connectivity)
 
         *   [Interference to radio communications](https://www.infrastructure.gov.au/media-technology-communications/spectrum/interference-radio-communications)
-        *   [International radiocommunications](https://www.infrastructure.gov.au/media-technology-communications/spectrum/international-radiocommunications)
+        *   [International radiocommunications](https://www.infrastructure.gov.au/media-communications/spectrum/international-radiocommunications)
         *   [Spectrum allocations](https://www.infrastructure.gov.au/media-communications-arts/spectrum/spectrum-allocations)
             *   [26 GHz Band](https://www.infrastructure.gov.au/media-communications-arts/spectrum/spectrum-allocations/26-ghz-band)
             *   [3.4-4.0 GHz Band](https://www.infrastructure.gov.au/media-communications-arts/spectrum/spectrum-allocations/34-40-ghz-band)
