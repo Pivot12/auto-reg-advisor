@@ -1,8 +1,6 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
-
-Published Time: Sun, 12 Jul 2026 04:25:16 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -878,6 +876,7 @@ Mobile MENU
             *   [Domain names](https://www.infrastructure.gov.au/media-technology-communications/internet/internet-governance/domain-names)Expand _Domain names_ sub menu
                 *   [2018 Review of the .au Domain Administration](https://www.infrastructure.gov.au/media-communications-arts/internet/internet-governance/domain-names/2018-review-au-domain-administration)
 
+            *   [New top-level domains](https://www.infrastructure.gov.au/media-communications/internet/internet-governance/new-top-level-domains)
             *   [Our policy approach](https://www.infrastructure.gov.au/media-communications/internet/internet-governance/our-policy-approach)
             *   [Spam](https://www.infrastructure.gov.au/media-technology-communications/internet/internet-governance/spam)
 
@@ -2057,6 +2056,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [Domain names](https://www.infrastructure.gov.au/media-technology-communications/internet/internet-governance/domain-names)
                 *   [2018 Review of the .au Domain Administration](https://www.infrastructure.gov.au/media-communications-arts/internet/internet-governance/domain-names/2018-review-au-domain-administration)
 
+            *   [New top-level domains](https://www.infrastructure.gov.au/media-communications/internet/internet-governance/new-top-level-domains)
             *   [Our policy approach](https://www.infrastructure.gov.au/media-communications/internet/internet-governance/our-policy-approach)
             *   [Spam](https://www.infrastructure.gov.au/media-technology-communications/internet/internet-governance/spam)
 
