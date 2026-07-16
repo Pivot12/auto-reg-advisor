@@ -70,6 +70,7 @@ Back Previous items Next items
 *   [Home](https://single-market-economy.ec.europa.eu/index_en)
 *   [Single market](https://single-market-economy.ec.europa.eu/single-market_en)
 
+    *   [Digital Product Passport](https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en)
     *   [Single market strategy](https://single-market-economy.ec.europa.eu/single-market/strategy_en)
     *   [Single market for goods](https://single-market-economy.ec.europa.eu/single-market/goods_en)
     *   [Single market for services](https://single-market-economy.ec.europa.eu/single-market/services_en)
