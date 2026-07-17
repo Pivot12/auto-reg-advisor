@@ -82,6 +82,8 @@ Markdown Content:
 
 *   ![Image 45](https://www.mlit.go.jp/en/content/0426_screenshot.png)
 
+*   [Japan-U.S. Joint R&D on AI Shipbuilding Technologies Launches(2026/7/17)](https://www.mlit.go.jp/en/report/press/kaiji05_hh_000003.html)
+
 *   [Japan and India Strengthen Collaboration in Smart City Development - Signing of Memorandum of Cooperation with Thane Municipal Corporation, Thane, Maharashtra, Republic of India -(2025/12/12)](https://www.mlit.go.jp/en/report/press/sogo07_hh_000009.html)
 
 *   [Election Results for the President of the ICAO Council(2025/11/27)](https://www.mlit.go.jp/en/report/press/kouku03_hh_000002.html)
