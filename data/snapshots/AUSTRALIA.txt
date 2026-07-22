@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Tue, 21 Jul 2026 08:15:39 GMT
+Published Time: Wed, 22 Jul 2026 06:23:14 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -543,6 +543,7 @@ Mobile MENU
             *   [RVS news](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/news)
             *   [Guides and resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvs-guides-and-resources)Expand _Guides and resources_ sub menu
                 *   [Creating a user account in ROVER](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/creating-user-account)
+                *   [Multi-factor authentication support](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/guides-and-resources/multi-factor-authentication-support)
                 *   [ROVER identity document guide](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/identity-verification-guide)
                 *   [Authority to Act in ROVER](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/authority-act)
                 *   [How is my personal and commercial information in ROVER managed?](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/guides-and-resources/how-my-personal-and-commercial-information-rover-managed)
@@ -1723,6 +1724,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [RVS news](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/news)
             *   [Guides and resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvs-guides-and-resources)
                 *   [Creating a user account in ROVER](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/creating-user-account)
+                *   [Multi-factor authentication support](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/guides-and-resources/multi-factor-authentication-support)
                 *   [ROVER identity document guide](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/identity-verification-guide)
                 *   [Authority to Act in ROVER](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/rover-resources/authority-act)
                 *   [How is my personal and commercial information in ROVER managed?](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/guides-and-resources/how-my-personal-and-commercial-information-rover-managed)
