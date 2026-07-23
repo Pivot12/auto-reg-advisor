@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 22 Jul 2026 06:23:14 GMT
+Published Time: Thu, 23 Jul 2026 06:46:59 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -207,22 +207,21 @@ Mobile MENU
         *   [Regional & remote aviation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation)Expand _Regional & remote aviation_ sub menu
             *   [Airservices Australia Enroute Charges Payment Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/enroute-charges-payment-scheme)
             *   [Regional Airports Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program)Expand _Regional Airports Program_ sub menu
-                *   [Regional Airports Program - Round 1 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-1)
-                *   [Regional Airports Program - Round 2 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-2)
+                *   [Regional Airports Program - Round 4 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/regional-airports-program-round-4-successful-projects)
                 *   [Regional Airports Program - Round 3 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-3)
-                *   [Regional and Remote Airport Support Program – Approved applicants](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/regional-and-remote-airport-support-program-approved-applicants)
+                *   [Regional Airports Program - Round 2 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-2)
+                *   [Regional Airports Program - Round 1 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-1)
 
+            *   [Regional and Remote Airport Support Program – Approved applicants](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-and-remote-airport-support-program-approved-applicants)
             *   [Remote Aerodrome Inspection Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-aerodrome-inspection-programme)
             *   [Remote Air Services Subsidy Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-air-services-subsidy)
             *   [Remote Airstrip Upgrade Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade)Expand _Remote Airstrip Upgrade Program_ sub menu
-                *   [Remote Airstrip Upgrade Program Round 3 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-3)
-                *   [Remote Airstrip Upgrade Program Round 4 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-4)
-                *   [Remote Airstrip Upgrade Program Round 6 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-6)
-                *   [Remote Airstrip Upgrade Program Round 7 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-7)
+                *   [Remote Airstrip Upgrade Program Round 11—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade-program/remote-airstrip-upgrade-program-round-11-approved-projects)
+                *   [Remote Airstrip Upgrade Program Round 10—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-10)
+                *   [Remote Airstrip Upgrade Program Round 9—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-9)
                 *   [Remote Airstrip Upgrade Program Round 8—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-8)
-                *   [Remote Airstrip Upgrade Program round 9—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-9)
-                *   [Remote Airstrip Upgrade Program round 10—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-10)
-                *   [Remote Airstrip Upgrade Program round 11—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade-program/remote-airstrip-upgrade-program-round-11-approved-projects)
+                *   [Remote Airstrip Upgrade Program Round 7 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-7)
+                *   [Remote Airstrip Upgrade Program Round 6 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-6)
 
         *   [Aviation Rescue and Fire Fighting Services (ARFFS) regulatory policy review](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/arffs-policy-review)Expand _Aviation Rescue and Fire Fighting Services (ARFFS) regulatory policy review_ sub menu
             *   [Submissions to the Aviation Rescue and Fire Fighting regulatory policy review consultation paper](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/arffs-policy-review/submissions)
@@ -514,6 +513,7 @@ Mobile MENU
 
         *   [Infrastructure and Transport Ministers' Meetings](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings)Expand _Infrastructure and Transport Ministers' Meetings_ sub menu
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
+            *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)
 
         *   [Office of Future Transport Technology](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)Expand _Office of Future Transport Technology_ sub menu
             *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles)
@@ -573,7 +573,6 @@ Mobile MENU
             *   [Quality management system requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/rvs/qms)
             *   [Contact us](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/contact-us)
 
-        *   [Regulator Performance Framework](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-safety-standards-information/regulator-performance-framework)
         *   [Vehicle design regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation)Expand _Vehicle design regulation_ sub menu
             *   [Australian Design Rules](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/australian-design-rules)Expand _Australian Design Rules_ sub menu
                 *   [Second Edition Australian Design Rules](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/australian-design-rules/second-edition)
@@ -1195,7 +1194,7 @@ This page provides links to information about road vehicle standards. Please fol
 
 The Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts acknowledges the Traditional Custodians of Country throughout Australia.
 
-Aboriginal and Torres Strait Islander people are advised that this website may contain images, voices and names of deceased people.
+_Aboriginal and Torres Strait Islander people are advised that this website may contain images, voices and names of deceased people._
 
 ## Site links
 
@@ -1388,22 +1387,21 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
         *   [Regional & remote aviation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation)
             *   [Airservices Australia Enroute Charges Payment Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/enroute-charges-payment-scheme)
             *   [Regional Airports Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program)
-                *   [Regional Airports Program - Round 1 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-1)
-                *   [Regional Airports Program - Round 2 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-2)
+                *   [Regional Airports Program - Round 4 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/regional-airports-program-round-4-successful-projects)
                 *   [Regional Airports Program - Round 3 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-3)
-                *   [Regional and Remote Airport Support Program – Approved applicants](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/regional-and-remote-airport-support-program-approved-applicants)
+                *   [Regional Airports Program - Round 2 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-2)
+                *   [Regional Airports Program - Round 1 successful projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-airports-program/round-1)
 
+            *   [Regional and Remote Airport Support Program – Approved applicants](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/regional-and-remote-airport-support-program-approved-applicants)
             *   [Remote Aerodrome Inspection Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-aerodrome-inspection-programme)
             *   [Remote Air Services Subsidy Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-air-services-subsidy)
             *   [Remote Airstrip Upgrade Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade)
-                *   [Remote Airstrip Upgrade Program Round 3 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-3)
-                *   [Remote Airstrip Upgrade Program Round 4 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-4)
-                *   [Remote Airstrip Upgrade Program Round 6 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-6)
-                *   [Remote Airstrip Upgrade Program Round 7 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-7)
+                *   [Remote Airstrip Upgrade Program Round 11—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade-program/remote-airstrip-upgrade-program-round-11-approved-projects)
+                *   [Remote Airstrip Upgrade Program Round 10—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-10)
+                *   [Remote Airstrip Upgrade Program Round 9—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-9)
                 *   [Remote Airstrip Upgrade Program Round 8—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-8)
-                *   [Remote Airstrip Upgrade Program round 9—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-9)
-                *   [Remote Airstrip Upgrade Program round 10—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-10)
-                *   [Remote Airstrip Upgrade Program round 11—approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade-program/remote-airstrip-upgrade-program-round-11-approved-projects)
+                *   [Remote Airstrip Upgrade Program Round 7 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-7)
+                *   [Remote Airstrip Upgrade Program Round 6 – approved projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/regional-remote-aviation/remote-airstrip-upgrade/round-6)
 
         *   [Aviation Rescue and Fire Fighting Services (ARFFS) regulatory policy review](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/arffs-policy-review)
             *   [Submissions to the Aviation Rescue and Fire Fighting regulatory policy review consultation paper](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/arffs-policy-review/submissions)
@@ -1695,6 +1693,7 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
 
         *   [Infrastructure and Transport Ministers' Meetings](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings)
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
+            *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)
 
         *   [Office of Future Transport Technology](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)
             *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles)
@@ -1754,7 +1753,6 @@ Aboriginal and Torres Strait Islander people are advised that this website may c
             *   [Quality management system requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/rvs/qms)
             *   [Contact us](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/contact-us)
 
-        *   [Regulator Performance Framework](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-safety-standards-information/regulator-performance-framework)
         *   [Vehicle design regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation)
             *   [Australian Design Rules](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/australian-design-rules)
                 *   [Second Edition Australian Design Rules](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/australian-design-rules/second-edition)
