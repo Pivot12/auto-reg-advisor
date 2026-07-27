@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 26 Jul 2026 06:08:20 GMT
+Published Time: Mon, 27 Jul 2026 07:39:24 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -568,7 +568,9 @@ Mobile MENU
             *   [Component type approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/component-type-approvals)
             *   [Low ATM trailers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/low-atm-trailers)
             *   [High ATM trailers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/high-atm-trailers)
-            *   [RVSA Industry Webinars](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvsa-industry-webinars)
+            *   [RVSA Industry Webinars](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvsa-industry-webinars)Expand _RVSA Industry Webinars_ sub menu
+                *   [Microsoft Forms Privacy Collection Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvsa-industry-webinars/microsoft-forms-privacy-collection-notice)
+
             *   [The Regulatory Report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/regulatory-report)
             *   [Quality management system requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/rvs/qms)
             *   [Contact us](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/contact-us)
@@ -1749,6 +1751,8 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Low ATM trailers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/low-atm-trailers)
             *   [High ATM trailers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/high-atm-trailers)
             *   [RVSA Industry Webinars](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvsa-industry-webinars)
+                *   [Microsoft Forms Privacy Collection Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/rvsa-industry-webinars/microsoft-forms-privacy-collection-notice)
+
             *   [The Regulatory Report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/road-vehicle-standards-laws/regulatory-report)
             *   [Quality management system requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/rvs/qms)
             *   [Contact us](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/contact-us)
