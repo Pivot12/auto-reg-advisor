@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 27 Jul 2026 07:39:24 GMT
+Published Time: Tue, 28 Jul 2026 08:54:08 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -598,6 +598,7 @@ Mobile MENU
         *   [Importing a road vehicle into Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia)Expand _Importing a road vehicle into Australia_ sub menu
             *   [8 steps to importing a vehicle](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia/8-steps-importing-vehicle)
             *   [Concessional RAV entry approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/concessional-rav-entry-approvals)
+            *   [Check your trailer requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/check-your-trailer-requirements)
             *   [Non-RAV entry import approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/non-rav-entry-import-approvals)
             *   [Reimportation import approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/reimportation-import-approvals)
             *   [Vehicle Identification Numbers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/vin)
@@ -1780,6 +1781,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Importing a road vehicle into Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia)
             *   [8 steps to importing a vehicle](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia/8-steps-importing-vehicle)
             *   [Concessional RAV entry approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/concessional-rav-entry-approvals)
+            *   [Check your trailer requirements](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/check-your-trailer-requirements)
             *   [Non-RAV entry import approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/non-rav-entry-import-approvals)
             *   [Reimportation import approvals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/reimportation-import-approvals)
             *   [Vehicle Identification Numbers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-vehicle/vin)
