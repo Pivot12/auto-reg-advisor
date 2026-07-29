@@ -5,6 +5,8 @@ URL Source: https://www.nhtsa.gov/laws-regulations
 Published Time: Fri, 20 Feb 2026 02:26:23 GMT
 
 Markdown Content:
+[Skip to feedback](https://www.nhtsa.gov/laws-regulations#fba-button)
+
 [Skip to main content](https://www.nhtsa.gov/laws-regulations#main-content)
 
 ![Image 1](https://www.nhtsa.gov/themes/custom/nhtsa_2024/images/us_flag_small.png)
@@ -248,3 +250,161 @@ Washington, D.C.20590
 [Submit Feedback >](https://www.transportation.gov/feedback?title=NHTSA%20Page&url=https%3A%2F%2Fnhtsa.gov%2F)
 
 [Go to top of page](https://www.nhtsa.gov/laws-regulations#site-wrapper)
+
+Provide Your Feedback
+
+# ![Image 10: National Highway Traffic Safety Administration logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/6082/tag_nhtsa-brand.2.png)
+
+ Feedback Survey
+
+ Thank you for visiting NHTSA.gov and sharing your experience. Your feedback helps us improve, providing you the best digital service, information and digital experience. 
+
+A red asterisk (*) indicates a required field.
+
+## Survey received
+
+ Your feedback was received. Thank you for helping us enhance your experience and improve NHTSA.gov. 
+
+## Error
+
+alert message
+
+ Feedback -  page 1 of 2 
+
+ How do you rate your overall experience on NHTSA.gov? *
+
+ Select only one. 
+
+Satisfied (5) 
+
+Somewhat Satisfied (4) 
+
+Neutral (3) 
+
+Somewhat Dissatisfied (2) 
+
+Dissatisfied (1) 
+
+ Were you able to complete your main task? *
+
+ Select only one. 
+
+Yes 
+
+No 
+
+ Which best describes your role for today's visit? *
+
+ Select only one. 
+
+Consumer/Owner 
+
+Parent/Caregiver 
+
+Researcher 
+
+Manufacturer 
+
+Traffic safety stakeholder 
+
+Mechanic/Vehicle service 
+
+Other 
+
+Enter other text 
+
+ Would you like to take two more minutes to answer more questions to help us improve our services? 
+
+[Yes, keep going →](https://www.nhtsa.gov/laws-regulations#next-page)No, only submit these responses
+
+[← Back](https://www.nhtsa.gov/laws-regulations#previous-page)
+
+ Feedback -  page 2 of 2 
+
+ Which best describes the main tasks bringing you to this site? 
+
+ Select all that apply. 
+
+- [x] Check for recalls 
+
+- [x] Learn about child seats 
+
+- [x] Search safety ratings 
+
+- [x] Report a safety problem 
+
+- [x] Get other road or vehicle safety information 
+
+- [x] View research, data and statistics 
+
+- [x] Review regulations, news and/or alerts 
+
+- [x] Other 
+
+Enter other text 
+
+ Which digital tools did you use today? 
+
+ Select all that apply. 
+
+- [x] Recalls search 
+
+- [x] Report safety problems 
+
+- [x] Safety ratings search 
+
+- [x] Car seat finder 
+
+- [x] Email alert signup 
+
+- [x] I didn't use a digital tool. 
+
+- [x] Other 
+
+Enter other text 
+
+ If you used a digital tool, how was your experience? 
+
+ Select only one. 
+
+I easily completed the process. 
+
+I completed the process with only minor difficulty. 
+
+I completed the process but had difficulty finding information and/or using the tools. 
+
+I struggled completing the process due to issues like not finding information, confusing directions, constant errors and/or couldn’t find help. 
+
+I couldn't complete my task. 
+
+Other 
+
+Enter other text 
+
+ If you used the site's search box, how do you rate the relevance of the search results? 
+
+ Select only one. 
+
+Excellent (5) 
+
+Good (4) 
+
+Fair (3) 
+
+Poor (2) 
+
+Unacceptable (1) 
+
+ How can we improve the information and services on NHTSA.gov?   1000 characters allowed 
+
+Submit
+
+* * *
+
+ Estimated time to compete is 3 minutes. All responses are voluntary. Send questions and/or comments about this survey to: [NHTSA Webmaster](mailto:nhtsa.webmaster@dot.gov). 
+
+![Image 11: U.S. flag](https://touchpoints.app.cloud.gov/img/us_flag_small.png)
+
+An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)
+
+ OMB Approval #2127-0682 · Expiration Date 01/31/2029
