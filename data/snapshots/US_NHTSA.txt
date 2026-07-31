@@ -61,7 +61,7 @@ Search the site
     *   [Takata Recall Spotlight](https://www.nhtsa.gov/vehicle-safety/takata-recall-spotlight)
     *   [Driver Assistance Technologies](https://www.nhtsa.gov/vehicle-safety/driver-assistance-technologies)
     *   [Electric & Hybrid Vehicles](https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles)
-    *   [Automated Vehicles](https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety)
+    *   [Automated Vehicles](https://www.nhtsa.gov/vehicle-safety/automated-vehicle-safety)
     *   [Vehicle Theft Prevention](https://www.nhtsa.gov/vehicle-safety/vehicle-theft-prevention)
     *   [Odometer Fraud](https://www.nhtsa.gov/vehicle-safety/odometer-fraud)
     *   [Adapted Vehicles](https://www.nhtsa.gov/vehicle-safety/adapted-vehicles)
