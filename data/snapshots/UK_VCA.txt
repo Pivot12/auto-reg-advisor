@@ -148,8 +148,8 @@ In addition to providing type approval technical and approval authority services
 
 ## Latest Publications
 
+*   [eCoC Portal – API Integration Guidance](https://www.vehicle-certification-agency.gov.uk/download-publication/26290/eCoC-API-Guide_v1.2/)
 *   [VCA Fees Consultation Response](https://www.vehicle-certification-agency.gov.uk/download-publication/25370/VCA%20Fees%20Consultation%20Response/)
-*   [eCoC Portal – User Guide](https://www.vehicle-certification-agency.gov.uk/download-publication/24871/eCoC%20Portal%20Guide%202/)
 
  Latest Updates from VCA 
 *   [We are improving how users access VCA online services](https://www.vehicle-certification-agency.gov.uk/blog/we-are-improving-how-users-access-vca-online-services/)June 5, 2026
