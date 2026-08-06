@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 05 Aug 2026 08:51:08 GMT
+Published Time: Thu, 06 Aug 2026 08:31:36 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -48,8 +48,10 @@ Mobile MENU
 
             *   [Airport planning and regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation)Expand _Airport planning and regulation_ sub menu
                 *   [Airport environmental management](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation/airport-environmental-management)Expand _Airport environmental management_ sub menu
+                    *   [Airport Environment Governance Framework](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-and-regulation/airport-environmental-management/airport-environment-governance-framework)
                     *   [Airport Environment Officer FAQs](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation/airport-environmental-management/faq)
                     *   [Airport Environment Officer contacts](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation/airport-environmental-management/contacts)
+                    *   [Environmental compliance monitoring and regulatory responses](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-and-regulation/airport-environmental-management/environmental-compliance-monitoring-and-regulatory-responses)
 
                 *   [Liquor licensing regime](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation/liquor-licensing)
                 *   [Parking Infringement Notices Scheme (PINS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-planning-regulation/pins)
@@ -242,6 +244,27 @@ Mobile MENU
             *   [Research projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/research-projects)
             *   [Keep in touch](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/keep-touch)
             *   [Airline and Airport information](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/airline-and-airport-information)
+            *   [Australian Air Passenger Travel Guide](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide)Expand _Australian Air Passenger Travel Guide_ sub menu
+                *   [Section 1—Plan smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-1-plan-smart)
+                *   [Section 2—Book smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-2-book-smart)
+                *   [Section 3—Before and at the airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-3-and-airport)
+                *   [Section 4—On the flight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-4-flight)
+                *   [Section 5—Arriving at your destination airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-5-arriving-your-destination-airport)
+                *   [Section 6—Delayed, lost or damaged baggage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-6-delayed-lost-or-damaged-baggage)
+                *   [Section 7—Making a complaint](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-7-making-complaint)
+                *   [Section 8—Travelling with disability](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-8-travelling-disability)
+                *   [Section 9—Key contacts and resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-9-key-contacts-and-resources)
+                *   [Accessible and translated resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources)Expand _Accessible and translated resources_ sub menu
+                    *   [Auslan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/auslan)
+                    *   [Easy Read](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/easy-read)
+                    *   [(Arabic) عربي](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/arabic-rby)
+                    *   [简体中文 (Simplified Chinese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/jiantizhongwen-simplified-chinese)
+                    *   [繁體中文 (Traditional Chinese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/fantizhongwen-traditional-chinese)
+                    *   [ελληνικά (Greek)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/ellinika-greek)
+                    *   [Italiano (Italian)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/italiano-italian)
+                    *   [Tiếng Việt (Vietnamese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/tieng-viet-vietnamese)
+
+                *   [Digital information kit for stakeholders](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/digital-information-kit-stakeholders)
 
         *   [Aviation consumer protections](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-protections)
         *   [PFAS—Airports Investigation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program)Expand _PFAS—Airports Investigation Program_ sub menu
@@ -1426,6 +1449,27 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Research projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/research-projects)
             *   [Keep in touch](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/keep-touch)
             *   [Airline and Airport information](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/airline-and-airport-information)
+            *   [Australian Air Passenger Travel Guide](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide)
+                *   [Section 1—Plan smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-1-plan-smart)
+                *   [Section 2—Book smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-2-book-smart)
+                *   [Section 3—Before and at the airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-3-and-airport)
+                *   [Section 4—On the flight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-4-flight)
+                *   [Section 5—Arriving at your destination airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-5-arriving-your-destination-airport)
+                *   [Section 6—Delayed, lost or damaged baggage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-6-delayed-lost-or-damaged-baggage)
+                *   [Section 7—Making a complaint](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-7-making-complaint)
+                *   [Section 8—Travelling with disability](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-8-travelling-disability)
+                *   [Section 9—Key contacts and resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-9-key-contacts-and-resources)
+                *   [Accessible and translated resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources)
+                    *   [Auslan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/auslan)
+                    *   [Easy read](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/easy-read)
+                    *   [(Arabic) عربي](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/arabic-rby)
+                    *   [ελληνικά (Greek)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/ellinika-greek)
+                    *   [Italiano (Italian)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/italiano-italian)
+                    *   [简体中文 (Simplified Chinese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/jiantizhongwen-simplified-chinese)
+                    *   [繁體中文 (Traditional Chinese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/fantizhongwen-traditional-chinese)
+                    *   [Tiếng Việt (Vietnamese)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/accessible-and-translated-resources/tieng-viet-vietnamese)
+
+                *   [Digital information kit for stakeholders](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/digital-information-kit-stakeholders)
 
         *   [Aviation consumer protections](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-protections)
         *   [PFAS—Airports Investigation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program)
