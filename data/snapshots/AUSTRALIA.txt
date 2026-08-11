@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 09 Aug 2026 09:17:41 GMT
+Published Time: Tue, 11 Aug 2026 08:02:30 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -243,7 +243,6 @@ Mobile MENU
             *   [Making a complaint](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/making-complaint)
             *   [Research projects](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/research-projects)
             *   [Keep in touch](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/keep-touch)
-            *   [Airline and Airport information](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/airline-and-airport-information)
             *   [Australian Air Passenger Travel Guide](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide)Expand _Australian Air Passenger Travel Guide_ sub menu
                 *   [Section 1—Plan smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-1-plan-smart)
                 *   [Section 2—Book smart](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/australian-air-passenger-travel-guide/section-2-book-smart)
@@ -940,7 +939,7 @@ Mobile MENU
         *   [World Summit on the Information Society (WSIS)](https://www.infrastructure.gov.au/media-communications/internet/world-summit-information-society-wsis)
         *   [International Telecommunication Union](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union)Expand _International Telecommunication Union_ sub menu
             *   [Australia for ITU Council 2026](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australia-itu-council-2026)
-            *   [Australian-funded ITU development projects](https://www.infrastructure.gov.au/media-communications-arts/internet/international-telecommunication-union/australian-funded-itu-development-projects)
+            *   [Australian-funded ITU development projects](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australian-funded-itu-development-projects)
 
     *   [Media, gambling laws & regulation](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)Expand _Media, gambling laws & regulation_ sub menu
         *   [ACMA legislated functions](https://www.infrastructure.gov.au/media-technology-communications/media-laws-regulation/acma-legislated-functions)Expand _ACMA legislated functions_ sub menu
