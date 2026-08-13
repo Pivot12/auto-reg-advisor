@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 12 Aug 2026 06:33:58 GMT
+Published Time: Thu, 13 Aug 2026 07:57:23 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -700,6 +700,7 @@ Mobile MENU
                     *   [The Cocos (Keeling) Islands Coastal Hazard Risk Management and Adaptation Plan Project](https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/cocos-keeling-islands/cocos-keeling-islands-projects-community-consultations/cocos-keeling-islands-coastal-hazard-risk-management-and-adaptation-plan)
 
                 *   [Cocos (Keeling) Islands travel information](https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information)
+                *   [Services delivered by the WA Government](https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/cocos-keeling-islands/services-delivered-wa-government)
 
             *   [Indian Ocean Territories administrator](https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/indian-ocean-territories-administrator)
             *   [Community Bulletins, Updates and Media Releases](https://www.infrastructure.gov.au/territories-regions/territories/indian-ocean-territories-christmas-island-and-cocos-keeling-islands/community-bulletins-updates-and-media-releases)Expand _Community Bulletins, Updates and Media Releases_ sub menu
