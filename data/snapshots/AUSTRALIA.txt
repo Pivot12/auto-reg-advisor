@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Thu, 20 Aug 2026 08:28:30 GMT
+Published Time: Fri, 21 Aug 2026 07:15:50 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -534,6 +534,7 @@ Mobile MENU
             *   [National Freight & Supply Chain Strategy](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/freight-supply-chains/national-freight-supply-chain-strategy)
             *   [National Freight Data Hub](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/freight-supply-chains/national-freight-data-hub)
 
+        *   [Independent price regulation of heavy vehicle charges](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/heavy-vehicle-road-reform/independent-price-regulation-heavy-vehicle-charges)
         *   [Infrastructure and Transport Ministers' Meetings](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings)Expand _Infrastructure and Transport Ministers' Meetings_ sub menu
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
             *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)

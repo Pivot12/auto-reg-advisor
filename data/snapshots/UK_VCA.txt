@@ -3,6 +3,14 @@ Title: Homepage - Vehicle Certification Agency
 URL Source: https://www.vehicle-certification-agency.gov.uk/
 
 Markdown Content:
+New GB/UKNI Type Approval Legislation Now in Effect
+
+The GB/UKNI Type Approval implementation date of 1 February 2026 has passed. All M & N category vehicle types manufactured for sale in Great Britain must hold full GB or UKNI type approval(g11 or n11).
+
+[Click here to learn more](https://www.vehicle-certification-agency.gov.uk/blog/new-gb-ukni-type-approval-legislation-now-in-effect/)
+
+✕
+
 [Skip to main content](https://www.vehicle-certification-agency.gov.uk/#content)
 
 The Vehicle Certification Agency uses essential cookies and similar technologies that allow the site to work properly. It also uses website usage cookies that can be switched on or off. Closing this box will disable website usage cookies.
@@ -109,28 +117,35 @@ Our Dangerous Goods Office is the UK authority for the certification of packagin
 
 ![Image 18](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
 
-![Image 19: Fuel Consumption and CO<sub>2</sub>](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/01/cars-vans-emissions.jpg)
+![Image 19: Dangerous Goods Seminar 2026 ](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2024/08/Web-homepage.jpg)
+
+[Dangerous Goods Seminar 2026](https://www.vehicle-certification-agency.gov.uk/dangerous-goods/dangerous-goods-seminar/)
+Our annual event which covers a wide range of issues connected with the handling, consigning and transport of dangerous goods.
+
+![Image 20](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
+
+![Image 21: Fuel Consumption and CO<sub>2</sub>](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/01/cars-vans-emissions.jpg)
 
 [Fuel Consumption and CO 2](https://www.vehicle-certification-agency.gov.uk/fuel-consumption-co2/)
 We have developed databases listing most of the cars and new vans available for sale in the UK. Follow the link below for more information on using the databases, and the other related services to industry offered by us.
 
-![Image 20](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
+![Image 22](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
 
-![Image 21: Other Certification](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/01/other_certification.jpg)
+![Image 23: Other Certification](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/01/other_certification.jpg)
 
 [Other Certification](https://www.vehicle-certification-agency.gov.uk/other-certification/)
 In addition to our Type Approval role, we carry out a number of additional certification activities. Learn more about these here.
 
-![Image 22](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
+![Image 24](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
 
-![Image 23: Vehicle Importing](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/03/vehicle-importing.jpg)
+![Image 25: Vehicle Importing](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/03/vehicle-importing.jpg)
 
 [Vehicle Importing](https://www.vehicle-certification-agency.gov.uk/vehicle-importing/)
 This service will be of interest to you if you're wishing to permanently import a car, motorcycle, or goods vehicle into the UK.
 
-![Image 24](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
+![Image 26](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask-home.png)
 
-![Image 25: Legislation](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/03/legislation.jpg)
+![Image 27: Legislation](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2020/03/legislation.jpg)
 
 [Legislation](https://www.vehicle-certification-agency.gov.uk/legislation-information-services/)
 In addition to providing type approval technical and approval authority services, we can also provide copies of all automotive European Community and UN ECE legislation in a number of ways.
@@ -158,11 +173,11 @@ In addition to providing type approval technical and approval authority services
 *   [New GB Type Approval Legislation: Cyber Security & Software Updates Introduced](https://www.vehicle-certification-agency.gov.uk/blog/new-gb-type-approval-legislation-cyber-security-software-updates-introduced/)November 13, 2025
 *   [Technical Service Designations: First Tranche Announced](https://www.vehicle-certification-agency.gov.uk/blog/technical-service-designations-first-tranche-announced/)November 13, 2025
 
-![Image 26](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask.png)
+![Image 28](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/image-mask.png)
 
-![Image 27: Our Offices](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2021/08/contact-map.png)
+![Image 29: Our Offices](https://www.vehicle-certification-agency.gov.uk/wp-content/uploads/2021/08/contact-map.png)
 
-[Our Offices![Image 28: Go to Our Offices](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/triple-chevron-white.png)](https://www.vehicle-certification-agency.gov.uk/contact-us/)
+[Our Offices![Image 30: Go to Our Offices](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/triple-chevron-white.png)](https://www.vehicle-certification-agency.gov.uk/contact-us/)
 
  Is this page useful? [Yes](https://www.vehicle-certification-agency.gov.uk/)[No](https://www.vehicle-certification-agency.gov.uk/)
 
@@ -202,7 +217,7 @@ Send
 *   [About Us](https://www.vehicle-certification-agency.gov.uk/about-us/)
 *   [About this site](https://www.vehicle-certification-agency.gov.uk/about-us/about-this-site/)
 
-![Image 29: Vehicle Certification Agency](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/footer-logo.svg)
+![Image 31: Vehicle Certification Agency](https://www.vehicle-certification-agency.gov.uk/wp-content/themes/vca/images/footer-logo.svg)
 
 Search for: 
 
@@ -213,3 +228,5 @@ Search for:
 *   [Company Policies](https://www.vehicle-certification-agency.gov.uk/company-policies/)
 *   [Transparency](https://www.vehicle-certification-agency.gov.uk/transparency/)
 *   [Sitemap](https://www.vehicle-certification-agency.gov.uk/sitemap/)
+
+Notifications
