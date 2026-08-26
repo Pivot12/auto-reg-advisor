@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Tue, 25 Aug 2026 07:33:47 GMT
+Published Time: Wed, 26 Aug 2026 06:35:27 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -336,7 +336,9 @@ Mobile MENU
         *   [National Plan for Maritime Environmental Emergencies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment/national-plan-emergencies)
         *   [Navigation Act 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-safety/navigation-act-2012)
         *   [Part X (International Liner Shipping)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/part-x-international-liner-shipping)
-        *   [Protection of the marine environment](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment)
+        *   [Protection of the marine environment](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment)Expand _Protection of the marine environment_ sub menu
+            *   [Maritime Emissions Reduction National Action Plan (MERNAP)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment/mernap)
+
         *   [Protection of the sea legislation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment/protection-sea-legislation)
         *   [Supporting Australian maritime](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime)Expand _Supporting Australian maritime_ sub menu
             *   [Part X of the Competition and Consumer ACT 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/international-liner-shipping/part-x)
@@ -1545,6 +1547,8 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Navigation Act 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-safety/navigation-act-2012)
         *   [Part X (International Liner Shipping)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/part-x-international-liner-shipping)
         *   [Protection of the marine environment](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment)
+            *   [Maritime Emissions Reduction National Action Plan (MERNAP)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment/mernap)
+
         *   [Protection of the sea legislation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/protection-marine-environment/protection-sea-legislation)
         *   [Supporting Australian maritime](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime)
             *   [Part X of the Competition and Consumer ACT 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/international-liner-shipping/part-x)
