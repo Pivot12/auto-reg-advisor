@@ -191,9 +191,9 @@ Last updated on July 8, 2026
 
 [](https://www.epa.gov/regulations-emissions-vehicles-and-engines#top "Back to top")
 
-# ![Image 8: Environmental Protection Agency logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/5810/logo_square_epa_logo2.JPG)
+![Image 8: Environmental Protection Agency logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/5810/logo_square_epa_logo2.JPG)
 
- www.epa.gov Feedback Survey
+# www.epa.gov Feedback Survey
 
  Welcome! Please share your feedback on how we can make www.epa.gov work better for you. 
 

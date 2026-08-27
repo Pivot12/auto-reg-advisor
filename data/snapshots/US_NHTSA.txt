@@ -253,9 +253,9 @@ Washington, D.C.20590
 
 Provide Your Feedback
 
-# ![Image 10: National Highway Traffic Safety Administration logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/6082/tag_nhtsa-brand.2.png)
+![Image 10: National Highway Traffic Safety Administration logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/6082/tag_nhtsa-brand.2.png)
 
- Feedback Survey
+# Feedback Survey
 
  Thank you for visiting NHTSA.gov and sharing your experience. Your feedback helps us improve, providing you the best digital service, information and digital experience. 
 
