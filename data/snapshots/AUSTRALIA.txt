@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Thu, 27 Aug 2026 17:41:32 GMT
+Published Time: Fri, 28 Aug 2026 08:37:44 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -771,13 +771,14 @@ Mobile MENU
             *   [Norfolk Island state services partnership](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk_island/norfolk-island-state-services-partnership)Expand _Norfolk Island state services partnership_ sub menu
                 *   [Norfolk Island 2021 Transition Information](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/norfolk-island-state-services-partnership/norfolk-island-2021-transition-information)
 
-            *   [Norfolk Island strategy & projects](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/strategy-projects)Expand _Norfolk Island strategy & projects_ sub menu
+            *   [Norfolk Island strategy & projects](https://www.infrastructure.gov.au/territories-regions/territories/norfolk-island/norfolk-island-strategy-projects)Expand _Norfolk Island strategy & projects_ sub menu
                 *   [Kingston Pier Channel Construction Project](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/strategy-projects/kingston-pier-channel-construction-project)
                 *   [Norfolk Island Pest and Disease Survey 2021-2023](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/norfolk-island-strategy-projects/pest-and-disease-management)Expand _Norfolk Island Pest and Disease Survey 2021-2023_ sub menu
                     *   [Norfolk Island Bee Pest and Disease Survey](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/norfolk-island-strategy-projects/norfolk-island-pest-and-disease-survey-2021-2023/norfolk-island-bee-pest-and-disease-survey)
                     *   [Norfolk Island Plant Pest and Disease Survey](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/norfolk-island-strategy-projects/norfolk-island-pest-and-disease-survey-2021-2023/norfolk-island-plant-pest-and-disease-survey)
                     *   [Norfolk Marine Park Invasive Marine Species survey](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/norfolk-island-strategy-projects/norfolk-island-pest-and-disease-survey-2021-2023/norfolk-marine-park-invasive-marine-species-survey)
 
+                *   [Norfolk Island Residential Aged Care Facility](https://www.infrastructure.gov.au/territories-regions/territories/norfolk-island/norfolk-island-strategy-projects/norfolk-island-residential-aged-care-facility)
                 *   [Norfolk Island Water Resources Assessment project](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/strategy-projects/water-resources-assessment-project)
 
             *   [Norfolk Island travel information](https://www.infrastructure.gov.au/territories-regions-cities/territories/norfolk-island/travel-information)Expand _Norfolk Island travel information_ sub menu
