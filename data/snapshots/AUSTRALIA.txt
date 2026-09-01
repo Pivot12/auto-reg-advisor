@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 31 Aug 2026 12:10:57 GMT
+Published Time: Tue, 01 Sep 2026 08:02:21 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -383,6 +383,7 @@ Mobile MENU
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)Expand _TLAVs Received_ sub menu
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)Expand _2026_ sub menu
+                            *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
                             *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
                             *   [May](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-may-2026)
@@ -390,7 +391,6 @@ Mobile MENU
                             *   [March](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-march-2026)
                             *   [February](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-february-2026)
                             *   [January](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-january-2026)
-                            *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
 
                         *   [2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2025)Expand _2025_ sub menu
                             *   [December](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2025/tlavs-received-december-2025)
@@ -1594,6 +1594,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)
+                            *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
                             *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
                             *   [May](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-may-2026)
@@ -1601,7 +1602,6 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                             *   [March](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-march-2026)
                             *   [February](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-february-2026)
                             *   [January](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-january-2026)
-                            *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
 
                         *   [2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2025)
                             *   [December](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2025/tlavs-received-december-2025)

@@ -82,6 +82,8 @@ Markdown Content:
 
 *   ![Image 45](https://www.mlit.go.jp/en/content/0426_screenshot.png)
 
+*   [Summary of Minister Kaneko's Visit to the Philippines and Malaysia(2026/9/1)](https://www.mlit.go.jp/en/report/press/sogo05_hh_000027.html)
+
 *   [Selected Two New Infrastructure PPP Potential Projects in Bangladesh -The 8th Japan-Bangladesh Joint PPP Platform Meeting Held in Dhaka-(2026/8/5)](https://www.mlit.go.jp/en/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00001.html)
 
 *   [Japan-U.S. Joint R&D on AI Shipbuilding Technologies Launches(2026/7/17)](https://www.mlit.go.jp/en/report/press/kaiji05_hh_000003.html)

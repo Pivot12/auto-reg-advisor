@@ -69,6 +69,7 @@ Search Search
     *   [Headquarters Offices](https://www.epa.gov/aboutepa#hq)
     *   [Regional Offices](https://www.epa.gov/aboutepa/regional-and-geographic-offices)
     *   [Labs and Research Centers](https://www.epa.gov/aboutepa/epa-laboratories-and-science-advisory-organizations)
+    *   [Newsroom](https://www.epa.gov/newsroom)
     *   [Planning, Budget, and Results](https://www.epa.gov/planandbudget)
     *   [Organization Chart](https://www.epa.gov/aboutepa/epa-organization-chart)
     *   [EPA History](https://www.epa.gov/history)
