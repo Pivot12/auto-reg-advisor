@@ -2,7 +2,7 @@ Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 02 Sep 2026 08:06:03 GMT
+Published Time: Thu, 03 Sep 2026 07:12:26 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -177,6 +177,9 @@ Mobile MENU
 
                 *   [Protection of airspace](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace)Expand _Protection of airspace_ sub menu
                     *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace/airspace-regulation)
+
+            *   [Sydney Airport Air Traffic Control Working Group](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group)Expand _Sydney Airport Air Traffic Control Working Group_ sub menu
+                *   [Sydney Airport Air Traffic Control Working Group Communiques](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group/sydney-airport-air-traffic-control-working-group-communiques)
 
         *   [Emerging aviation technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/emerging-aviation-technologies)
         *   [General aviation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/general-aviation)Expand _General aviation_ sub menu
@@ -383,6 +386,7 @@ Mobile MENU
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)Expand _TLAVs Received_ sub menu
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)Expand _2026_ sub menu
+                            *   [September](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-september-2026)
                             *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
                             *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
@@ -1389,6 +1393,9 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                 *   [Protection of airspace](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace)
                     *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace/airspace-regulation)
 
+            *   [Sydney Airport Air Traffic Control Working Group](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group)
+                *   [Sydney Airport Air Traffic Control Working Group Communiques](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group/sydney-airport-air-traffic-control-working-group-communiques)
+
         *   [Emerging aviation technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/emerging-aviation-technologies)
         *   [General aviation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/general-aviation)
             *   [General Aviation Study terms of reference](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/general-aviation/study-terms-reference)
@@ -1594,6 +1601,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
                     *   [TLAVs Received](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-applications-and-variations-tlavs-received)
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2026)
+                            *   [September](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-september-2026)
                             *   [August](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-august-2026)
                             *   [July](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-july-2026)
                             *   [June](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-june-2026)
