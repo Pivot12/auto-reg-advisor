@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sat, 05 Sep 2026 11:59:14 GMT
+Published Time: Wed, 09 Sep 2026 12:09:54 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -928,6 +928,7 @@ Mobile MENU
 
         *   [Online safety](https://www.infrastructure.gov.au/media-communications/internet/online-safety)Expand _Online safety_ sub menu
             *   [Current legislation](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/current-legislation)
+            *   [Online Safety Amendment (Digital Duty of Care) Bill 2026—Exposure Draft](https://www.infrastructure.gov.au/media-communications/internet/online-safety/online-safety-amendment-digital-duty-care-bill-2026-exposure-draft)
             *   [Social media minimum age](https://www.infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age)
             *   [Support for online safety](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/support-online-safety)
             *   [eSafety Commissioner](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/esafety-commissioner)
@@ -2143,6 +2144,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Online safety](https://www.infrastructure.gov.au/media-communications/internet/online-safety)
             *   [Current legislation](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/current-legislation)
+            *   [Online Safety Amendment (Digital Duty of Care) Bill 2026—Exposure Draft](https://www.infrastructure.gov.au/media-communications/internet/online-safety/online-safety-amendment-digital-duty-care-bill-2026-exposure-draft)
             *   [Social media minimum age](https://www.infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age)
             *   [Support for online safety](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/support-online-safety)
             *   [eSafety Commissioner](https://www.infrastructure.gov.au/media-technology-communications/internet/online-safety/esafety-commissioner)
