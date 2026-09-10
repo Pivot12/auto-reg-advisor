@@ -188,11 +188,11 @@ search
 
 Acura Audi Bentley BMW BMW Motorcycles BRP Can-Am Buick Cadillac Chevrolet Chicago Scooter Chrysler Dodge Ducati Motorcycles Ferrari FIAT Ford Freightliner Freightliner Sprinter Genuine Scooters
 
-GMC Harley-Davidson Hino Honda Honda Motorcycles Hummer Hyundai Infiniti Jaguar Jeep Kawasaki Kia KTM Motorcycles Land Rover Lexus Lincoln Mack Trucks Maserati Mazda
+GMC Harley-Davidson Hino Honda Honda Motorcycles Hummer Hyundai Infiniti Jaguar Jeep Kawasaki Kia KTM Motorcycles Land Rover Lexus Lincoln Lucid Mack Trucks Maserati
 
-Mercedes-Benz Mercedes-Benz Sprinter Mercury MINI Mitsubishi Navistar Nissan Nova Bus Oldsmobile Polaris Polestar Pontiac Porsche Prevost ProMaster RAM Rivian Saab Saturn
+Mazda Mercedes-Benz Mercedes-Benz Sprinter Mercury MINI Mitsubishi Navistar Nissan Nova Bus Oldsmobile Polaris Polestar Pontiac Porsche Prevost ProMaster RAM Rivian Saab
 
-Scion SMART Sterling Subaru Suzuki Motorcycles Tesla Thomas Built Bus Toyota Triumph Unimog Volkswagen Volvo Volvo Bus Volvo Trucks Western Star Yamaha Motorcycles
+Saturn Scion SMART Sterling Subaru Suzuki Motorcycles Tesla Thomas Built Bus Toyota Triumph Unimog Volkswagen Volvo Volvo Bus Volvo Trucks Western Star Yamaha Motorcycles
 
 ## NHTSA Information
 
