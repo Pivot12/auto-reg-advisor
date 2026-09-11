@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Thu, 10 Sep 2026 09:21:01 GMT
+Published Time: Fri, 11 Sep 2026 11:54:27 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -308,6 +308,7 @@ Mobile MENU
 
         *   [Freight network](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-network)
         *   [Ports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/ports)
+        *   [Transport Resilience and Capacity Kickstart (TRACK) pilot program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/transport-resilience-and-capacity-kickstart-track-pilot-program)
 
     *   [Infrastructure investment & project delivery](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/infrastructure-investment-project-delivery)Expand _Infrastructure investment & project delivery_ sub menu
         *   [National Guidelines for Infrastructure Project Delivery](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/infrastructure-investment-project-delivery/national-guidelines-infrastructure-project-delivery)
@@ -1524,6 +1525,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Freight network](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/freight-network)
         *   [Ports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/ports)
+        *   [Transport Resilience and Capacity Kickstart (TRACK) pilot program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/transport-resilience-and-capacity-kickstart-track-pilot-program)
 
     *   [Infrastructure investment & project delivery](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/infrastructure-investment-project-delivery)
         *   [National Guidelines for Infrastructure Project Delivery](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/infrastructure-investment-project-delivery/national-guidelines-infrastructure-project-delivery)

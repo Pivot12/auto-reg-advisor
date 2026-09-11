@@ -15,7 +15,15 @@ All official European Union website addresses are in the **europa.eu** domain.
 
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 
-[![Image 2: European Commission logo](https://single-market-economy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/logo-ec--mute.svg)](https://commission.europa.eu/index_en)
+16 September 2026
+
+State of the Union
+
+[Discover more](https://commission.europa.eu/strategy-and-policy/state-union_en?banner)
+
+![Image 2](https://commission.europa.eu/sites/default/files/2026-08/SOTEU-2026-WePromote-banner.jpg)
+
+[![Image 3: European Commission logo](https://single-market-economy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/logo-ec--mute.svg)](https://commission.europa.eu/index_en)
 
 [en](https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en)
 
@@ -230,7 +238,7 @@ Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs
 *   [Jobs at the European Commission](https://commission.europa.eu/jobs-european-commission_en)
 *   [Vacancies at this department](https://single-market-economy.ec.europa.eu/vacancies_en)
 
-[![Image 3: European Commission logo](https://single-market-economy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg)](https://commission.europa.eu/index_en)
+[![Image 4: European Commission logo](https://single-market-economy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg)](https://commission.europa.eu/index_en)
 
 Follow the European Commission
 
