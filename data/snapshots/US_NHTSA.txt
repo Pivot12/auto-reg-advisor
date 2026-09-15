@@ -15,14 +15,12 @@ An official website of the United States government Here's how you know
 
 ![Image 2](https://www.nhtsa.gov/themes/custom/nhtsa_2024/images/icon-dot-gov.svg)
 
-**Official websites use .gov**
-
+**Official websites use .gov**  
 A **.gov** website belongs to an official government organization in the United States.
 
 ![Image 3](https://www.nhtsa.gov/themes/custom/nhtsa_2024/images/icon-https.svg)
 
-**Secure .gov websites use HTTPS**
-
+**Secure .gov websites use HTTPS**  
 A **lock** (  ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
  National Highway Traffic Safety Administration, part of the [U.S. Department of Transportation![Image 4: An icon that symbolizes the United States Department of Transportation logo.](https://www.nhtsa.gov/themes/custom/nhtsa_2024/images/DOT-logo.svg)](https://www.transportation.gov/)
@@ -235,12 +233,10 @@ Saturn Scion SMART Sterling Subaru Suzuki Motorcycles Tesla Thomas Built Bus Toy
 ![Image 7: National Highway Traffic Safety Administration](https://www.nhtsa.gov/themes/custom/nhtsa_2024/images/NHTSA-logo-small-viewport.svg)
 National Highway Traffic Safety Administration
 
-1200 New Jersey Avenue, SE
-
+1200 New Jersey Avenue, SE  
 Washington, D.C.20590
 
-[888-327-4236](tel:888-327-4236)
-
+[888-327-4236](tel:888-327-4236)  
 [888-275-9171](tel:888-275-9171) (TTY) 
 
 [Twitter](https://twitter.com/@nhtsagov)[LinkedIn](https://www.linkedin.com/company/national-highway-traffic-safety-administration-nhtsa)[Facebook](https://www.facebook.com/NHTSA)[Youtube](https://www.youtube.com/user/usdotnhtsa)[Instagram](https://www.instagram.com/nhtsagov)
@@ -405,6 +401,5 @@ Submit
 
 ![Image 11: U.S. flag](https://touchpoints.app.cloud.gov/img/us_flag_small.png)
 
-An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)
-
+An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)  
  OMB Approval #2127-0682 · Expiration Date 01/31/2029

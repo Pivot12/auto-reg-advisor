@@ -1,8 +1,6 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
-
-Published Time: Mon, 14 Sep 2026 06:59:43 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1111,7 +1109,7 @@ Mobile MENU
         *   [Media](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)
         *   [Prominence for connected TV devices](https://www.infrastructure.gov.au/media-communications-arts/television/prominence-connected-tv-devices)
         *   [Anti-siphoning](https://www.infrastructure.gov.au/media-communications-arts/television/anti-siphoning)
-        *   [Television & Media Surveys](https://www.infrastructure.gov.au/media-communications/television/television-and-media-surveys)
+        *   [Television research and surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
 
     *   [First Nations Digital Inclusion](https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion)Expand _First Nations Digital Inclusion_ sub menu
         *   [First Nations Community Wi-Fi Program - Project Noticeboard](https://www.infrastructure.gov.au/media-communications-arts/first-nations-digital-inclusion/first-nations-community-wi-fi-program-project-noticeboard)
@@ -1134,12 +1132,17 @@ Mobile MENU
 
     *   [Regional Communications Programs](https://www.infrastructure.gov.au/media-communications/regional-communications-programs)Expand _Regional Communications Programs_ sub menu
         *   [Better Connectivity Plan for Regional and Rural Australia](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia)Expand _Better Connectivity Plan for Regional and Rural Australia_ sub menu
+            *   [On Farm Connectivity Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program)Expand _On Farm Connectivity Program_ sub menu
+                *   [Case studies](https://www.infrastructure.gov.au/media-communications/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/farm-connectivity-program-case-studies)
+                *   [I want Low Power Wide Area Networks (LPWAN) equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-low-power-wide-area-networks-lpwan-equipment)
+                *   [I want connectivity equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-connectivity-equipment)
+                *   [I want environmental monitoring equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-environmental-monitoring-equipment)
+                *   [I want to farm management equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-farm-management-equipment)
+                *   [I want remote automation and control equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-remote-automation-and-control-equipment)
+
             *   [Broadcasting Resilience Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/broadcasting-resilience-program)
             *   [National Audit of Mobile Coverage](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage)Expand _National Audit of Mobile Coverage_ sub menu
                 *   [National Audit of Mobile Coverage – Mobile Coverage Non-Alignments](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage/national-audit-mobile-coverage-mobile-coverage-non-alignments)
-
-            *   [On Farm Connectivity Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program)Expand _On Farm Connectivity Program_ sub menu
-                *   [Case studies](https://www.infrastructure.gov.au/media-communications/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/farm-connectivity-program-case-studies)
 
         *   [Regional Connectivity Ministers’ Roundtable](https://www.infrastructure.gov.au/media-communications-arts/regional-communications-programs/regional-connectivity-ministers-roundtable)
 
@@ -2328,7 +2331,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Media](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)
         *   [Prominence for connected TV devices](https://www.infrastructure.gov.au/media-communications-arts/television/prominence-connected-tv-devices)
         *   [Anti-siphoning](https://www.infrastructure.gov.au/media-communications-arts/television/anti-siphoning)
-        *   [Television & Media Surveys](https://www.infrastructure.gov.au/media-communications/television/television-and-media-surveys)
+        *   [Television & Media Surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
 
     *   [First Nations Digital Inclusion](https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion)
         *   [First Nations Community Wi-Fi Program - Project Noticeboard](https://www.infrastructure.gov.au/media-communications-arts/first-nations-digital-inclusion/first-nations-community-wi-fi-program-project-noticeboard)
@@ -2351,12 +2354,17 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
     *   [Regional Communications Programs](https://www.infrastructure.gov.au/media-communications/regional-communications-programs)
         *   [Better Connectivity Plan for Regional and Rural Australia](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia)
+            *   [On Farm Connectivity Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program)
+                *   [Case studies](https://www.infrastructure.gov.au/media-communications/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/farm-connectivity-program-case-studies)
+                *   [I want Low Power Wide Area Networks (LPWAN) equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-low-power-wide-area-networks-lpwan-equipment)
+                *   [I want connectivity equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-connectivity-equipment)
+                *   [I want environmental monitoring equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-environmental-monitoring-equipment)
+                *   [I want to farm management equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-farm-management-equipment)
+                *   [I want remote automation and control equipment](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/i-want-remote-automation-and-control-equipment)
+
             *   [Broadcasting Resilience Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/broadcasting-resilience-program)
             *   [National Audit of Mobile Coverage](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage)
                 *   [National Audit of Mobile Coverage – Mobile Coverage Non-Alignments](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage/national-audit-mobile-coverage-mobile-coverage-non-alignments)
-
-            *   [On Farm Connectivity Program](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program)
-                *   [Case studies](https://www.infrastructure.gov.au/media-communications/better-connectivity-plan-regional-and-rural-australia/farm-connectivity-program/farm-connectivity-program-case-studies)
 
         *   [Regional Connectivity Ministers’ Roundtable](https://www.infrastructure.gov.au/media-communications-arts/regional-communications-programs/regional-connectivity-ministers-roundtable)
 

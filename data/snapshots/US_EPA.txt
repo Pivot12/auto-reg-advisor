@@ -17,14 +17,12 @@ Here’s how you know
 
 ![Image 2: Dot gov](https://www.epa.gov/themes/epa_theme/images/icon-dot-gov.svg)
 
-**Official websites use .gov**
-
+**Official websites use .gov**  
  A **.gov** website belongs to an official government organization in the United States.
 
 ![Image 3: HTTPS](https://www.epa.gov/themes/epa_theme/images/icon-https.svg)
 
-**Secure .gov websites use HTTPS**
-
+**Secure .gov websites use HTTPS**  
  A **lock** () or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 [](https://www.epa.gov/ "Home")Menu
@@ -214,6 +212,8 @@ question_55203_answer_01
 
  How would you rate your experience on www.epa.gov today?  *
 
+  
+
 0 Stars 1 Star 2 Stars 3 Stars 4 Stars 5 Stars 
 
  Please explain the reason for your rating. *  400 characters allowed 
@@ -250,6 +250,5 @@ Submit
 
 ![Image 9: U.S. flag](https://touchpoints.app.cloud.gov/img/us_flag_small.png)
 
-An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)
-
+An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)  
  OMB Approval #1090-0008 · Expiration Date 11/30/2027
