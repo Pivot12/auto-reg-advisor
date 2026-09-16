@@ -1,6 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
+
+Published Time: Wed, 16 Sep 2026 07:52:57 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -2331,7 +2333,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Media](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)
         *   [Prominence for connected TV devices](https://www.infrastructure.gov.au/media-communications-arts/television/prominence-connected-tv-devices)
         *   [Anti-siphoning](https://www.infrastructure.gov.au/media-communications-arts/television/anti-siphoning)
-        *   [Television & Media Surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
+        *   [Television research and surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
 
     *   [First Nations Digital Inclusion](https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion)
         *   [First Nations Community Wi-Fi Program - Project Noticeboard](https://www.infrastructure.gov.au/media-communications-arts/first-nations-digital-inclusion/first-nations-community-wi-fi-program-project-noticeboard)
