@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 20 Sep 2026 08:16:21 GMT
+Published Time: Mon, 21 Sep 2026 07:21:36 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -546,12 +546,15 @@ Mobile MENU
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
             *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)
 
-        *   [Office of Future Transport Technology](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)Expand _Office of Future Transport Technology_ sub menu
-            *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles)
-            *   [Intelligent Transport Systems](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/intelligent-transport-systems-its-cooperative-its-and-telematics)
+        *   [National Road Transport Technology Strategy and Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan)Expand _National Road Transport Technology Strategy and Action Plan_ sub menu
+            *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/automated-vehicles)Expand _Automated vehicles_ sub menu
+                *   [Connected vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/automated-vehicles/connected-vehicles)
+
+            *   [How we support emerging road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/how-we-support-emerging-road-transport-technologies)
+            *   [Intelligent Transport Systems (ITS), Cooperative ITS and telematics](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/intelligent-transport-systems-its-cooperative-its-and-telematics)
             *   [National Road Transport Technology Strategy and 2024-27 Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/national-road-transport-technology-strategy-and-2024-27-action-plan)
-            *   [Principles for a National Approach to Co-operative Intelligent Transport Systems (C-ITS) in Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/principles-national-approach-co-operative-intelligent-transport-systems-c-its-australia)
-            *   [Research on road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/research-road-transport-technologies)
+            *   [Principles for a National Approach to Co-operative Intelligent Transport Systems (C-ITS) in Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/principles-national-approach-co-operative-intelligent-transport-systems-c-its-australia)
+            *   [Research on road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/research-road-transport-technologies)
 
         *   [Regulation in the department](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/regulation-department)
         *   [Road Transport International Engagement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/road-transport-international-engagement)Expand _Road Transport International Engagement_ sub menu
@@ -1119,7 +1122,8 @@ Mobile MENU
     *   [Media Industry Programs](https://www.infrastructure.gov.au/media-communications/media-industry-programs)Expand _Media Industry Programs_ sub menu
         *   [Amplifying Australia’s Voice in the Pacific](https://www.infrastructure.gov.au/media-communications/media-industry-programs/amplifying-australias-voice-pacific)
         *   [Community Broadcasting Program](https://www.infrastructure.gov.au/media-communications-arts/media-industry-programs/community-broadcasting-program)
-        *   [News Media Assistance Program (News MAP)](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program)
+        *   [News Media Assistance Program (News MAP)](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program)Expand _News Media Assistance Program (News MAP)_ sub menu
+            *   [Strengthening connections through community media](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/strengthening-connections-through-community-media)
 
     *   [Modernising universal telecommunications services](https://www.infrastructure.gov.au/media-communications/modernising-universal-telecommunications-services)Expand _Modernising universal telecommunications services_ sub menu
         *   [Trials of voice services](https://www.infrastructure.gov.au/media-communications/modernising-universal-telecommunications-services/trials-voice-services)
@@ -1768,8 +1772,11 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
             *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)
 
-        *   [Office of Future Transport Technology](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)
+        *   [National Road Transport Technology Strategy and Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)
             *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles)
+                *   [Connected vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles/connected-vehicles)
+
+            *   [How we support emerging road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/how-we-support-emerging-road-transport-technologies)
             *   [Intelligent Transport Systems](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/intelligent-transport-systems-its-cooperative-its-and-telematics)
             *   [National Road Transport Technology Strategy and 2024-27 Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/national-road-transport-technology-strategy-and-2024-27-action-plan)
             *   [Principles for a National Approach to Co-operative Intelligent Transport Systems (C-ITS) in Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/principles-national-approach-co-operative-intelligent-transport-systems-c-its-australia)
