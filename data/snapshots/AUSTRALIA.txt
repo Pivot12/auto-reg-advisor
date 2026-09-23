@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 21 Sep 2026 07:21:36 GMT
+Published Time: Wed, 23 Sep 2026 07:40:25 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -368,7 +368,7 @@ Mobile MENU
                         *   [2015 Shipping Business Unit Industry Bulletins](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/coastal-trading-licensing-and-publications/shipping-business-unit-industry-bulletins/2015-shipping-business-unit-industry-bulletins)
 
                     *   [General Licences Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/licensing-publications/general-licences-granted)
-                    *   [Annual General Licences Reports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/reporting-and-publications/annual-general-licences-reports)
+                    *   [Annual General Licences Reports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/annual-general-licences-reports)
                     *   [Transitional General Licences Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/coastal-trading-licensing-and-publications/transitional-general-licences-granted)
                     *   [Temporary Licence Variations Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-variations-granted)Expand _Temporary Licence Variations Granted_ sub menu
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-variations-granted/2026-temporary-licence-variations-granted)
@@ -1594,7 +1594,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                         *   [2015 Shipping Business Unit Industry Bulletins](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/coastal-trading-licensing-and-publications/shipping-business-unit-industry-bulletins/2015-shipping-business-unit-industry-bulletins)
 
                     *   [General Licences Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/licensing-publications/general-licences-granted)
-                    *   [Annual General Licences Reports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/reporting-and-publications/annual-general-licences-reports)
+                    *   [Annual General Licences Reports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/annual-general-licences-reports)
                     *   [Transitional General Licences Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/maritime-business/coastal-trading/coastal-trading-licensing-and-publications/transitional-general-licences-granted)
                     *   [Temporary Licence Variations Granted](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-variations-granted)
                         *   [2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/temporary-licence-variations-granted/2026-temporary-licence-variations-granted)
@@ -1772,15 +1772,15 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Heavy Vehicle National Law Reform Implementation Steering Committee](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/heavy-vehicle-national-law-reform-implementation-steering-committee)
             *   [National Automated Access System Steering Committee (NAAS)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/infrastructure-and-transport-ministers-meetings/national-automated-access-system-steering-committee)
 
-        *   [National Road Transport Technology Strategy and Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology)
-            *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles)
-                *   [Connected vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/automated-vehicles/connected-vehicles)
+        *   [National Road Transport Technology Strategy and Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan)
+            *   [Automated vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/automated-vehicles)
+                *   [Connected vehicles](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/automated-vehicles/connected-vehicles)
 
-            *   [How we support emerging road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/how-we-support-emerging-road-transport-technologies)
-            *   [Intelligent Transport Systems](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/intelligent-transport-systems-its-cooperative-its-and-telematics)
+            *   [How we support emerging road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/how-we-support-emerging-road-transport-technologies)
+            *   [Intelligent Transport Systems (ITS), Cooperative ITS and telematics](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/intelligent-transport-systems-its-cooperative-its-and-telematics)
             *   [National Road Transport Technology Strategy and 2024-27 Action Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/national-road-transport-technology-strategy-and-2024-27-action-plan)
-            *   [Principles for a National Approach to Co-operative Intelligent Transport Systems (C-ITS) in Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/principles-national-approach-co-operative-intelligent-transport-systems-c-its-australia)
-            *   [Research on road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/office-future-transport-technology/research-road-transport-technologies)
+            *   [Principles for a National Approach to Co-operative Intelligent Transport Systems (C-ITS) in Australia](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/principles-national-approach-co-operative-intelligent-transport-systems-c-its-australia)
+            *   [Research on road transport technologies](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/national-road-transport-technology-strategy-and-action-plan/research-road-transport-technologies)
 
         *   [Regulation in the department](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/regulation-department)
         *   [Road Transport International Engagement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy/road-transport-international-engagement)
@@ -2349,6 +2349,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Amplifying Australia’s Voice in the Pacific](https://www.infrastructure.gov.au/media-communications/media-industry-programs/amplifying-australias-voice-pacific)
         *   [Community Broadcasting Program](https://www.infrastructure.gov.au/media-communications-arts/media-industry-programs/community-broadcasting-program)
         *   [News Media Assistance Program (News MAP)](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program)
+            *   [Strengthening connections through community media](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/strengthening-connections-through-community-media)
 
     *   [Modernising universal telecommunications services](https://www.infrastructure.gov.au/media-communications/modernising-universal-telecommunications-services)
         *   [Trials of voice services](https://www.infrastructure.gov.au/media-communications/modernising-universal-telecommunications-services/trials-voice-services)
