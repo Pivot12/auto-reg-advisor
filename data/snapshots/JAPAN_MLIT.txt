@@ -2,7 +2,7 @@ Title: Ministry of Land, Infrastructure, Transport and Tourism
 
 URL Source: https://www.mlit.go.jp/en/
 
-Published Time: Tue, 01 Sep 2026 05:12:13 GMT
+Published Time: Thu, 24 Sep 2026 05:09:41 GMT
 
 Markdown Content:
 # [![Image 1: Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/common/000236353.png)](https://www.mlit.go.jp/en/)
@@ -81,6 +81,8 @@ Markdown Content:
 *   ![Image 44](https://www.mlit.go.jp/en/content/001410451.jpg)
 
 *   ![Image 45](https://www.mlit.go.jp/en/content/0426_screenshot.png)
+
+*   [Accelerating Japan-U.S. Joint R&D on AI Shipbuilding Technologies(2026/9/24)](https://www.mlit.go.jp/en/report/press/kaiji05_hh_000005.html)
 
 *   [Summary of Minister Kaneko's Visit to the Philippines and Malaysia(2026/9/1)](https://www.mlit.go.jp/en/report/press/sogo05_hh_000027.html)
 
