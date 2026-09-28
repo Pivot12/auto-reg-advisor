@@ -2,7 +2,7 @@ Title: Ministry of Land, Infrastructure, Transport and Tourism
 
 URL Source: https://www.mlit.go.jp/en/
 
-Published Time: Thu, 24 Sep 2026 05:09:41 GMT
+Published Time: Mon, 28 Sep 2026 05:34:58 GMT
 
 Markdown Content:
 # [![Image 1: Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/common/000236353.png)](https://www.mlit.go.jp/en/)
@@ -81,6 +81,8 @@ Markdown Content:
 *   ![Image 44](https://www.mlit.go.jp/en/content/001410451.jpg)
 
 *   ![Image 45](https://www.mlit.go.jp/en/content/0426_screenshot.png)
+
+*   [JOINT STATEMENT ON COOPERATION BETWEEN THE MINISTRY OF LAND, INFRASTRUCTURE, TRANSPORT AND TOURISM OF JAPAN AND ENTERPRISE SINGAPORE ON MARKET ENTRY AND COOPERATION, FOCUSING ON COASTAL PROTECTION AND CLIMATE CHANGE ADAPTATION(2026/9/28)](https://www.mlit.go.jp/en/report/press/sogo07_hh_000010.html)
 
 *   [Accelerating Japan-U.S. Joint R&D on AI Shipbuilding Technologies(2026/9/24)](https://www.mlit.go.jp/en/report/press/kaiji05_hh_000005.html)
 
