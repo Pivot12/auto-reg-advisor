@@ -52,7 +52,7 @@ EU official languages
 
 Other languages
 
-*   [uk yкраїнська](https://single-market-economy.ec.europa.eu/sectors/automotive-industry_uk)
+[uk yкраїнська](https://single-market-economy.ec.europa.eu/sectors/automotive-industry_uk)
 
 [](https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en)
 
@@ -221,7 +221,7 @@ Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs
 
  Contact us 
 
-*   [Contact our DG](https://single-market-economy.ec.europa.eu/contact-us_en)
+[Contact our DG](https://single-market-economy.ec.europa.eu/contact-us_en)
 
  About us 
 
@@ -240,7 +240,7 @@ Follow the European Commission
 *   [Youtube](https://www.youtube.com/user/eutube)
 *   [Other](https://european-union.europa.eu/contact-eu/social-media-channels_en)
 
-*   [Contact us](https://commission.europa.eu/about/contact_en)
+[Contact us](https://commission.europa.eu/about/contact_en)
 
 *   [Report an IT vulnerability](https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_en)
 *   [Languages on our websites](https://commission.europa.eu/languages-our-websites_en)
