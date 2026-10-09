@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Thu, 08 Oct 2026 06:20:00 GMT
+Published Time: Fri, 09 Oct 2026 08:24:19 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1017,9 +1017,7 @@ Mobile MENU
 
             *   [Regional Roads Australia Mobile Program](https://www.infrastructure.gov.au/media-communications/phone/mobile-services-and-coverage/regional-roads-australia-mobile-program)
 
-        *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-bills-and-charges)Expand _Phone bills and charges_ sub menu
-            *   [Mobile premium services](https://www.infrastructure.gov.au/media-technology-communications/phone/phone-bills-charges/mobile-premium-services)
-
+        *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications/phone/consumer-protections)
         *   [Phone numbers](https://www.infrastructure.gov.au/media-communications/phone/phone-numbers)
         *   [Phone services](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services)Expand _Phone services_ sub menu
             *   [Consumer protection](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/consumer-protection)
@@ -2244,9 +2242,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
             *   [Regional Roads Australia Mobile Program](https://www.infrastructure.gov.au/media-communications/phone/mobile-services-and-coverage/regional-roads-australia-mobile-program)
 
-        *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-bills-and-charges)
-            *   [Mobile premium services](https://www.infrastructure.gov.au/media-technology-communications/phone/phone-bills-charges/mobile-premium-services)
-
+        *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications/phone/consumer-protections)
         *   [Phone numbers](https://www.infrastructure.gov.au/media-communications/phone/phone-numbers)
         *   [Phone services](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services)
             *   [Consumer protection](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/consumer-protection)
