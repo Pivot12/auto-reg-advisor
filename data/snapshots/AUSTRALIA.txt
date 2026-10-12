@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 11 Oct 2026 05:09:41 GMT
+Published Time: Mon, 12 Oct 2026 06:40:49 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -662,6 +662,7 @@ Mobile MENU
         *   [Reporting a vehicle safety or non-compliance issue](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/reporting-vehicle-safety-or-non-compliance-issue)
         *   [Vehicle portals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/vehicle-portals)Expand _Vehicle portals_ sub menu
             *   [ROVER releases](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases)Expand _ROVER releases_ sub menu
+                *   [ROVER Release 12](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-12)
                 *   [ROVER Release 11](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-11)
                 *   [ROVER Release 10](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-10)
                 *   [ROVER Release 9.3](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-93)
@@ -1887,6 +1888,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Reporting a vehicle safety or non-compliance issue](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/reporting-vehicle-safety-or-non-compliance-issue)
         *   [Vehicle portals](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation/vehicle-portals)
             *   [ROVER releases](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases)
+                *   [ROVER Release 12](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-12)
                 *   [ROVER Release 11](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-11)
                 *   [ROVER Release 10](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-10)
                 *   [ROVER Release 9.3](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-portals/rover-releases/rover-release-93)
