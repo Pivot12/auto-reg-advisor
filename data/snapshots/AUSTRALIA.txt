@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 12 Oct 2026 06:40:49 GMT
+Published Time: Tue, 13 Oct 2026 13:59:04 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -395,7 +395,7 @@ Mobile MENU
                             *   [March](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-march-2026)
                             *   [February](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-february-2026)
                             *   [January](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-january-2026)
-                            *   [TLAVs received—October 2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-october-2026)
+                            *   [October 2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-october-2026)
 
                         *   [2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2025)Expand _2025_ sub menu
                             *   [December](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2025/tlavs-received-december-2025)
@@ -511,7 +511,9 @@ Mobile MENU
             *   [Certified road-friendly suspensions](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/roads/heavy-vehicle-regulation/certified-road-friendly-suspensions)
 
     *   [Transport accessibility](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility)Expand _Transport accessibility_ sub menu
-        *   [Reform of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reform-disability-standards-accessible-public-transport-2002-transport-standards)
+        *   [Reform of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reform-disability-standards-accessible-public-transport-2002-transport-standards)Expand _Reform of the Transport Standards_ sub menu
+            *   [Background information—Reform of the Disability Standards for Accessible Public Transport 2002 (Transport Standards)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reform-transport-standards/background-information-reform-disability-standards-accessible-public-transport-2002-transport)
+
         *   [Reviews of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards)Expand _Reviews of the Transport Standards_ sub menu
             *   [2007 Review of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards/2007-review-transport-standards)
             *   [2012 Review of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards/2012-review-transport-standards)
@@ -527,6 +529,7 @@ Mobile MENU
             *   [Disability Access Facilitation Plans](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-accessibility/dafp)
 
         *   [Equivalent access](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/equivalent-access)
+        *   [Reforms to improve the accessibility of rideshare and taxi services](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reforms-improve-accessibility-rideshare-and-taxi-services)
         *   [What are the Disability Standards for Accessible Public Transport 2002 (Transport Standards)?](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/transport-disability-standards)
 
     *   [Transport strategy & policy](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy)Expand _Transport strategy & policy_ sub menu
@@ -1621,7 +1624,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                             *   [March](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-march-2026)
                             *   [February](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-february-2026)
                             *   [January](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-january-2026)
-                            *   [TLAVs received—October 2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-october-2026)
+                            *   [October 2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2026/tlavs-received-october-2026)
 
                         *   [2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/tlavs-received-2025)
                             *   [December](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/maritime/supporting-australian-maritime/coastal-trading/reporting-and-publications/tlavs-received/2025/tlavs-received-december-2025)
@@ -1738,6 +1741,8 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
     *   [Transport accessibility](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility)
         *   [Reform of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reform-disability-standards-accessible-public-transport-2002-transport-standards)
+            *   [Background information—Reform of the Disability Standards for Accessible Public Transport 2002 (Transport Standards)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reform-transport-standards/background-information-reform-disability-standards-accessible-public-transport-2002-transport)
+
         *   [Reviews of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards)
             *   [2007 Review of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards/2007-review-transport-standards)
             *   [2012 Review of the Transport Standards](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reviews-transport-standards/2012-review-transport-standards)
@@ -1753,6 +1758,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Disability Access Facilitation Plans](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-accessibility/dafp)
 
         *   [Equivalent access](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/equivalent-access)
+        *   [Reforms to improve the accessibility of rideshare and taxi services](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/reforms-improve-accessibility-rideshare-and-taxi-services)
         *   [What are the Disability Standards for Accessible Public Transport 2002 (Transport Standards)?](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/transport-disability-standards)
 
     *   [Transport strategy & policy](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-strategy-policy)
