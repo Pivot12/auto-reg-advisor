@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 19 Oct 2026 12:16:00 GMT
+Published Time: Tue, 20 Oct 2026 07:01:12 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1118,6 +1118,7 @@ Mobile MENU
         *   [Prominence for connected TV devices](https://www.infrastructure.gov.au/media-communications/television/prominence-connected-television-devices)
         *   [Anti-siphoning](https://www.infrastructure.gov.au/media-communications/television/anti-siphoning)
         *   [Narrowcast television](https://www.infrastructure.gov.au/media-communications/television/narrowcast-television)
+        *   [Shortland Household Television Reception Initiative](https://www.infrastructure.gov.au/media-communications/television/shortland-household-television-reception-initiative)
         *   [Television research and surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
 
     *   [First Nations Digital Inclusion](https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion)Expand _First Nations Digital Inclusion_ sub menu
@@ -2348,6 +2349,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Prominence for connected TV devices](https://www.infrastructure.gov.au/media-communications/television/prominence-connected-television-devices)
         *   [Anti-siphoning](https://www.infrastructure.gov.au/media-communications/television/anti-siphoning)
         *   [Narrowcast television](https://www.infrastructure.gov.au/media-communications/television/narrowcast-television)
+        *   [Shortland Household Television Reception Initiative](https://www.infrastructure.gov.au/media-communications/television/shortland-household-television-reception-initiative)
         *   [Television research and surveys](https://www.infrastructure.gov.au/media-communications/television/television-research-and-surveys)
 
     *   [First Nations Digital Inclusion](https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion)
