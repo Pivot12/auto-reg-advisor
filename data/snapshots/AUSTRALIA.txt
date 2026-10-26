@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 25 Oct 2026 04:25:17 GMT
+Published Time: Mon, 26 Oct 2026 05:37:08 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -69,7 +69,7 @@ Mobile MENU
             *   [Review of Sydney Airport Demand Management Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/harris-review-sydney-airport-demand-management-scheme)Expand _Review of Sydney Airport Demand Management Scheme_ sub menu
                 *   [Australian Privacy Principle 5 Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/airports/review-sydney-airport-demand-management-scheme/privacy-notice)
 
-            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)Expand _Western Sydney International Airport_ sub menu
+            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)Expand _Western Sydney International Airport_ sub menu
                 *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
                 *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)Expand _Environment and heritage_ sub menu
                     *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
@@ -298,7 +298,7 @@ Mobile MENU
             *   [Tamworth Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program/tamworth-airport)
             *   [Townsville Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program/townsville-airport)
 
-    *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)
+    *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)
     *   [Brisbane 2032 Olympic and Paralympic Games](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/brisbane-2032-olympic-paralympic-games)
     *   [Freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight)Expand _Freight_ sub menu
         *   [Air freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/air-freight)
@@ -1300,7 +1300,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Review of Sydney Airport Demand Management Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/harris-review-sydney-airport-demand-management-scheme)
                 *   [Australian Privacy Principle 5 Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/airports/review-sydney-airport-demand-management-scheme/privacy-notice)
 
-            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)
+            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)
                 *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
                 *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)
                     *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
@@ -1529,7 +1529,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
             *   [Tamworth Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program/tamworth-airport)
             *   [Townsville Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/pfas-airports-investigation-program/townsville-airport)
 
-    *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-airport)
+    *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)
     *   [Brisbane 2032 Olympic and Paralympic Games](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/brisbane-2032-olympic-paralympic-games)
     *   [Freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight)
         *   [Air freight](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/freight/air-freight)
