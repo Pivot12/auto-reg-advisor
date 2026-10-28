@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Tue, 27 Oct 2026 07:30:40 GMT
+Published Time: Wed, 28 Oct 2026 12:11:28 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -41,6 +41,61 @@ Mobile MENU
 
         *   [Airports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports)Expand _Airports_ sub menu
             *   [Demand Management at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/demand-management-sydney-airport)
+            *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise)Expand _Aircraft noise_ sub menu
+                *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/aircraft-noise-regulations)
+                *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews)Expand _Airport curfews_ sub menu
+                    *   [Airport Curfew Manual](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews/airport-curfew-manual)
+                    *   [Curfew Dispensation Reports tabled in Parliament](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament)Expand _Curfew Dispensation Reports tabled in Parliament_ sub menu
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2008](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2008)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2009](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2009)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2010)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2011](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2011)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2012)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2013](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2013)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2014](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2014)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2015](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2015)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2016](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2016)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2017](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2017)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2018](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2018)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2019](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2019)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2020](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2020)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2021](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2021)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2022](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2022)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2023](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2023)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2024](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2024)
+                        *   [Curfew Dispensation Reports tabled in Parliament—2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2025)
+                        *   [Curfew Dispensation Reports tabled in Parliament—2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2026)
+
+                    *   [Curfew dispensation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews/curfew-dispensation)
+                    *   [Curfew information for Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide)Expand _Curfew information for Adelaide Airport_ sub menu
+                        *   [Adelaide Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/factsheet)
+                        *   [Adelaide Airport report for not using runway 05](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/runway05)
+                        *   [Curfew at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/overview)
+                        *   [Guidelines for the granting of dispensations at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/dispensations)
+
+                    *   [Curfew information for Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields)Expand _Curfew information for Essendon Fields Airport_ sub menu
+                        *   [Curfew at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/overview)
+                        *   [Guidelines for the granting of dispensations at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/dispensations)
+
+                    *   [Curfew information for Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast)Expand _Curfew information for Gold Coast Airport_ sub menu
+                        *   [Curfew at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/overview)
+                        *   [Gold Coast Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/factsheet)
+                        *   [Gold Coast airport – application for domestic passenger jet aircraft movement quota](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota)
+                        *   [Gold Coast airport—domestic passenger jet aircraft movement quota report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota-report)
+                        *   [Guidelines for the granting of dispensations at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/dispensations)
+
+                    *   [Curfew information for Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney)Expand _Curfew information for Sydney Airport_ sub menu
+                        *   [Curfew at Sydney Kingsford Smith Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/overview)
+                        *   [Guidelines for the granting of dispensations at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/dispensations)
+                        *   [Notification of a missed approach at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/missed-approach)
+                        *   [Notification of reverse thrust during Sydney Airport curfew](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/reverse-thrust)
+
+                    *   [Online forms Help pages](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/forms-help)
+
+                *   [Application for noise permit for historical aircraft](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-noise-permit-historical-aircraft)
+                *   [Application for non-scheduled flight – noise permission](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-non-scheduled-flight-noise-permission)
+                *   [Application for permission to operate without a noise certificate (adventure flights/airshows)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-permission-operate-without-noise-certificate-adventure-flightsairshows)
+
             *   [Airport Building Control](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls)Expand _Airport Building Control_ sub menu
                 *   [Airport Building Control Online (ABCO)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls/abc-online)
                 *   [Airport Building Control—FAQs](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls/faq)
@@ -101,61 +156,6 @@ Mobile MENU
 
         *   [Aviation safety](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety)Expand _Aviation safety_ sub menu
             *   [Air cargo security](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/air-cargo-security)
-            *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise)Expand _Aircraft noise_ sub menu
-                *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/regulations)
-                *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews)Expand _Airport curfews_ sub menu
-                    *   [Airport Curfew Manual](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/manual)
-                    *   [Curfew Dispensation Reports tabled in Parliament](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament)Expand _Curfew Dispensation Reports tabled in Parliament_ sub menu
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2008](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2008)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2009](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2009)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2010)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2011](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2011)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2012)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2013](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2013)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2014](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2014)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2015](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2015)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2016](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2016)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2017](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2017)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2018](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2018)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2019](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2019)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2020](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2020)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2021](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2021)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2022](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2022)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2023](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2023)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2024](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2024)
-                        *   [Curfew Dispensation Reports tabled in Parliament—2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2025)
-                        *   [Curfew Dispensation Reports tabled in Parliament—2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2026)
-
-                    *   [Curfew dispensation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/dispensation)
-                    *   [Curfew information for Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide)Expand _Curfew information for Adelaide Airport_ sub menu
-                        *   [Adelaide Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/factsheet)
-                        *   [Adelaide Airport report for not using runway 05](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/runway05)
-                        *   [Curfew at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/overview)
-                        *   [Guidelines for the granting of dispensations at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/dispensations)
-
-                    *   [Curfew information for Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields)Expand _Curfew information for Essendon Fields Airport_ sub menu
-                        *   [Curfew at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/overview)
-                        *   [Guidelines for the granting of dispensations at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/dispensations)
-
-                    *   [Curfew information for Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast)Expand _Curfew information for Gold Coast Airport_ sub menu
-                        *   [Curfew at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/overview)
-                        *   [Gold Coast Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/factsheet)
-                        *   [Gold Coast airport – application for domestic passenger jet aircraft movement quota](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota)
-                        *   [Gold Coast airport—domestic passenger jet aircraft movement quota report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota-report)
-                        *   [Guidelines for the granting of dispensations at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/dispensations)
-
-                    *   [Curfew information for Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney)Expand _Curfew information for Sydney Airport_ sub menu
-                        *   [Curfew at Sydney Kingsford Smith Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/overview)
-                        *   [Guidelines for the granting of dispensations at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/dispensations)
-                        *   [Notification of a missed approach at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/missed-approach)
-                        *   [Notification of reverse thrust during Sydney Airport curfew](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/reverse-thrust)
-
-                    *   [Online forms Help pages](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/forms-help)
-
-                *   [Application for noise permit for historical aircraft](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-historical-aircraft)
-                *   [Application for non-scheduled flight – noise permission](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-nonscheduled)
-                *   [Application for permission to operate without a noise certificate (adventure flights/airshows)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-airshows)
-
             *   [Australia's Aviation State Safety Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/australias-aviation-state-safety-programme-and-national-aviation-safety-plan)
             *   [Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations)Expand _Aviation Accident Investigations_ sub menu
                 *   [Committee Report into Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations/committee-report)
@@ -1272,6 +1272,61 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Airports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports)
             *   [Demand Management at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/demand-management-sydney-airport)
+            *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise)
+                *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/aircraft-noise-regulations)
+                *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews)
+                    *   [Airport Curfew Manual](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews/airport-curfew-manual)
+                    *   [Curfew Dispensation Reports tabled in Parliament](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2008](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2008)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2009](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2009)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2010)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2011](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2011)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2012)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2013](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2013)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2014](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2014)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2015](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2015)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2016](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2016)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2017](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2017)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2018](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2018)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2019](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2019)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2020](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2020)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2021](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2021)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2022](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2022)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2023](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2023)
+                        *   [Curfew Dispensation Reports tabled in Parliament – 2024](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2024)
+                        *   [Curfew Dispensation Reports tabled in Parliament—2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2025)
+                        *   [Curfew Dispensation Reports tabled in Parliament—2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2026)
+
+                    *   [Curfew dispensation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews/curfew-dispensation)
+                    *   [Curfew information for Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide)
+                        *   [Adelaide Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/factsheet)
+                        *   [Adelaide Airport report for not using runway 05](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/runway05)
+                        *   [Curfew at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/overview)
+                        *   [Guidelines for the granting of dispensations at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/dispensations)
+
+                    *   [Curfew information for Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields)
+                        *   [Curfew at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/overview)
+                        *   [Guidelines for the granting of dispensations at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/dispensations)
+
+                    *   [Curfew information for Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast)
+                        *   [Curfew at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/overview)
+                        *   [Gold Coast Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/factsheet)
+                        *   [Gold Coast airport – application for domestic passenger jet aircraft movement quota](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota)
+                        *   [Gold Coast airport—domestic passenger jet aircraft movement quota report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota-report)
+                        *   [Guidelines for the granting of dispensations at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/dispensations)
+
+                    *   [Curfew information for Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney)
+                        *   [Curfew at Sydney Kingsford Smith Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/overview)
+                        *   [Guidelines for the granting of dispensations at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/dispensations)
+                        *   [Notification of a missed approach at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/missed-approach)
+                        *   [Notification of reverse thrust during Sydney Airport curfew](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/reverse-thrust)
+
+                    *   [Online forms Help pages](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/forms-help)
+
+                *   [Application for noise permit for historical aircraft](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-noise-permit-historical-aircraft)
+                *   [Application for non-scheduled flight – noise permission](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-non-scheduled-flight-noise-permission)
+                *   [Application for permission to operate without a noise certificate (adventure flights/airshows)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/application-permission-operate-without-noise-certificate-adventure-flightsairshows)
+
             *   [Airport Building Control](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls)
                 *   [Airport Building Control Online (ABCO)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls/abc-online)
                 *   [Airport Building Control—FAQs](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/airport-building-controls/faq)
@@ -1332,61 +1387,6 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Aviation safety](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety)
             *   [Air cargo security](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/air-cargo-security)
-            *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise)
-                *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/regulations)
-                *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews)
-                    *   [Airport Curfew Manual](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/manual)
-                    *   [Curfew Dispensation Reports tabled in Parliament](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2008](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2008)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2009](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2009)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2010](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2010)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2011](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2011)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2012](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2012)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2013](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2013)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2014](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2014)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2015](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2015)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2016](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2016)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2017](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2017)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2018](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2018)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2019](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2019)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2020](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2020)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2021](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2021)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2022](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/tabled-reports/2022)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2023](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2023)
-                        *   [Curfew Dispensation Reports tabled in Parliament – 2024](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2024)
-                        *   [Curfew Dispensation Reports tabled in Parliament—2025](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2025)
-                        *   [Curfew Dispensation Reports tabled in Parliament—2026](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/curfew-dispensation-reports-tabled-parliament/curfew-dispensation-reports-tabled-parliament-2026)
-
-                    *   [Curfew dispensation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/dispensation)
-                    *   [Curfew information for Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide)
-                        *   [Adelaide Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/factsheet)
-                        *   [Adelaide Airport report for not using runway 05](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/runway05)
-                        *   [Curfew at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/overview)
-                        *   [Guidelines for the granting of dispensations at Adelaide Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/adelaide/dispensations)
-
-                    *   [Curfew information for Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields)
-                        *   [Curfew at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/overview)
-                        *   [Guidelines for the granting of dispensations at Essendon Fields Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/essendon-fields/dispensations)
-
-                    *   [Curfew information for Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast)
-                        *   [Curfew at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/overview)
-                        *   [Gold Coast Airport curfew factsheet](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/factsheet)
-                        *   [Gold Coast airport – application for domestic passenger jet aircraft movement quota](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota)
-                        *   [Gold Coast airport—domestic passenger jet aircraft movement quota report](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/quota-report)
-                        *   [Guidelines for the granting of dispensations at Gold Coast Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/gold-coast/dispensations)
-
-                    *   [Curfew information for Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney)
-                        *   [Curfew at Sydney Kingsford Smith Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/overview)
-                        *   [Guidelines for the granting of dispensations at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/dispensations)
-                        *   [Notification of a missed approach at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/missed-approach)
-                        *   [Notification of reverse thrust during Sydney Airport curfew](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/sydney/reverse-thrust)
-
-                    *   [Online forms Help pages](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/airport-curfews/forms-help)
-
-                *   [Application for noise permit for historical aircraft](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-historical-aircraft)
-                *   [Application for non-scheduled flight – noise permission](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-nonscheduled)
-                *   [Application for permission to operate without a noise certificate (adventure flights/airshows)](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aircraft-noise/noise-permission-airshows)
-
             *   [Australia's Aviation State Safety Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/australias-aviation-state-safety-programme-and-national-aviation-safety-plan)
             *   [Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations)
                 *   [Committee Report into Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations/committee-report)
