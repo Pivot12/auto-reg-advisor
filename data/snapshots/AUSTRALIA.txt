@@ -1,8 +1,8 @@
-Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 08 Nov 2026 08:25:18 GMT
+Published Time: Wed, 11 Nov 2026 16:45:15 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -1025,9 +1025,8 @@ Mobile MENU
 
         *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications/phone/consumer-protections)
         *   [Phone numbers](https://www.infrastructure.gov.au/media-communications/phone/phone-numbers)
-        *   [Phone services](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services)Expand _Phone services_ sub menu
+        *   [Phone services](https://www.infrastructure.gov.au/media-communications/phone/phone-services)Expand _Phone services_ sub menu
             *   [Consumer protection](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/consumer-protection)
-            *   [Telecommunications consumer representation grants](https://www.infrastructure.gov.au/media-communications/phone/phone-services/telecommunications-consumer-representation-grants)
             *   [Universal Service Obligation](https://www.infrastructure.gov.au/media-communications/phone/phone-services/universal-service-obligation-voice-services)Expand _Universal Service Obligation_ sub menu
                 *   [Alternative Voice Services Trials Program](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/universal-service-obligation/alternative-voice-services-trials-program)
                 *   [Telecommunications contract and grant registers](https://www.infrastructure.gov.au/media-communications/phone/phone-services/universal-service-obligation/telecommunications-contract-and-grant-registers)
@@ -1159,6 +1158,8 @@ Mobile MENU
                 *   [National Audit of Mobile Coverage – Mobile Coverage Non-Alignments](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage/national-audit-mobile-coverage-mobile-coverage-non-alignments)
 
         *   [Regional Connectivity Ministers’ Roundtable](https://www.infrastructure.gov.au/media-communications-arts/regional-communications-programs/regional-connectivity-ministers-roundtable)
+
+    *   [Telecommunications consumer representation grants](https://www.infrastructure.gov.au/media-communications/telecommunications-consumer-representation-grants)
 
 *   [Sport](https://www.infrastructure.gov.au/sport)Expand _Sport_ sub menu
     *   [About sport](https://www.infrastructure.gov.au/sport/about-sport-australia)
@@ -2259,9 +2260,8 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Phone bills and charges](https://www.infrastructure.gov.au/media-communications/phone/consumer-protections)
         *   [Phone numbers](https://www.infrastructure.gov.au/media-communications/phone/phone-numbers)
-        *   [Phone services](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services)
+        *   [Phone services](https://www.infrastructure.gov.au/media-communications/phone/phone-services)
             *   [Consumer protection](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/consumer-protection)
-            *   [Telecommunications consumer representation grants](https://www.infrastructure.gov.au/media-communications/phone/phone-services/telecommunications-consumer-representation-grants)
             *   [Universal Service Obligation](https://www.infrastructure.gov.au/media-communications/phone/phone-services/universal-service-obligation-voice-services)
                 *   [Alternative Voice Services Trials Program](https://www.infrastructure.gov.au/media-communications-arts/phone/phone-services/universal-service-obligation/alternative-voice-services-trials-program)
                 *   [Telecommunications contract and grant registers](https://www.infrastructure.gov.au/media-communications/phone/phone-services/universal-service-obligation/telecommunications-contract-and-grant-registers)
@@ -2393,6 +2393,8 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                 *   [National Audit of Mobile Coverage – Mobile Coverage Non-Alignments](https://www.infrastructure.gov.au/media-communications/regional-communications-programs/better-connectivity-plan-regional-and-rural-australia/national-audit-mobile-coverage/national-audit-mobile-coverage-mobile-coverage-non-alignments)
 
         *   [Regional Connectivity Ministers’ Roundtable](https://www.infrastructure.gov.au/media-communications-arts/regional-communications-programs/regional-connectivity-ministers-roundtable)
+
+    *   [Telecommunications consumer representation grants](https://www.infrastructure.gov.au/media-communications/telecommunications-consumer-representation-grants)
 
 *   [Sport](https://www.infrastructure.gov.au/sport)
     *   [About sport](https://www.infrastructure.gov.au/sport/about-sport-australia)
