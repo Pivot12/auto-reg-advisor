@@ -2,14 +2,10 @@ Title: Vehicle design regulation
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Sun, 15 Nov 2026 12:59:30 GMT
+Published Time: Tue, 17 Nov 2026 14:19:59 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
-
-The department’s systems are impacted by the [global Microsoft outage](https://status.cloud.microsoft/Office), restricting our ability to send or receive emails.
-
-×
 
 [![Image 1: Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, logo of](https://www.infrastructure.gov.au/themes/custom/custom/ditrdc/logo.svg)](https://www.infrastructure.gov.au/)
 
@@ -1132,6 +1128,7 @@ Mobile MENU
     *   [Media Industry Programs](https://www.infrastructure.gov.au/media-communications/media-industry-programs)Expand _Media Industry Programs_ sub menu
         *   [Amplifying Australia’s Voice in the Pacific](https://www.infrastructure.gov.au/media-communications/media-industry-programs/amplifying-australias-voice-pacific)
         *   [Community Broadcasting Program](https://www.infrastructure.gov.au/media-communications-arts/media-industry-programs/community-broadcasting-program)
+        *   [News Journalism Payments Scheme](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-journalism-payments-scheme)
         *   [News Media Assistance Program (News MAP)](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program)Expand _News Media Assistance Program (News MAP)_ sub menu
             *   [Strengthening connections through community media](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/strengthening-connections-through-community-media)
             *   [Successful applicants—News Innovation Fund](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/successful-applicants-news-innovation-fund)
@@ -2367,6 +2364,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
     *   [Media Industry Programs](https://www.infrastructure.gov.au/media-communications/media-industry-programs)
         *   [Amplifying Australia’s Voice in the Pacific](https://www.infrastructure.gov.au/media-communications/media-industry-programs/amplifying-australias-voice-pacific)
         *   [Community Broadcasting Program](https://www.infrastructure.gov.au/media-communications-arts/media-industry-programs/community-broadcasting-program)
+        *   [News Journalism Payments Scheme](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-journalism-payments-scheme)
         *   [News Media Assistance Program (News MAP)](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program)
             *   [Strengthening connections through community media](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/strengthening-connections-through-community-media)
             *   [Successful applicants—News Innovation Fund](https://www.infrastructure.gov.au/media-communications/media-industry-programs/news-media-assistance-program-news-map/successful-applicants-news-innovation-fund)
