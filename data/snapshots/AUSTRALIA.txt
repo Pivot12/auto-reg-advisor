@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Tue, 17 Nov 2026 14:19:59 GMT
+Published Time: Wed, 18 Nov 2026 17:23:57 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -958,7 +958,6 @@ Mobile MENU
         *   [Universal Service Guarantee for telecommunications](https://www.infrastructure.gov.au/media-communications/internet/universal-access-broadband-services)
         *   [World Summit on the Information Society (WSIS)](https://www.infrastructure.gov.au/media-communications/internet/world-summit-information-society-wsis)
         *   [International Telecommunication Union](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union)Expand _International Telecommunication Union_ sub menu
-            *   [Australia for ITU Council 2026](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australia-itu-council-2026)
             *   [Australian-funded ITU development projects](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australian-funded-itu-development-projects)
 
     *   [Media, gambling laws & regulation](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)Expand _Media, gambling laws & regulation_ sub menu
@@ -2194,7 +2193,6 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
         *   [Universal Service Guarantee for telecommunications](https://www.infrastructure.gov.au/media-communications/internet/universal-access-broadband-services)
         *   [World Summit on the Information Society (WSIS)](https://www.infrastructure.gov.au/media-communications/internet/world-summit-information-society-wsis)
         *   [International Telecommunication Union](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union)
-            *   [Australia for ITU Council 2026](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australia-itu-council-2026)
             *   [Australian-funded ITU development projects](https://www.infrastructure.gov.au/media-communications/internet/international-telecommunication-union/australian-funded-itu-development-projects)
 
     *   [Media, gambling laws & regulation](https://www.infrastructure.gov.au/media-communications/media-gambling-laws-regulation)

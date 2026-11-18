@@ -2,7 +2,7 @@ Title: Ministry of Land, Infrastructure, Transport and Tourism
 
 URL Source: https://www.mlit.go.jp/en/
 
-Published Time: Tue, 10 Nov 2026 05:55:22 GMT
+Published Time: Wed, 18 Nov 2026 05:55:12 GMT
 
 Markdown Content:
 # [![Image 1: Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/common/000236353.png)](https://www.mlit.go.jp/en/)
@@ -81,6 +81,8 @@ Markdown Content:
 *   ![Image 44](https://www.mlit.go.jp/en/content/001410451.jpg)
 
 *   ![Image 45](https://www.mlit.go.jp/en/content/0426_screenshot.png)
+
+*   [Japan and U.S. Further Enhance Shipbuilding Human Resource Development ---Yokohama National University and San Diego State University Signed MOU---(2026/11/18)](https://www.mlit.go.jp/en/report/press/kaiji01_hh_000008.html)
 
 *   [IMO Decided to Renew Mandate of Secretary-General A. Dominguez--- 138th Session of IMO Council ---(2026/11/10)](https://www.mlit.go.jp/en/report/press/kaiji01_hh_000007.html)
 
