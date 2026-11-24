@@ -1,8 +1,8 @@
-Title: Vehicle design regulation
+Title: Vehicle design regulation | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Mon, 23 Nov 2026 20:41:42 GMT
+Published Time: Tue, 24 Nov 2026 15:10:13 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -156,6 +156,7 @@ Mobile MENU
 
         *   [Aviation safety](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety)Expand _Aviation safety_ sub menu
             *   [Air cargo security](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/air-cargo-security)
+            *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/airspace-regulation)
             *   [Australia's Aviation State Safety Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/australias-aviation-state-safety-programme-and-national-aviation-safety-plan)
             *   [Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations)Expand _Aviation Accident Investigations_ sub menu
                 *   [Committee Report into Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations/committee-report)
@@ -175,8 +176,7 @@ Mobile MENU
                     *   [Review – National Airports Safeguarding Framework implementation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/national-airports-safeguarding-framework/review-national-airports-safeguarding-framework-implementation)
                     *   [Review – National Airports Safeguarding Framework implementation submissions](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/national-airports-safeguarding-framework/review-national-airports-safeguarding-framework-implementation-submissions)
 
-                *   [Protection of airspace](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace)Expand _Protection of airspace_ sub menu
-                    *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace/airspace-regulation)
+                *   [Protection of airspace](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace)
 
             *   [Sydney Airport Air Traffic Control Working Group](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group)
 
@@ -1391,6 +1391,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Aviation safety](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety)
             *   [Air cargo security](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/air-cargo-security)
+            *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/airspace-regulation)
             *   [Australia's Aviation State Safety Programme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/australias-aviation-state-safety-programme-and-national-aviation-safety-plan)
             *   [Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations)
                 *   [Committee Report into Aviation Accident Investigations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-accident-investigations/committee-report)
@@ -1411,7 +1412,6 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
                     *   [Review – National Airports Safeguarding Framework implementation submissions](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/national-airports-safeguarding-framework/review-national-airports-safeguarding-framework-implementation-submissions)
 
                 *   [Protection of airspace](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace)
-                    *   [Airspace regulation](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/aviation-environmental-issues/protection-airspace/airspace-regulation)
 
             *   [Sydney Airport Air Traffic Control Working Group](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-safety/sydney-airport-air-traffic-control-working-group)
 
