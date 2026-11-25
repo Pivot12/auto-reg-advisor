@@ -333,7 +333,7 @@ This Website belongs to Ministry of Road Transport and Highways, Government of I
 
 [![Image 75: MyGov - Meri Sarkar](https://morth.gov.in/assets/images/mygovmerisarkar.webp)](https://www.mygov.in/)[![Image 76: National Portal Of India](https://morth.gov.in/assets/images/indiaportal.svg)](https://www.india.gov.in/)
 
-Last Updated On: Nov 24, 2026
+Last Updated On: Nov 25, 2026
 
 This website uses cookies to provide a better user experience.
 
