@@ -2,7 +2,7 @@ Title: Vehicle design regulation | Department of Infrastructure, Transport, Regi
 
 URL Source: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation
 
-Published Time: Wed, 25 Nov 2026 18:53:53 GMT
+Published Time: Thu, 26 Nov 2026 18:42:57 GMT
 
 Markdown Content:
 [Skip to main content](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-design-regulation#main-content)
@@ -41,6 +41,17 @@ Mobile MENU
 
         *   [Airports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports)Expand _Airports_ sub menu
             *   [Demand Management at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/demand-management-sydney-airport)
+            *   [About Western Sydney International (Nancy-Bird Walton) Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)Expand _About Western Sydney International (Nancy-Bird Walton) Airport_ sub menu
+                *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
+                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)Expand _Environment and heritage_ sub menu
+                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
+                    *   [Environmental Impact Statement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-environmental-impact-statement)
+
+                *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
+                *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
+                *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
+                *   [WSI Noise Insulation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-noise-insulation-program)
+
             *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise)Expand _Aircraft noise_ sub menu
                 *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/aircraft-noise-regulations)
                 *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews)Expand _Airport curfews_ sub menu
@@ -123,17 +134,6 @@ Mobile MENU
 
             *   [Review of Sydney Airport Demand Management Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/harris-review-sydney-airport-demand-management-scheme)Expand _Review of Sydney Airport Demand Management Scheme_ sub menu
                 *   [Australian Privacy Principle 5 Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/airports/review-sydney-airport-demand-management-scheme/privacy-notice)
-
-            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)Expand _Western Sydney International Airport_ sub menu
-                *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
-                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)Expand _Environment and heritage_ sub menu
-                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
-                    *   [Environmental Impact Statement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-environmental-impact-statement)
-
-                *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
-                *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
-                *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
-                *   [WSI Noise Insulation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-noise-insulation-program)
 
         *   [Aviation COVID-19 response](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/covid19-response)Expand _Aviation COVID-19 response_ sub menu
             *   [COVID-19 and passengers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/covid19-response/passengers)
@@ -1167,6 +1167,7 @@ Mobile MENU
     *   [Elite and high performance sport](https://www.infrastructure.gov.au/sport/elite-and-high-performance-sport)
     *   [How we support sport](https://www.infrastructure.gov.au/sport/how-we-support-sport)
     *   [Major sporting events](https://www.infrastructure.gov.au/sport/major-sporting-events)Expand _Major sporting events_ sub menu
+        *   [AFC Women's Asian Cup Australia 2026](https://www.infrastructure.gov.au/sport/major-sporting-events/afc-womens-asian-cup-australia-2026)
         *   [FIBA Women’s Basketball World Cup 2022](https://www.infrastructure.gov.au/sport/major-sporting-events/fiba-womens-basketball-world-cup-2022)
         *   [FIFA Women’s Football World Cup 2023](https://www.infrastructure.gov.au/sport/major-sporting-events/fifa-womens-football-world-cup-2023)
         *   [ICC Men’s T20 Cricket World Cup 2022](https://www.infrastructure.gov.au/sport/major-sporting-events/icc-mens-t20-cricket-world-cup-2022)
@@ -1276,6 +1277,17 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
         *   [Airports](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports)
             *   [Demand Management at Sydney Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/demand-management-sydney-airport)
+            *   [About Western Sydney International (Nancy-Bird Walton) Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)
+                *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
+                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)
+                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
+                    *   [Environmental Impact Statement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-environmental-impact-statement)
+
+                *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
+                *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
+                *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
+                *   [WSI Noise Insulation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-noise-insulation-program)
+
             *   [Aircraft noise](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise)
                 *   [Aircraft noise regulations](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/aircraft-noise-regulations)
                 *   [Airport curfews](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/aircraft-noise/airport-curfews)
@@ -1358,17 +1370,6 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
 
             *   [Review of Sydney Airport Demand Management Scheme](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/harris-review-sydney-airport-demand-management-scheme)
                 *   [Australian Privacy Principle 5 Notice](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/airports/review-sydney-airport-demand-management-scheme/privacy-notice)
-
-            *   [Western Sydney International Airport](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/about-western-sydney-international-nancy-bird-walton-airport)
-                *   [Airport Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-airport-plan)
-                *   [Environment and heritage](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-environment-and-heritage)
-                    *   [Biodiversity Offset Delivery Plan](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-biodiversity-offset-delivery-plan)
-                    *   [Environmental Impact Statement](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/environment-and-heritage/wsi-environmental-impact-statement)
-
-                *   [Transport and Planning](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-transport-and-planning)
-                *   [Resources](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/wsi-resources)
-                *   [WSI Flight paths](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-flight-paths)
-                *   [WSI Noise Insulation Program](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/airports/western-sydney-international-airport/western-sydney-international-airport-noise-insulation-program)
 
         *   [Aviation COVID-19 response](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/covid19-response)
             *   [COVID-19 and passengers](https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/covid19-response/passengers)
@@ -2402,6 +2403,7 @@ _Aboriginal and Torres Strait Islander people are advised that this website may 
     *   [Elite and high performance sport](https://www.infrastructure.gov.au/sport/elite-and-high-performance-sport)
     *   [How we support sport](https://www.infrastructure.gov.au/sport/how-we-support-sport)
     *   [Major sporting events](https://www.infrastructure.gov.au/sport/major-sporting-events)
+        *   [AFC Women's Asian Cup Australia 2026](https://www.infrastructure.gov.au/sport/major-sporting-events/afc-womens-asian-cup-australia-2026)
         *   [FIBA Women’s Basketball World Cup 2022](https://www.infrastructure.gov.au/sport/major-sporting-events/fiba-womens-basketball-world-cup-2022)
         *   [FIFA Women’s Football World Cup 2023](https://www.infrastructure.gov.au/sport/major-sporting-events/fifa-womens-football-world-cup-2023)
         *   [ICC Men’s T20 Cricket World Cup 2022](https://www.infrastructure.gov.au/sport/major-sporting-events/icc-mens-t20-cricket-world-cup-2022)
